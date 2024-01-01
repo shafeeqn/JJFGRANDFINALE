@@ -1,8 +1,15 @@
 import React from 'react'
+import candidates from '@/data/candidates.json'
+import Candidate from '@/components/candidates/Candidate'
 
 const page = () => {
+
+  
   return (
-    <div>page</div>
+    
+    <div>page
+      <Candidate candidates={candidates as any} />
+    </div>
   )
 }
 

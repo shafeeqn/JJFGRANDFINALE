@@ -1,0 +1,110 @@
+[
+    {
+     "code": 1,
+     "name": "BADRIYYA HIFZUL QUR'AN, MADATHIKOVVAL, NARATAH",
+     "place": "MADATHIKOVVAL",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 2,
+     "name": "MARKAZUL ULAMA DARS VENMANAL",
+     "place": "VENMANAL",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 3,
+     "name": "SWAFA DARS KUMMAYAKKADAVU",
+     "place": "KUMMAYAKKADAVU",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 4,
+     "name": "MARKAZUL ULAMA DARS POTHUVACHERY",
+     "place": "POTHUVACHERY",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 5,
+     "name": "DARUL ULOOM AL ASNAVIYYA, CHERUKUNN",
+     "place": "CHERUKUNNU",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 6,
+     "name": "HIDAYATHU THWALABA DARS NOONHERI",
+     "place": "NOONHERI",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 7,
+     "name": "HALEEMATHU SA'ADIYYA, MATHAMANGALAM",
+     "place": "MATHAMANGALAM",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 8,
+     "name": "DA'WATHUL ISLAM DARS PALOTTUPALLY",
+     "place": "PALOTTUPALLY",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 9,
+     "name": "NIBRASU THWALABA DARS KAVVAYI",
+     "place": "VADIPPURAM",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 10,
+     "name": "MAMBAUL HIDAYA DARS VELIYAMBRA",
+     "place": "Veliyambra",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 11,
+     "name": "IMADUDDEEN DARS PAPPINISSERI WEST",
+     "place": "PAPPINISSERY WEST",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 12,
+     "name": "MANARUL HUDA DARS ELAYAVOOR VARAM",
+     "place": "VARAM",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 13,
+     "name": "IZZATHUL ISLAM DARS PUTHIYANGADI",
+     "place": "PUTHIYANGADI",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 14,
+     "name": "Markazul ulama dars, PUZHAKKARA IRITTY",
+     "place": "PUZHAKKARA, IRITTY",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 15,
+     "name": "SHARAFUL ISLAM DA'WA DARS PANNIYANKANDI",
+     "place": "PANNIYANKANDI, KAMBIL",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 16,
+     "name": "JUMA MASJID DARS MANGADAVU",
+     "place": "MANGADAVU",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 17,
+     "name": "MAMBAUL HIDAYA DARS PADANNOTT",
+     "place": "THAZHE PADANNOTT",
+     "zone": "KANNUR"
+    },
+    {
+     "code": 18,
+     "name": "MADHEENATHUNNOOR DARS PALLIPOYIL",
+     "place": "PALLIPPOYIL",
+     "zone": "KANNUR"
+    }
+   ]
