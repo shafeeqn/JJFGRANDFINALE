@@ -56,7 +56,6 @@ const Programs = (props: Props) => {
         </div>
       </label>
       <div className="flex flex-wrap gap-2 justify-center mt-3">
-        Programs
         {props.programs.map((c, index) => (
           // <div className='p-2 '>
           //     {c.name}
