@@ -33,6 +33,7 @@ interface Props {
     code: string;
     prg: string;
   }[];
+  programs: any[];
 }
 
 const Institution = (props: Props) => {
@@ -42,8 +43,19 @@ const Institution = (props: Props) => {
     router.push(`/institutions?search=${term}`);
   }, 1000);
 
+  function findCandidateCategory(candidateCode: any) {
+    const candidateProgramCode = props.candidatePrograms.filter(
+      (cp) => cp.code == candidateCode
+    )[0]?.prg;
+    const programCategory = props?.programs?.find(
+      (p) => p?.code == candidateProgramCode
+    )?.cat;
+    return programCategory;
+  }
+
   useEffect(() => {
     console.log(props.searchParams);
+    console.log(findCandidateCategory("KDY128"));
   }, []);
   return (
     <>
@@ -72,9 +84,6 @@ const Institution = (props: Props) => {
           </label>
           <div className="flex flex-wrap gap-2 justify-center mt-3">
             {props.institutions.map((instn, index) => (
-              // <div className='p-2 '>
-              //     {c.name}
-              // </div >
               <div
                 className="w-72 bg-secondary p-6 rounded-xl flex flex-col gap-2 items-start "
                 key={index}
@@ -119,7 +128,11 @@ const Institution = (props: Props) => {
             }
           </p>
           <div className="">
-            <div className="flex h-48 items-end mb-8 w-[1260px]">
+            <div
+              className={`flex h-48 items-end mb-8 w-[${
+                props.searchParams.category === "junior" ? "1260" : "1620"
+              }px]`}
+            >
               <div className="w-[400px] my-auto text-center">
                 <p className="text-2xl font-bold ">
                   {
@@ -129,123 +142,136 @@ const Institution = (props: Props) => {
                   }
                 </p>
                 <p className="font-bold mt-2">
-                  Program List for Junior Category
+                  Program List for {props.searchParams.category} Category
                 </p>
-                <p className="font-bold ">
-                  {
-                    props?.candidates?.filter(
-                      (cndt) => cndt?.dars == props?.searchParams?.institution
-                    )?.length
-                  }{" "}
-                  Candidates
+                <p className="font-bold">
+                  {(() => {
+                    const juniorCandidates = props.candidates.filter(
+                      (c) => findCandidateCategory(c.chest) === "J"
+                    );
+                    const seniorCandidates = props.candidates.filter(
+                      (c) => findCandidateCategory(c.chest) === "S"
+                    );
+
+                    return props.searchParams.category === "junior"
+                      ? `${
+                          juniorCandidates.filter(
+                            (jc) => jc.dars === props.searchParams.institution
+                          ).length
+                        } candidates`
+                      : `${
+                          seniorCandidates.filter(
+                            (sc) => sc.dars === props.searchParams.institution
+                          ).length
+                        } candidates`;
+                  })()}
                 </p>
               </div>
               <div className="">
                 <div className="flex whitespace-nowrap font-semibold">
-                  <p className="w-8 print:w-8 -rotate-90">ഖിറാഅത്ത്</p>
-                  <p className="w-8 print:w-8 -rotate-90">ഹിഫ്ള്</p>
-                  <p className="w-8 print:w-8 -rotate-90">വാങ്ക്</p>
-                  <p className="w-8 print:w-8 -rotate-90">പ്രസംഗം അറബി</p>
-                  <p className="w-8 print:w-8 -rotate-90">പ്രസംഗം മലയാളം</p>
-                  <p className="w-8 print:w-8 -rotate-90">പ്രസംഗം ഉറുദു</p>
-                  <p className="w-8 print:w-8 -rotate-90">പ്രസംഗം ഇംഗ്ലീഷ്</p>
-                  <p className="w-8 print:w-8 -rotate-90">ഗ്രന്ഥവായന</p>
-                  <p className="w-8 print:w-8 -rotate-90">ഗാനം അറബി</p>
-                  <p className="w-8 print:w-8 -rotate-90">മാപ്പിളപ്പാട്ട്</p>
-                  <p className="w-8 print:w-8 -rotate-90">മാലപ്പാട്ട്</p>
-                  <p className="w-8 print:w-8 -rotate-90">ഗാനം ഉറുദു</p>
-                  <p className="w-8 print:w-8 -rotate-90">കഥ പറച്ചില്‍</p>
-                  <p className="w-8 print:w-8 -rotate-90">ഗദ്യവായന മലയാളം</p>
-                  <p className="w-8 print:w-8 -rotate-90">മുശാഅറ</p>
-                  <p className="w-8 print:w-8 -rotate-90">പദപ്പയറ്റ് അറബി</p>
-                  <p className="w-8 print:w-8 -rotate-90">
-                    പദപ്പയറ്റ് ഇംഗ്ലീഷ്
-                  </p>
-                  <p className="w-8 print:w-8 -rotate-90">മദ്ഹുന്നബി</p>
-                  <p className="w-8 print:w-8 -rotate-90">അറബി സംഘഗാനം</p>
-                  <p className="w-8 print:w-8 -rotate-90">മലയാള സമൂഹ ഗാനം</p>
-                  <p className="w-8 print:w-8 -rotate-90">ചിത്രരചന</p>
-                  <p className="w-8 print:w-8 -rotate-90">സുഡോക്കു</p>
-                  <p className="w-8 print:w-8 -rotate-90">മെമ്മറി ടെസ്റ്റ്</p>
-                  <p className="w-8 print:w-8 -rotate-90">ഖത്തുന്നസ്ഖ്</p>
-                  <p className="w-8 print:w-8 -rotate-90">കേട്ടെഴുത്ത്</p>
-                  <p className="w-8 print:w-8 -rotate-90">
-                    പോസ്റ്റര്‍ ഡിസൈനിംഗ്
-                  </p>
-                  <p className="w-8 print:w-8 -rotate-90">
-                    നിഘണ്ടു നിര്‍മ്മാണം
-                  </p>
-                  <p className="w-8 print:w-8 -rotate-90">തശ്കീല്‍</p>
-                  <p className="w-8 print:w-8 -rotate-90">മലയാള പ്രബന്ധം</p>
-                  <p className="w-8 print:w-8 -rotate-90">പ്രശ്നോത്തരി</p>
+                  {props.programs
+                    .filter(
+                      (prgms) =>
+                        prgms?.cat ===
+                        `${
+                          props.searchParams.category === "junior" ? "J" : "S"
+                        }`
+                    )
+                    .map((p, index) => (
+                      <p key={index} className="w-8 print:w-8 -rotate-90">
+                        {p.name}
+                      </p>
+                    ))}
                 </div>
               </div>
             </div>
           </div>
-          {/* <div>
-            {darsData.map((v, i) => (
-              <div key={i} className="flex w-[1260px] ggg">
-                <p className="w-[64px] text-center line-clamp-1 font-semibold px-2">
-                  {v.code}
-                </p>
-                <p className="w-[340px] text-left line-clamp-1 font-semibold pl-2">
-                  {v.name}
-                </p>
-                <div className="">
-                  <div className="flex border-b border-slate-800">
-                    {Array.from({ length: 9 }, (_, index) => (
-                      <p
-                        key={index}
-                        className="w-8 print:w-8 h-5 even:bg-gray-200 font-bold"
-                      >
-                        {containsNumber1to9(
-                          [
-                            v.stage1,
-                            v.stage2,
-                            v.stage3,
-                            v.groupstage1,
-                            v.groupstage2,
-                            v.groupstage3,
-                            v.offstage1,
-                            v.offstage2,
-                            v.offstage3,
-                            v.groupoffstage,
-                          ],
-                          "0" + (index + 1)
-                        )
-                          ? "✓"
-                          : ""}
+          {(() => {
+            const juniorCandidates = props.candidates.filter(
+              (c) => findCandidateCategory(c.chest) === "J"
+            );
+            const seniorCandidates = props.candidates.filter(
+              (c) => findCandidateCategory(c.chest) === "S"
+            );
+
+            return props.searchParams.category === "junior"
+              ? juniorCandidates
+                  .filter((jc) => jc.dars === props.searchParams.institution)
+                  .map((jc, i) => (
+                    <div key={i} className="flex w-[1260px] ">
+                      <p className="w-[80px] text-center line-clamp-1 font-semibold px-2 border border-slate-800">
+                        {jc.chest}
                       </p>
-                    ))}
-                    {Array.from({ length: 21 }, (_, index) => (
-                      <p
-                        key={index}
-                        className="w-8 print:w-8 h-5 even:bg-gray-200 font-bold"
-                      >
-                        {containsNumber(
-                          [
-                            v.stage1,
-                            v.stage2,
-                            v.stage3,
-                            v.groupstage1,
-                            v.groupstage2,
-                            v.groupstage3,
-                            v.offstage1,
-                            v.offstage2,
-                            v.offstage3,
-                            v.groupoffstage,
-                          ],
-                          index + 1
-                        )
-                          ? "✓"
-                          : ""}
+                      <p className="w-[350px] text-left line-clamp-1 font-semibold pl-2  border border-slate-800">
+                        {jc.name}
                       </p>
-                    ))}
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div> */}
+                      <div className="">
+                        <div className="flex">
+                          {props.programs
+                            .filter(
+                              (prgms) =>
+                                prgms?.cat ===
+                                `${
+                                  props.searchParams.category === "junior"
+                                    ? "J"
+                                    : "S"
+                                }`
+                            )
+                            .map((p, index) => (
+                              <p
+                                key={i}
+                                className="w-8 print:w-8 h-5 even:bg-gray-200 font-bold border border-slate-800"
+                              >
+                                {props.candidatePrograms.map((cp) =>
+                                  cp.code === jc.chest && cp.prg === p.code
+                                    ? "✓"
+                                    : ""
+                                )}
+                              </p>
+                            ))}
+                        </div>
+                      </div>
+                    </div>
+                  ))
+              : seniorCandidates
+                  .filter((sc) => sc.dars === props.searchParams.institution)
+                  .map((sc, i) => (
+                    <div key={i} className="flex w-[1620px] ">
+                      <p className="w-[80px] text-center line-clamp-1 font-semibold px-2 border border-slate-800">
+                        {sc.chest}
+                      </p>
+                      <p className="w-[350px] text-left line-clamp-1 font-semibold pl-2  border border-slate-800">
+                        {sc.name}
+                      </p>
+                      <div className="">
+                        <div className="flex">
+                          {props.programs
+                            .filter(
+                              (prgms) =>
+                                prgms?.cat ===
+                                `${
+                                  props.searchParams.category === "junior"
+                                    ? "J"
+                                    : "S"
+                                }`
+                            )
+                            .map((p, index) => (
+                              <p
+                                key={i}
+                                className="w-8 print:w-8 h-5 even:bg-gray-200 font-bold border border-slate-800"
+                              >
+                                {props.candidatePrograms.map((cp) =>
+                                  cp.code === sc.chest && cp.prg === p.code
+                                    ? "✓"
+                                    : ""
+                                )}
+                              </p>
+                            ))}
+                        </div>
+                      </div>
+                    </div>
+                  ));
+          })()}
         </div>
       )}
     </>

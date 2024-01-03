@@ -31,7 +31,6 @@ const Candidate = (props: Props) => {
     router.push(`/candidates?search=${term}`);
   }, 1000);
 
-
   return (
     <div>
       <label className="flex gap-1 justify-center cursor-pointer w-full">
@@ -63,7 +62,7 @@ const Candidate = (props: Props) => {
           <div
             className="w-72 bg-secondary p-6 rounded-xl flex flex-col gap-2 items-start "
             key={index}
-            onClick={()=>{
+            onClick={() => {
               setSelectedCandidate(c);
               setViewIsOpen(true);
             }}
