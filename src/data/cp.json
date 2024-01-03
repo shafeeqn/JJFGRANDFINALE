@@ -1,19 +1,31 @@
 [
  {
   "code": "KDY128",
-  "prg": "JS1"
+  "prg": "JS1",
+  "pts": 8,
+  "position": 1,
+  "grade": "A"
  },
  {
   "code": "KDY269",
-  "prg": "JS1"
+  "prg": "JS1",
+  "pts": 7,
+  "position": 2,
+  "grade": "A"
  },
  {
   "code": "KDY140",
-  "prg": "JS2"
+  "prg": "JS2",
+  "pts": 8,
+  "position": 1,
+  "grade": "A"
  },
  {
   "code": "KDY283",
-  "prg": "JS2"
+  "prg": "JS2",
+  "pts": 7,
+  "position": 2,
+  "grade": "A"
  },
  {
   "code": "KDY302",
