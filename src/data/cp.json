@@ -197,7 +197,10 @@
  },
  {
   "code": "KDY128",
-  "prg": "JO24"
+  "prg": "JO24",
+  "grade": "A",
+  "pts": 5,
+  "position": 1
  },
  {
   "code": "KDY137",

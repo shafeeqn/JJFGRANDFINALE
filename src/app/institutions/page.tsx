@@ -4,7 +4,6 @@ import institutionsData from "@/data/institutions.json";
 import candidatesData from "@/data/candidates.json";
 import programsData from "@/data/programs.json";
 import candidateProgramsData from "@/data/cp.json";
-import programsData from "@/data/programs.json";
 
 const page = ({ params, searchParams }: any) => {
   const search = searchParams?.search || "";
