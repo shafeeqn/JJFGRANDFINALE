@@ -3,6 +3,7 @@ import programsData from "@/data/programs.json"
 import candidatesData from "@/data/candidates.json"
 import cp from "@/data/cp.json"
 import PrgList from '@/components/programs/PrgList'
+import JdgList from '@/components/programs/JdgList'
 
 const page = ({ params }: { params: { code: string } }) => {
     const code = params.code
@@ -24,7 +25,7 @@ const page = ({ params }: { params: { code: string } }) => {
 
   return (
     <div>
-      <PrgList program={cpWithProgram}/>
+      <JdgList program={cpWithProgram}/>
     </div>
   )
 }
