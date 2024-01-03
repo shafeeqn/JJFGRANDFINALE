@@ -4,11 +4,9 @@ import institutionsData from "@/data/institutions.json";
 import candidatesData from "@/data/candidates.json";
 import programsData from "@/data/programs.json";
 import candidateProgramsData from "@/data/cp.json";
-import programsData from "@/data/programs.json";
 
 const page = ({ params, searchParams }: any) => {
   const search = searchParams?.search || "";
-
 
   // const candidateWithProgram: any = candidatesData.map((cnd) => {
   //   const cps = candidateProgramsData.filter((cp) => cp.code == cnd.chest);
@@ -23,14 +21,13 @@ const page = ({ params, searchParams }: any) => {
   // });
 
   // console.log(candidateWithProgram);
-  
 
   return (
     <div>
       <Institution
         searchParams={searchParams}
         candidates={candidatesData}
-        candidatePrograms = {candidateProgramsData}
+        candidatePrograms={candidateProgramsData}
         programs={programsData}
         institutions={
           institutionsData
