@@ -1,398 +1,399 @@
 [
-    {
-     "code": "JS1",
-     "name": " ഖിറാഅത്ത്",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS2",
-     "name": " ഹിഫ്‌ള്",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS3",
-     "name": " വാങ്ക്",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS4",
-     "name": " പ്രസംഗം അറബി",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS5",
-     "name": " പ്രസംഗം മലയാളം",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS6",
-     "name": " പ്രസംഗം ഉറുദു",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS7",
-     "name": " പ്രസംഗം ഇംഗ്ലീഷ്",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS8",
-     "name": " ഗ്രന്ഥവായന",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS9",
-     "name": " ഗാനം അറബി",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS10",
-     "name": " മാപ്പിളപ്പാട്ട്",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS11",
-     "name": " മാലപ്പാട്ട്",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS12",
-     "name": " ഗാനം ഉറുദു",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS13",
-     "name": " കഥ പറച്ചില്‍",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS14",
-     "name": " ഗദ്യവായന മലയാളം",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS15",
-     "name": " മുശാഅറ",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS16",
-     "name": " പദപ്പയറ്റ് അറബി",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS17",
-     "name": " പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS18",
-     "name": " മദ്ഹുന്നബി",
-     "isStage": 1,
-     "cat": "J"
-    },
-    {
-     "code": "JS19",
-     "name": " അറബി സംഘഗാനം",
-     "isStage": 1,
-     "cat": "J",
-     "isGrp": 1
-    },
-    {
-     "code": "JS20",
-     "name": " മലയാള സമൂഹ ഗാനം",
-     "isStage": 1,
-     "cat": "J",
-     "isGrp": 1
-    },
-    {
-     "code": "JO21",
-     "name": " ചിത്രരചന",
-     "cat": "J"
-    },
-    {
-     "code": "JO22",
-     "name": " സുഡോക്കു",
-     "cat": "J"
-    },
-    {
-     "code": "JO23",
-     "name": " മെമ്മറി ടെസ്റ്റ്",
-     "cat": "J"
-    },
-    {
-     "code": "JO24",
-     "name": " ഖത്തുന്നസ്ഖ്",
-     "cat": "J"
-    },
-    {
-     "code": "JO25",
-     "name": " കേട്ടെഴുത്ത്",
-     "cat": "J"
-    },
-    {
-     "code": "JO26",
-     "name": " പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-     "cat": "J"
-    },
-    {
-     "code": "JO27",
-     "name": " നിഘണ്ടു നിര്‍മ്മാണം",
-     "cat": "J"
-    },
-    {
-     "code": "JO28",
-     "name": " തശ്കീല്‍",
-     "cat": "J"
-    },
-    {
-     "code": "JO29",
-     "name": " മലയാള പ്രബന്ധം",
-     "cat": "J"
-    },
-    {
-     "code": "JO30",
-     "name": "പ്രശ്‌നോത്തരി",
-     "cat": "J"
-    },
-    {
-     "code": "SS1",
-     "name": " ഖിറാഅത്ത്",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS2",
-     "name": " ഹിഫ്‌ള്",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS3",
-     "name": " വാങ്ക്",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS4",
-     "name": " ക്ലാസ് അവതരണം",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS5",
-     "name": " വഅ്‌ള്",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS6",
-     "name": " പ്രസംഗം മലയാളം",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS7",
-     "name": " പ്രസംഗം അറബി",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS8",
-     "name": " പ്രസംഗം ഉറുദു",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS9",
-     "name": " പ്രസംഗം ഇംഗ്ലീഷ്",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS10",
-     "name": " ഖുഥ്ബ",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS11",
-     "name": " ഗ്രന്ഥ വായന",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS12",
-     "name": " കവിതാലാപനം മലയാളം",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS13",
-     "name": " മുശാഅറ",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS14",
-     "name": " അനൗണ്‍സ്‌മെന്റ്",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS15",
-     "name": " പ്രബന്ധാവതരണം",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS16",
-     "name": " നിമിഷപ്രസംഗം",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS17",
-     "name": " പാടിപ്പറയല്‍",
-     "isStage": 1,
-     "cat": "S"
-    },
-    {
-     "code": "SS18",
-     "name": " മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-     "isStage": 1,
-     "cat": "S",
-     "isGrp": 1
-    },
-    {
-     "code": "SS19",
-     "name": " ഖസ്വീദ പാരായണം",
-     "isStage": 1,
-     "cat": "S",
-     "isGrp": 1
-    },
-    {
-     "code": "SS20",
-     "name": " പ്രോഗ്രാം സെറ്റിംഗ്",
-     "isStage": 1,
-     "cat": "S",
-     "isGrp": 1
-    },
-    {
-     "code": "SO21",
-     "name": " അറബിക് കാലിഗ്രഫി",
-     "cat": "S"
-    },
-    {
-     "code": "SO22",
-     "name": " പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-     "cat": "S"
-    },
-    {
-     "code": "SO23",
-     "name": " ഖത്തുന്നസ്ഖ്",
-     "cat": "S"
-    },
-    {
-     "code": "SO24",
-     "name": " ഖത്തുറുഖഈ",
-     "cat": "S"
-    },
-    {
-     "code": "SO25",
-     "name": " വിവര്‍ത്തനം",
-     "cat": "S"
-    },
-    {
-     "code": "SO26",
-     "name": " വിവര്‍ത്തനം",
-     "cat": "S"
-    },
-    {
-     "code": "SO27",
-     "name": " വിവര്‍ത്തനം",
-     "cat": "S"
-    },
-    {
-     "code": "SO28",
-     "name": " പ്രബന്ധം അറബി",
-     "cat": "S"
-    },
-    {
-     "code": "SO29",
-     "name": " പ്രബന്ധം ഇംഗ്ലീഷ്",
-     "cat": "S"
-    },
-    {
-     "code": "SO30",
-     "name": " പ്രബന്ധം മലയാളം",
-     "cat": "S"
-    },
-    {
-     "code": "SO31",
-     "name": " റിപ്പോര്‍ട്ടിംഗ്",
-     "cat": "S"
-    },
-    {
-     "code": "SO32",
-     "name": " തലവാചക നിര്‍മ്മാണം",
-     "cat": "S"
-    },
-    {
-     "code": "SO33",
-     "name": " മുദ്രവാക്യ രചന",
-     "cat": "S"
-    },
-    {
-     "code": "SO34",
-     "name": " കവിതാ രചന",
-     "cat": "S"
-    },
-    {
-     "code": "SO35",
-     "name": " നിഘണ്ടു നിര്‍മ്മാണം",
-     "cat": "S"
-    },
-    {
-     "code": "SO36",
-     "name": " അടിക്കുറിപ്പ്",
-     "cat": "S"
-    },
-    {
-     "code": "SO37",
-     "name": " പദ സമ്പാദനം",
-     "cat": "S"
-    },
-    {
-     "code": "SO38",
-     "name": " തശ്കീല്‍",
-     "cat": "S"
-    },
-    {
-     "code": "SO39",
-     "name": " പ്രശ്‌നോത്തരി",
-     "cat": "S"
-    },
-    {
-     "code": "SO40",
-     "name": " പത്രനിര്‍മാണം",
-     "cat": "S",
-     "isGrp": 1
-    }
-   ]
+  {
+    "code": "JS1",
+    "name": " ഖിറാഅത്ത്",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS2",
+    "name": " ഹിഫ്‌ള്",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS3",
+    "name": " വാങ്ക്",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS4",
+    "name": " പ്രസംഗം അറബി",
+    "isStage": 1,
+    "cat": "J",
+    "publish": 1
+  },
+  {
+    "code": "JS5",
+    "name": " പ്രസംഗം മലയാളം",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS6",
+    "name": " പ്രസംഗം ഉറുദു",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS7",
+    "name": " പ്രസംഗം ഇംഗ്ലീഷ്",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS8",
+    "name": " ഗ്രന്ഥവായന",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS9",
+    "name": " ഗാനം അറബി",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS10",
+    "name": " മാപ്പിളപ്പാട്ട്",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS11",
+    "name": " മാലപ്പാട്ട്",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS12",
+    "name": " ഗാനം ഉറുദു",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS13",
+    "name": " കഥ പറച്ചില്‍",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS14",
+    "name": " ഗദ്യവായന മലയാളം",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS15",
+    "name": " മുശാഅറ",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS16",
+    "name": " പദപ്പയറ്റ് അറബി",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS17",
+    "name": " പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS18",
+    "name": " മദ്ഹുന്നബി",
+    "isStage": 1,
+    "cat": "J"
+  },
+  {
+    "code": "JS19",
+    "name": " അറബി സംഘഗാനം",
+    "isStage": 1,
+    "cat": "J",
+    "isGrp": 1
+  },
+  {
+    "code": "JS20",
+    "name": " മലയാള സമൂഹ ഗാനം",
+    "isStage": 1,
+    "cat": "J",
+    "isGrp": 1
+  },
+  {
+    "code": "JO21",
+    "name": " ചിത്രരചന",
+    "cat": "J"
+  },
+  {
+    "code": "JO22",
+    "name": " സുഡോക്കു",
+    "cat": "J"
+  },
+  {
+    "code": "JO23",
+    "name": " മെമ്മറി ടെസ്റ്റ്",
+    "cat": "J"
+  },
+  {
+    "code": "JO24",
+    "name": " ഖത്തുന്നസ്ഖ്",
+    "cat": "J"
+  },
+  {
+    "code": "JO25",
+    "name": " കേട്ടെഴുത്ത്",
+    "cat": "J"
+  },
+  {
+    "code": "JO26",
+    "name": " പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+    "cat": "J"
+  },
+  {
+    "code": "JO27",
+    "name": " നിഘണ്ടു നിര്‍മ്മാണം",
+    "cat": "J"
+  },
+  {
+    "code": "JO28",
+    "name": " തശ്കീല്‍",
+    "cat": "J"
+  },
+  {
+    "code": "JO29",
+    "name": " മലയാള പ്രബന്ധം",
+    "cat": "J"
+  },
+  {
+    "code": "JO30",
+    "name": "പ്രശ്‌നോത്തരി",
+    "cat": "J"
+  },
+  {
+    "code": "SS1",
+    "name": " ഖിറാഅത്ത്",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS2",
+    "name": " ഹിഫ്‌ള്",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS3",
+    "name": " വാങ്ക്",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS4",
+    "name": " ക്ലാസ് അവതരണം",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS5",
+    "name": " വഅ്‌ള്",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS6",
+    "name": " പ്രസംഗം മലയാളം",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS7",
+    "name": " പ്രസംഗം അറബി",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS8",
+    "name": " പ്രസംഗം ഉറുദു",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS9",
+    "name": " പ്രസംഗം ഇംഗ്ലീഷ്",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS10",
+    "name": " ഖുഥ്ബ",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS11",
+    "name": " ഗ്രന്ഥ വായന",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS12",
+    "name": " കവിതാലാപനം മലയാളം",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS13",
+    "name": " മുശാഅറ",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS14",
+    "name": " അനൗണ്‍സ്‌മെന്റ്",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS15",
+    "name": " പ്രബന്ധാവതരണം",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS16",
+    "name": " നിമിഷപ്രസംഗം",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS17",
+    "name": " പാടിപ്പറയല്‍",
+    "isStage": 1,
+    "cat": "S"
+  },
+  {
+    "code": "SS18",
+    "name": " മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
+    "isStage": 1,
+    "cat": "S",
+    "isGrp": 1
+  },
+  {
+    "code": "SS19",
+    "name": " ഖസ്വീദ പാരായണം",
+    "isStage": 1,
+    "cat": "S",
+    "isGrp": 1
+  },
+  {
+    "code": "SS20",
+    "name": " പ്രോഗ്രാം സെറ്റിംഗ്",
+    "isStage": 1,
+    "cat": "S",
+    "isGrp": 1
+  },
+  {
+    "code": "SO21",
+    "name": " അറബിക് കാലിഗ്രഫി",
+    "cat": "S"
+  },
+  {
+    "code": "SO22",
+    "name": " പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+    "cat": "S"
+  },
+  {
+    "code": "SO23",
+    "name": " ഖത്തുന്നസ്ഖ്",
+    "cat": "S"
+  },
+  {
+    "code": "SO24",
+    "name": " ഖത്തുറുഖഈ",
+    "cat": "S"
+  },
+  {
+    "code": "SO25",
+    "name": " വിവര്‍ത്തനം",
+    "cat": "S"
+  },
+  {
+    "code": "SO26",
+    "name": " വിവര്‍ത്തനം",
+    "cat": "S"
+  },
+  {
+    "code": "SO27",
+    "name": " വിവര്‍ത്തനം",
+    "cat": "S"
+  },
+  {
+    "code": "SO28",
+    "name": " പ്രബന്ധം അറബി",
+    "cat": "S"
+  },
+  {
+    "code": "SO29",
+    "name": " പ്രബന്ധം ഇംഗ്ലീഷ്",
+    "cat": "S"
+  },
+  {
+    "code": "SO30",
+    "name": " പ്രബന്ധം മലയാളം",
+    "cat": "S"
+  },
+  {
+    "code": "SO31",
+    "name": " റിപ്പോര്‍ട്ടിംഗ്",
+    "cat": "S"
+  },
+  {
+    "code": "SO32",
+    "name": " തലവാചക നിര്‍മ്മാണം",
+    "cat": "S"
+  },
+  {
+    "code": "SO33",
+    "name": " മുദ്രവാക്യ രചന",
+    "cat": "S"
+  },
+  {
+    "code": "SO34",
+    "name": " കവിതാ രചന",
+    "cat": "S"
+  },
+  {
+    "code": "SO35",
+    "name": " നിഘണ്ടു നിര്‍മ്മാണം",
+    "cat": "S"
+  },
+  {
+    "code": "SO36",
+    "name": " അടിക്കുറിപ്പ്",
+    "cat": "S"
+  },
+  {
+    "code": "SO37",
+    "name": " പദ സമ്പാദനം",
+    "cat": "S"
+  },
+  {
+    "code": "SO38",
+    "name": " തശ്കീല്‍",
+    "cat": "S"
+  },
+  {
+    "code": "SO39",
+    "name": " പ്രശ്‌നോത്തരി",
+    "cat": "S"
+  },
+  {
+    "code": "SO40",
+    "name": " പത്രനിര്‍മാണം",
+    "cat": "S",
+    "isGrp": 1
+  }
+]

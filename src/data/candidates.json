@@ -1,407 +1,339 @@
 [
     {
-     "chest": 143,
+     "chest": "143",
      "name": "ANAS M",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 345,
+     "chest": "345",
      "name": "MUHAMMAD THAHA SALEEM EK(VELIYAMBRA)",
-     "dars": 8
-    },
+     "dars": "8"    },
     {
-     "chest": 132,
+     "chest": "132",
      "name": "MUHAMMED ZAID CHOLA",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 126,
+     "chest": "126",
      "name": "MUHAMMED UMAR ABDULLA KUMMAYAKKADAVU",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 252,
+     "chest": "252",
      "name": "NISAMUDHEEN KADACHIRA",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 113,
+     "chest": "113",
      "name": "MUHAMMED MUSTHAFA",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 251,
+     "chest": "251",
      "name": "MUHAMMED RISWAN SK VADAKARA",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 174,
+     "chest": "174",
      "name": "ZAYAN THALIPARAMB",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 248,
+     "chest": "248",
      "name": "MUHAMMED IYYAS KASARGOD",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 136,
+     "chest": "136",
      "name": "MUHAMMED MADATHIKKOVVAL",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 259,
+     "chest": "259",
      "name": "NIHAL MATTANNUR",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 167,
+     "chest": "167",
      "name": "FAZLU RAHMAN",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 172,
+     "chest": "172",
      "name": "THAMEEM MALAPPURAM",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 249,
+     "chest": "249",
      "name": "ANWAR SHA THANNADA",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 195,
+     "chest": "195",
      "name": "YAHYA PV KOTHERI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 250,
+     "chest": "250",
      "name": "SAYYID RAZI SHIHAB EDARIKKODE",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 135,
+     "chest": "135",
      "name": "MUHAMMED RAZAL MUNDERI",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 256,
+     "chest": "256",
      "name": "MUHAMMED SAHAL KOTTATHARA",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 198,
+     "chest": "198",
      "name": "MUHAMMED NP MALOOR",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 199,
+     "chest": "199",
      "name": "MUHAMMED ANSAF K VEMBADI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 257,
+     "chest": "257",
      "name": "ASHIQUE KOTTATHRA",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 129,
+     "chest": "129",
      "name": "SINAN PALLIYATH",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 131,
+     "chest": "131",
      "name": "MUHAMMED FAHEEM KALADI",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 260,
+     "chest": "260",
      "name": "MUHAMMED ADNAN MAMBA",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 253,
+     "chest": "253",
      "name": "MUHAMMED MISHAL VALLITHODE",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 196,
+     "chest": "196",
      "name": "MUHAMMED JASEEM VK VALAKKAI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 206,
+     "chest": "206",
      "name": "MUHAMMED SWALIH PC PARAMBAYI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 106,
+     "chest": "106",
      "name": "ABDULLA FAJR SWADIQ",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 179,
+     "chest": "179",
      "name": "SHAHID KP PULLOOPPI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 263,
+     "chest": "263",
      "name": "SHAHID POTHUVACHERY",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 302,
+     "chest": "302",
      "name": "MUNAVVAR WAYANAD",
-     "dars": 9
-    },
+     "dars": "9"    },
     {
-     "chest": 329,
+     "chest": "329",
      "name": "SALIH KOLARI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 231,
+     "chest": "231",
      "name": "MUHAMMED SINAN KOK",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 255,
+     "chest": "255",
      "name": "MUHAMMED AFLAH ANJARAKKANDY",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 264,
+     "chest": "264",
      "name": "MUHAMME JUBAIR PM THOTTEEKKAL",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 324,
+     "chest": "324",
      "name": "ADHIL VENMANAL",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 175,
+     "chest": "175",
      "name": "FARHAN MKP ETTIKULAM",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 319,
+     "chest": "319",
      "name": "MUHAMMED ARIF U, MALUR",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 265,
+     "chest": "265",
      "name": "JAVAD IRIKKUR",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 603,
+     "chest": "603",
      "name": "MUHAMMED RIZWI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 626,
+     "chest": "626",
      "name": "MUHAMMED SHAHID OMANOOR",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 639,
+     "chest": "639",
      "name": "ABDULLAH CH",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 657,
+     "chest": "657",
      "name": "MUHAMMED NAZIL CT",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 571,
+     "chest": "571",
      "name": "MUNAVVIR M",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 641,
+     "chest": "641",
      "name": "HAFIZ JINAN MOOSA",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 589,
+     "chest": "589",
      "name": "MUHAMMED TAHIR CC",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 625,
+     "chest": "625",
      "name": "MUHAMMED BASIL",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 658,
+     "chest": "658",
      "name": "ARIF P.V KANNUR",
-     "dars": 8
-    },
+     "dars": "8"    },
     {
-     "chest": 595,
+     "chest": "595",
      "name": "RAMIN KHALID MUNDERI",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 642,
+     "chest": "642",
      "name": "MUHAMMED JASEEL V NUCHIYAD",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 514,
+     "chest": "514",
      "name": "MUHAMMED JASID MUNDERI",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 631,
+     "chest": "631",
      "name": "MUHAMMED MUBASHIR GUDALLUR",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 517,
+     "chest": "517",
      "name": "MUHAMMED AJMAL PURAVOOR",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 632,
+     "chest": "632",
      "name": "MUHAMMED ANSAL PALAYI",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 590,
+     "chest": "590",
      "name": "MUHAMMAD SWALIH KP",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 629,
+     "chest": "629",
      "name": "AL AMEEN",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 547,
+     "chest": "547",
      "name": "NOUFAL KP KUNNUMKAI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 598,
+     "chest": "598",
      "name": "ALI JOUHAR THIRUVATTOOR",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 548,
+     "chest": "548",
      "name": "SUFAIL TK MATHODAM",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 504,
+     "chest": "504",
      "name": "MUHAMMED SHIBILI VESHALA",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 618,
+     "chest": "618",
      "name": "MUHAMMED SHABAB KOK",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 587,
+     "chest": "587",
      "name": "MUSAB VK VALAKKAI",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 541,
+     "chest": "541",
      "name": "MUHAMMED IRFAN.M",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 607,
+     "chest": "607",
      "name": "SAYYID ADHIL SULTHAN PAPPINISHERY",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 712,
+     "chest": "712",
      "name": "YUSAF PERIYATHIL",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 586,
+     "chest": "586",
      "name": "MUFEED K IRIKKUR",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 518,
+     "chest": "518",
      "name": "MUHAMMED ANAS NIRATHUPALAM",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 709,
+     "chest": "709",
      "name": "NIYAZ PADANNOD",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 662,
+     "chest": "662",
      "name": "FAYIS R. P IRIKKUUR",
-     "dars": 8
-    },
+     "dars": "8"    },
     {
-     "chest": 554,
+     "chest": "554",
      "name": "UMAR MUKTHAR",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 591,
+     "chest": "591",
      "name": "MUHAMMED SAHAD CP PALOTTUPALLY",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 597,
+     "chest": "597",
      "name": "MUHAMMED SINAN SREEKANDA",
-     "dars": 18
+     "dars": "1"
     },
     {
-     "chest": 640,
+     "chest": "640",
      "name": "SAYYID MUHAMMED HASEEF TP (OMASSERY )",
-     "dars": 4
-    },
+     "dars": "4"    },
     {
-     "chest": 567,
+     "chest": "567",
      "name": "MOHAMMED ADNAN",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 672,
+     "chest": "672",
      "name": "SHIBIL RAHMAN,THRIKARIPUR",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 563,
+     "chest": "563",
      "name": "MUHSIN S KOLLAM",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 540,
+     "chest": "540",
      "name": "MUHAMMED SUFYAN.K.P",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 562,
+     "chest": "562",
      "name": "MUHAMMED JAVAD AG THRIKKARIPPUR",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 651,
+     "chest": "651",
      "name": "MUHAMMED SHANID CHENAYANNUR",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 617,
+     "chest": "617",
      "name": "SAYYID HASIL PAPPINISHERY",
-     "dars": 1
-    },
+     "dars": "1"    },
     {
-     "chest": 579,
+     "chest": "579",
      "name": "MUHAMMED RAZI CK",
-     "dars": 1
-    }
+     "dars": "1"    }
    ]
