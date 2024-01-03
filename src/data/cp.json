@@ -1,0 +1,538 @@
+[
+    {
+     "code": 143,
+     "prg": "JS1"
+    },
+    {
+     "code": 345,
+     "prg": "JS1"
+    },
+    {
+     "code": 132,
+     "prg": "JS2"
+    },
+    {
+     "code": 143,
+     "prg": "JS2"
+    },
+    {
+     "code": 132,
+     "prg": "JS3"
+    },
+    {
+     "code": 143,
+     "prg": "JS3"
+    },
+    {
+     "code": 126,
+     "prg": "JS4"
+    },
+    {
+     "code": 252,
+     "prg": "JS4"
+    },
+    {
+     "code": 113,
+     "prg": "JS5"
+    },
+    {
+     "code": 251,
+     "prg": "JS5"
+    },
+    {
+     "code": 174,
+     "prg": "JS6"
+    },
+    {
+     "code": 248,
+     "prg": "JS6"
+    },
+    {
+     "code": 136,
+     "prg": "JS7"
+    },
+    {
+     "code": 259,
+     "prg": "JS7"
+    },
+    {
+     "code": 126,
+     "prg": "JS8"
+    },
+    {
+     "code": 252,
+     "prg": "JS8"
+    },
+    {
+     "code": 167,
+     "prg": "JS9"
+    },
+    {
+     "code": 172,
+     "prg": "JS9"
+    },
+    {
+     "code": 167,
+     "prg": "JS10"
+    },
+    {
+     "code": 249,
+     "prg": "JS10"
+    },
+    {
+     "code": 195,
+     "prg": "JS11"
+    },
+    {
+     "code": 250,
+     "prg": "JS11"
+    },
+    {
+     "code": 136,
+     "prg": "JS12"
+    },
+    {
+     "code": 250,
+     "prg": "JS12"
+    },
+    {
+     "code": 135,
+     "prg": "JS13"
+    },
+    {
+     "code": 256,
+     "prg": "JS13"
+    },
+    {
+     "code": 174,
+     "prg": "JS14"
+    },
+    {
+     "code": 198,
+     "prg": "JS14"
+    },
+    {
+     "code": 199,
+     "prg": "JS15"
+    },
+    {
+     "code": 257,
+     "prg": "JS15"
+    },
+    {
+     "code": 129,
+     "prg": "JS16"
+    },
+    {
+     "code": 257,
+     "prg": "JS16"
+    },
+    {
+     "code": 131,
+     "prg": "JS17"
+    },
+    {
+     "code": 260,
+     "prg": "JS17"
+    },
+    {
+     "code": 167,
+     "prg": "JS18"
+    },
+    {
+     "code": 249,
+     "prg": "JS18"
+    },
+    {
+     "code": 167,
+     "prg": "JS19"
+    },
+    {
+     "code": 253,
+     "prg": "JS19"
+    },
+    {
+     "code": 167,
+     "prg": "JS20"
+    },
+    {
+     "code": 196,
+     "prg": "JS20"
+    },
+    {
+     "code": 206,
+     "prg": "JO21"
+    },
+    {
+     "code": 106,
+     "prg": "JO22"
+    },
+    {
+     "code": 126,
+     "prg": "JO22"
+    },
+    {
+     "code": 179,
+     "prg": "JO23"
+    },
+    {
+     "code": 263,
+     "prg": "JO23"
+    },
+    {
+     "code": 302,
+     "prg": "JO24"
+    },
+    {
+     "code": 329,
+     "prg": "JO24"
+    },
+    {
+     "code": 231,
+     "prg": "JO25"
+    },
+    {
+     "code": 255,
+     "prg": "JO25"
+    },
+    {
+     "code": 264,
+     "prg": "JO26"
+    },
+    {
+     "code": 129,
+     "prg": "JO27"
+    },
+    {
+     "code": 324,
+     "prg": "JO27"
+    },
+    {
+     "code": 175,
+     "prg": "JO28"
+    },
+    {
+     "code": 319,
+     "prg": "JO28"
+    },
+    {
+     "code": 126,
+     "prg": "JO29"
+    },
+    {
+     "code": 252,
+     "prg": "JO29"
+    },
+    {
+     "code": 175,
+     "prg": "JO30"
+    },
+    {
+     "code": 265,
+     "prg": "JO30"
+    },
+    {
+     "code": 603,
+     "prg": "SS1"
+    },
+    {
+     "code": 626,
+     "prg": "SS1"
+    },
+    {
+     "code": 603,
+     "prg": "SS2"
+    },
+    {
+     "code": 639,
+     "prg": "SS2"
+    },
+    {
+     "code": 626,
+     "prg": "SS3"
+    },
+    {
+     "code": 657,
+     "prg": "SS3"
+    },
+    {
+     "code": 571,
+     "prg": "SS4"
+    },
+    {
+     "code": 641,
+     "prg": "SS4"
+    },
+    {
+     "code": 589,
+     "prg": "SS5"
+    },
+    {
+     "code": 625,
+     "prg": "SS5"
+    },
+    {
+     "code": 641,
+     "prg": "SS6"
+    },
+    {
+     "code": 658,
+     "prg": "SS6"
+    },
+    {
+     "code": 595,
+     "prg": "SS7"
+    },
+    {
+     "code": 642,
+     "prg": "SS7"
+    },
+    {
+     "code": 514,
+     "prg": "SS8"
+    },
+    {
+     "code": 631,
+     "prg": "SS8"
+    },
+    {
+     "code": 517,
+     "prg": "SS9"
+    },
+    {
+     "code": 632,
+     "prg": "SS9"
+    },
+    {
+     "code": 590,
+     "prg": "SS10"
+    },
+    {
+     "code": 629,
+     "prg": "SS10"
+    },
+    {
+     "code": 547,
+     "prg": "SS11"
+    },
+    {
+     "code": 598,
+     "prg": "SS11"
+    },
+    {
+     "code": 548,
+     "prg": "SS12"
+    },
+    {
+     "code": 629,
+     "prg": "SS12"
+    },
+    {
+     "code": 504,
+     "prg": "SS13"
+    },
+    {
+     "code": 642,
+     "prg": "SS13"
+    },
+    {
+     "code": 618,
+     "prg": "SS14"
+    },
+    {
+     "code": 625,
+     "prg": "SS14"
+    },
+    {
+     "code": 587,
+     "prg": "SS15"
+    },
+    {
+     "code": 618,
+     "prg": "SS15"
+    },
+    {
+     "code": 541,
+     "prg": "SS16"
+    },
+    {
+     "code": 607,
+     "prg": "SS16"
+    },
+    {
+     "code": 626,
+     "prg": "SS17"
+    },
+    {
+     "code": 712,
+     "prg": "SS17"
+    },
+    {
+     "code": 629,
+     "prg": "SS18"
+    },
+    {
+     "code": 712,
+     "prg": "SS18"
+    },
+    {
+     "code": 626,
+     "prg": "SS19"
+    },
+    {
+     "code": 712,
+     "prg": "SS19"
+    },
+    {
+     "code": 586,
+     "prg": "SS20"
+    },
+    {
+     "code": 641,
+     "prg": "SS20"
+    },
+    {
+     "code": 518,
+     "prg": "SO21"
+    },
+    {
+     "code": 709,
+     "prg": "SO21"
+    },
+    {
+     "code": 518,
+     "prg": "SO22"
+    },
+    {
+     "code": 662,
+     "prg": "SO22"
+    },
+    {
+     "code": 518,
+     "prg": "SO23"
+    },
+    {
+     "code": 554,
+     "prg": "SO23"
+    },
+    {
+     "code": 639,
+     "prg": "SO24"
+    },
+    {
+     "code": 591,
+     "prg": "SO25"
+    },
+    {
+     "code": 597,
+     "prg": "SO25"
+    },
+    {
+     "code": 591,
+     "prg": "SO26"
+    },
+    {
+     "code": 642,
+     "prg": "SO26"
+    },
+    {
+     "code": 607,
+     "prg": "SO27"
+    },
+    {
+     "code": 642,
+     "prg": "SO27"
+    },
+    {
+     "code": 591,
+     "prg": "SO28"
+    },
+    {
+     "code": 640,
+     "prg": "SO28"
+    },
+    {
+     "code": 567,
+     "prg": "SO29"
+    },
+    {
+     "code": 672,
+     "prg": "SO29"
+    },
+    {
+     "code": 554,
+     "prg": "SO30"
+    },
+    {
+     "code": 618,
+     "prg": "SO30"
+    },
+    {
+     "code": 563,
+     "prg": "SO31"
+    },
+    {
+     "code": 587,
+     "prg": "SO31"
+    },
+    {
+     "code": 540,
+     "prg": "SO32"
+    },
+    {
+     "code": 597,
+     "prg": "SO32"
+    },
+    {
+     "code": 618,
+     "prg": "SO33"
+    },
+    {
+     "code": 641,
+     "prg": "SO33"
+    },
+    {
+     "code": 640,
+     "prg": "SO34"
+    },
+    {
+     "code": 562,
+     "prg": "SO35"
+    },
+    {
+     "code": 554,
+     "prg": "SO36"
+    },
+    {
+     "code": 651,
+     "prg": "SO36"
+    },
+    {
+     "code": 562,
+     "prg": "SO37"
+    },
+    {
+     "code": 617,
+     "prg": "SO37"
+    },
+    {
+     "code": 579,
+     "prg": "SO38"
+    },
+    {
+     "code": 504,
+     "prg": "SO39"
+    },
+    {
+     "code": 632,
+     "prg": "SO39"
+    },
+    {
+     "code": 554,
+     "prg": "SO40"
+    },
+    {
+     "code": 629,
+     "prg": "SO40"
+    }
+   ]
