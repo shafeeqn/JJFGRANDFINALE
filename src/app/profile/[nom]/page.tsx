@@ -3,6 +3,7 @@ import programsData from "@/data/programs.json"
 import candidatesData from "@/data/candidates.json"
 import cp from "@/data/cp.json"
 import PrgList from '@/components/programs/PrgList'
+import Profile from '@/components/profile/Profile'
 
 const page = ({ params }: { params: { nom: string } }) => {
     const nom = params.nom
@@ -24,7 +25,7 @@ const page = ({ params }: { params: { nom: string } }) => {
 
   return (
     <div>
-      {/* <PrgList program={cpWithProgram}/> */}
+      <Profile candidate={cpWithProgram}/>
     </div>
   )
 }
