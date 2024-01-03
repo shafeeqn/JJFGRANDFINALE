@@ -26,6 +26,8 @@ const page = () => {
 
   const darsWithTotalPoints = darsData.map((dars)=>{
     let totalPoints = 0;
+    let juniorPoints = 0;
+    let seniorPoints = 0;
 
     candidateWithProgram.map((prg : any)=>{
       prg.candidate.map((cnd : any)=>{
@@ -33,13 +35,20 @@ const page = () => {
           // console.log(cnd?.cp);
           
           totalPoints += cnd?.cp?.pts || 0
+          if(prg?.cat == "J"){
+            juniorPoints += cnd?.cp?.pts || 0
+          }else if(prg?.cat == "S"){
+            seniorPoints += cnd?.cp?.pts || 0
+          }
         }
       })
     })
 
     return {
       ...dars,
-      totalPoints
+      totalPoints,
+      juniorPoints,
+      seniorPoints
     }
   })
 
@@ -48,10 +57,44 @@ const page = () => {
   console.log(darsWithTotalPointsSorted[0]);
   
   
-  
+  const topCandidates = candidatesData.map((cnd)=>{
+    let totalPoints = 0;
+    let cat = ""
+
+    cp.map((c)=>{
+      if(cnd.chest == c.code){
+        cat = c.prg.slice(0,1)
+        totalPoints += c?.pts || 0
+      }
+    }
+    )
+    
+
+    return {
+      ...cnd,
+      totalPoints,
+      cat
+    }
+  }
+
+  )
+
+  const topCandidatesSorted = topCandidates.sort((a,b)=> b.totalPoints - a.totalPoints)
+
+  const top5JuniorCandidates = topCandidatesSorted.filter((cnd)=> cnd.cat == "J").slice(0,5)
+
+  const top5SeniorCandidates = topCandidatesSorted.filter((cnd)=> cnd.cat == "S").slice(0,5)
+  // console.log(topCandidatesSorted[0]);
+
+
+
+
+
   return (
     <div>
-      <Results topTeams={darsWithTotalPointsSorted} programs={candidateWithProgram}/>
+      <Results topTeams={darsWithTotalPointsSorted} programs={candidateWithProgram} 
+       topJunior={top5JuniorCandidates} topSenior={top5SeniorCandidates}
+      />
     </div>
   )
 }
