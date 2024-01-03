@@ -3,6 +3,7 @@ import candidatesData from '@/data/candidates.json'
 import programsData from "@/data/programs.json"
 import darsData from '@/data/institutions.json'
 import cp from '@/data/cp.json'
+import Results from '@/components/result/Results'
 
 const page = () => {
   const publishedPrograms = programsData.filter((prg)=> prg.publish == 1 )
@@ -31,7 +32,7 @@ const page = () => {
         if(cnd?.dars == dars.name){
           // console.log(cnd?.cp);
           
-          totalPoints += cnd?.cp?.pts
+          totalPoints += cnd?.cp?.pts || 0
         }
       })
     })
@@ -49,7 +50,9 @@ const page = () => {
   
   
   return (
-    <div>page</div>
+    <div>
+      <Results topTeams={darsWithTotalPointsSorted} programs={candidateWithProgram}/>
+    </div>
   )
 }
 
