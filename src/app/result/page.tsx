@@ -12,7 +12,7 @@ const page = () => {
     const candidate = cp.filter((c)=> c.prg == prg.code)
     const candidatesWithDetails = candidate.map((cnd)=> {
       return {
-        
+         
       cp :  cnd,
        ...candidatesData.find((c)=> c.chest == cnd.code)
       }
