@@ -5,30 +5,33 @@ import darsData from '@/data/institutions.json'
 import cp from '@/data/cp.json'
 
 const page = () => {
-  const publishedPrograms = programsData.filter((prg)=>prg.publish != 1 )
+  const publishedPrograms = programsData.filter((prg)=> prg.publish == 1 )
 
-  const candidateWithProgram = publishedPrograms.map((prg)=>{
+  const candidateWithProgram : any = publishedPrograms.map((prg)=>{
     const candidate = cp.filter((c)=> c.prg == prg.code)
+    const candidatesWithDetails = candidate.map((cnd)=> {
+      return {
+        
+      cp :  cnd,
+       ...candidatesData.find((c)=> c.chest == cnd.code)
+      }
+    })
     return {
       ...prg,
-      candidate: candidate.map((cnd)=> candidatesData.find((c)=> {
-        if(c.chest == cnd.code){
-          return {
-            ...c,
-            cp: cnd
-          }
-        }
-      }))
+      candidate: candidatesWithDetails
     }
   })
+  
 
   const darsWithTotalPoints = darsData.map((dars)=>{
     let totalPoints = 0;
 
-    candidateWithProgram.map((prg)=>{
-      prg.candidate.map((cnd)=>{
+    candidateWithProgram.map((prg : any)=>{
+      prg.candidate.map((cnd : any)=>{
         if(cnd?.dars == dars.name){
-          totalPoints += cnd.pts
+          // console.log(cnd?.cp);
+          
+          totalPoints += cnd?.cp?.pts
         }
       })
     })
@@ -38,6 +41,11 @@ const page = () => {
       totalPoints
     }
   })
+
+  const darsWithTotalPointsSorted = darsWithTotalPoints.sort((a,b)=> b.totalPoints - a.totalPoints)
+
+  console.log(darsWithTotalPointsSorted[0]);
+  
   
   
   return (

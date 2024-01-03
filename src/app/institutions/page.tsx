@@ -10,7 +10,7 @@ const page = ({ params, searchParams }: any) => {
           institutionsData
             .filter(
               (instn) =>
-                instn.code
+                instn.name
                   .toString()
                   .toLowerCase()
                   .includes(search.toLowerCase()) ||
