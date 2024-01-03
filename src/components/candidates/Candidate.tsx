@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import router, { useRouter } from "next/navigation";
+import ViewCandidate from "./ViewCandidate";
 
 function debounce<T extends unknown[]>(
   func: (...args: T) => void,
@@ -22,11 +23,14 @@ interface Props {
 }
 
 const Candidate = (props: Props) => {
-  const [searchTerm, setSearchTerm] = useState("a");
+  const [searchTerm, setSearchTerm] = useState("");
+  const [selectedCandidate, setSelectedCandidate] = useState<any>(null);
+  const [isViewOpen, setViewIsOpen] = useState(false);
   const router = useRouter();
   const delayedSearch = debounce((term: string) => {
     router.push(`/candidates?search=${term}`);
   }, 1000);
+
 
   return (
     <div>
@@ -59,6 +63,10 @@ const Candidate = (props: Props) => {
           <div
             className="w-72 bg-secondary p-6 rounded-xl flex flex-col gap-2 items-start "
             key={index}
+            onClick={()=>{
+              setSelectedCandidate(c);
+              setViewIsOpen(true);
+            }}
           >
             <h1 className="px-2 py-1 bg-brown inline rounded-lg text-white font-semibold">
               {c.chest.toString() as string}
@@ -69,6 +77,12 @@ const Candidate = (props: Props) => {
           </div>
         ))}
       </div>
+      <ViewCandidate
+        isOpen={isViewOpen}
+        setIsOpen={setViewIsOpen}
+        selectedCandidate={selectedCandidate}
+        setSelectedCandidate={setSelectedCandidate}
+      />
     </div>
   );
 };
