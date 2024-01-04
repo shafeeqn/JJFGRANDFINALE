@@ -63,6 +63,7 @@ const Programs = (props: Props) => {
           <div
             className="w-72 bg-secondary p-6 rounded-xl flex flex-col gap-2 items-start "
             key={index}
+            onClick={()=> router.push(`/programs/${c.code}`)}
           >
             <h1 className="px-2 py-1 bg-brown inline rounded-lg text-white font-semibold">
               {c.code}

@@ -13,8 +13,8 @@ const PrgList = (props: Props) => {
         <p className="text-2xl font-bold my-2">Grand Finale</p>
 
         <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
-          {props.program.code} - {props.program.name} - (
-          {props.program.cat == "J" ? "Junior" : "Senior"})
+          {props.program?.code} - {props?.program?.name} - (
+          {props.program?.cat == "J" ? "Junior" : "Senior"})
         </h1>
       </div>
 
@@ -36,10 +36,10 @@ const PrgList = (props: Props) => {
               <td className="px-1 text-center w-8 border ">{i + 1}</td>
               <td className="px-1 text-center w-10 border">{v.code}</td>
               <td className="px-1 w-72 border">
-                {v.name.length > 24 ? v.name.slice(0, 20) + ".." : v.name}
+                {v.name?.length > 24 ? v.name?.slice(0, 20) + ".." : v.name}
               </td>
               <td className="px-1 w-80  border">
-                {v.dars.length > 24 ? v.dars.slice(0, 25) + ".." : v.dars}
+                {v.dars?.length > 24 ? v.dars?.slice(0, 25) + ".." : v.dars}
               </td>
               <td className="px-1 w-10 border"></td>
               <td className="px-1 w-8 border"></td>
