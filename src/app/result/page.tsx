@@ -6,7 +6,7 @@ import cp from '@/data/cp.json'
 import Results from '@/components/result/Results'
 
 const page = () => {
-  const publishedPrograms = programsData.filter((prg)=> prg.publish == 1 )
+  const publishedPrograms = programsData.filter((prg)=> prg?.publish  == 1 )
 
   const candidateWithProgram : any = publishedPrograms.map((prg)=>{
     const candidate = cp.filter((c)=> c.prg == prg.code)

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 function page() {
@@ -10,12 +11,12 @@ function page() {
       <p className="lg:text-lg font-black mb-5 text-center">
 Grand Finale 2024     </p>
       <div className="flex gap-2 text-xl font-semibold">
-        <div className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
+        <Link href={'/result'}  className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Results
-        </div>
-        <div className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
+        </Link >
+        <Link href={'/profile'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Profile
-        </div>
+        </Link >
       </div>
     </div>
   );
