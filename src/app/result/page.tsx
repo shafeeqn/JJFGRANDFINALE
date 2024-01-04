@@ -61,13 +61,17 @@ const page = () => {
     let totalPoints = 0;
     let cat = ""
 
-    cp.map((c)=>{
-      if(cnd.chest == c.code){
-        cat = c.prg.slice(0,1)
-        totalPoints += c?.pts || 0
-      }
-    }
-    )
+    // cp.map((c)=>{
+    //   // check is published
+
+    //   programsData.find((prg)=> prg.code == c.prg && prg.publish == 1)
+
+    //   if(cnd.chest == c.code && prg.publish == 1){
+    //     cat = c.prg.slice(0,1)
+    //     totalPoints += c?.pts || 0
+    //   }
+    // }
+    // )  
     
 
     return {

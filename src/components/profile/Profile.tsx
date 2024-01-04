@@ -12,6 +12,7 @@ const Profile = (props: Props) => {
   return (
     <>
       {
+        props.candidate.name ?
         <div className="flex flex-col justify-center items-center my-10 px-10 w-full">
           <p className="font-semibold bg-yellow px-2 py-1 rounded-md text-lg -mb-5 z-50">
             Details
@@ -32,18 +33,6 @@ const Profile = (props: Props) => {
             <p className="font-semibold text-xl text-center">
               Total Points :{" "}
               <span className="text-2xl font-bold">
-                {/* {props?.candidate?.programs.map((program: any) => {
-                    console.log(program);
-                    
-                    return program.pts || 0;
-                  }) as any
-                  } */}
-
-                {/* with reduce */}
-                {/* 
-                    {props?.candidate?.programs.reduce((acc: any, program: any) => {
-                        return acc || 0 + program.pts || 0;
-                    }, 0) as any} */}
 
                 {props?.candidate?.programs?.reduce((a: any, b: any) => {
                     if (b?.publish == 1) {
@@ -75,6 +64,17 @@ const Profile = (props: Props) => {
               </div>
             </>
           )}
+        </div>
+        :
+        <div className="flex flex-col justify-center items-center my-10 px-10 w-full">
+          <p className="font-semibold bg-yellow px-2 py-1 rounded-md text-lg -mb-5 z-50">
+            Details
+          </p>
+          <div className="flex flex-col items-center border-2 border-yellow p-5 rounded-xl">
+            <p className="font-semibold text-xl text-center">
+              No Candidate Found
+            </p>
+          </div>
         </div>
       }
       <ProgramResult

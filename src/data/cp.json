@@ -29,11 +29,17 @@
  },
  {
   "code": "KDY302",
-  "prg": "JS3"
+  "prg": "JS3",
+  "pts": 6,
+  "position": 2,
+  "grade": "B"
  },
  {
   "code": "KDY292",
-  "prg": "JS3"
+  "prg": "JS3",
+  "pts": 8,
+  "position": 1,
+  "grade": "A"
  },
  {
   "code": "KDY301",
@@ -248,11 +254,17 @@
  },
  {
   "code": "KDY712",
-  "prg": "SS1"
+  "prg": "SS1", 
+   "pts": 8,
+  "position": 1,
+  "grade": "A"
  },
  {
   "code": "KDY743",
-  "prg": "SS1"
+  "prg": "SS1", 
+  "pts": 7,
+ "position": 2,
+ "grade": "A"
  },
  {
   "code": "KDY599",
