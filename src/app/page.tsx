@@ -14,6 +14,9 @@ Grand Finale 2024     </p>
         <Link href={'/result'}  className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Results
         </Link >
+         <Link href={'/institutions'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
+          Dars
+        </Link >
         <Link href={'/profile'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Profile
         </Link >
