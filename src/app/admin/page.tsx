@@ -20,6 +20,9 @@ Grand Finale 2024     </p>
         <Link href={'/judge'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Judge
         </Link >
+        <Link href={'/candidates'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
+          Candidates
+        </Link >
       </div>
     </div>
   );
