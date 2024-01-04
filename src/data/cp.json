@@ -3377,11 +3377,11 @@
     },
     {
      "code": "VGA512",
-     "prg": "Ss1"
+     "prg": "SS1"
     },
     {
      "code": "VGA552",
-     "prg": "Ss1"
+     "prg": "SS1"
     },
     {
      "code": "KNR603",
@@ -3441,11 +3441,11 @@
     },
     {
      "code": "VGA512",
-     "prg": "Ss10"
+     "prg": "SS10"
     },
     {
      "code": "VGA502",
-     "prg": "Ss10"
+     "prg": "SS10"
     },
     {
      "code": "KNR590",
@@ -3501,11 +3501,11 @@
     },
     {
      "code": "VGA518",
-     "prg": "Ss11"
+     "prg": "SS11"
     },
     {
      "code": "VGA631",
-     "prg": "Ss11"
+     "prg": "SS11"
     },
     {
      "code": "KNR547",
@@ -3561,7 +3561,7 @@
     },
     {
      "code": "VGA519",
-     "prg": "Ss12"
+     "prg": "SS12"
     },
     {
      "code": "KNR548",
@@ -3621,11 +3621,11 @@
     },
     {
      "code": "VGA525",
-     "prg": "Ss13"
+     "prg": "SS13"
     },
     {
      "code": "VGA558",
-     "prg": "Ss13"
+     "prg": "SS13"
     },
     {
      "code": "KNR504",
@@ -3685,11 +3685,11 @@
     },
     {
      "code": "VGA515",
-     "prg": "Ss14"
+     "prg": "SS14"
     },
     {
      "code": "VGA704",
-     "prg": "Ss14"
+     "prg": "SS14"
     },
     {
      "code": "KNR618",
@@ -3745,11 +3745,11 @@
     },
     {
      "code": "VGA518",
-     "prg": "Ss15"
+     "prg": "SS15"
     },
     {
      "code": "VGA696",
-     "prg": "Ss15"
+     "prg": "SS15"
     },
     {
      "code": "KNR587",
@@ -3809,11 +3809,11 @@
     },
     {
      "code": "VGA515",
-     "prg": "Ss16"
+     "prg": "SS16"
     },
     {
      "code": "VGA611",
-     "prg": "Ss16"
+     "prg": "SS16"
     },
     {
      "code": "KNR541",
@@ -3873,11 +3873,11 @@
     },
     {
      "code": "VGA528",
-     "prg": "Ss17"
+     "prg": "SS17"
     },
     {
      "code": "VGA628",
-     "prg": "Ss17"
+     "prg": "SS17"
     },
     {
      "code": "KNR626",
@@ -3933,11 +3933,11 @@
     },
     {
      "code": "VGA561",
-     "prg": "Ss18"
+     "prg": "SS18"
     },
     {
      "code": "VGA520",
-     "prg": "Ss18"
+     "prg": "SS18"
     },
     {
      "code": "KNR629",
@@ -3993,11 +3993,11 @@
     },
     {
      "code": "VGA520",
-     "prg": "Ss19"
+     "prg": "SS19"
     },
     {
      "code": "VGA561",
-     "prg": "Ss19"
+     "prg": "SS19"
     },
     {
      "code": "KNR626",
@@ -4057,11 +4057,11 @@
     },
     {
      "code": "VGA547",
-     "prg": "Ss2"
+     "prg": "SS2"
     },
     {
      "code": "VGA512",
-     "prg": "Ss2"
+     "prg": "SS2"
     },
     {
      "code": "KNR603",
@@ -4121,11 +4121,11 @@
     },
     {
      "code": "VGA527",
-     "prg": "Ss20"
+     "prg": "SS20"
     },
     {
      "code": "VGA557",
-     "prg": "Ss20"
+     "prg": "SS20"
     },
     {
      "code": "KNR586",
@@ -4185,11 +4185,11 @@
     },
     {
      "code": "VGA513",
-     "prg": "Ss3"
+     "prg": "SS3"
     },
     {
      "code": "VGA698",
-     "prg": "Ss3"
+     "prg": "SS3"
     },
     {
      "code": "KNR626",
@@ -4253,11 +4253,11 @@
     },
     {
      "code": "VGA514",
-     "prg": "Ss4"
+     "prg": "SS4"
     },
     {
      "code": "VGA503",
-     "prg": "Ss4"
+     "prg": "SS4"
     },
     {
      "code": "KNR571",
@@ -4317,11 +4317,11 @@
     },
     {
      "code": "VGA527",
-     "prg": "Ss5"
+     "prg": "SS5"
     },
     {
      "code": "VGA620",
-     "prg": "Ss5"
+     "prg": "SS5"
     },
     {
      "code": "KNR589",
@@ -4381,11 +4381,11 @@
     },
     {
      "code": "VGA515",
-     "prg": "Ss6"
+     "prg": "SS6"
     },
     {
      "code": "VGA502",
-     "prg": "Ss6"
+     "prg": "SS6"
     },
     {
      "code": "KNR641",
@@ -4445,11 +4445,11 @@
     },
     {
      "code": "VGA516",
-     "prg": "Ss7"
+     "prg": "SS7"
     },
     {
      "code": "VGA563",
-     "prg": "Ss7"
+     "prg": "SS7"
     },
     {
      "code": "KNR595",
@@ -4509,11 +4509,11 @@
     },
     {
      "code": "VGA517",
-     "prg": "Ss8"
+     "prg": "SS8"
     },
     {
      "code": "VGA562",
-     "prg": "Ss8"
+     "prg": "SS8"
     },
     {
      "code": "KNR514",
@@ -4573,11 +4573,11 @@
     },
     {
      "code": "VGA528",
-     "prg": "Ss9"
+     "prg": "SS9"
     },
     {
      "code": "VGA558",
-     "prg": "Ss9"
+     "prg": "SS9"
     },
     {
      "code": "KNR517",
