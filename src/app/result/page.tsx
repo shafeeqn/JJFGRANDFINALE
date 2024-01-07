@@ -61,17 +61,18 @@ const page = () => {
     let totalPoints = 0;
     let cat = ""
 
-    // cp.map((c)=>{
-    //   // check is published
+    cp.map((c)=>{
+      if(cnd.chest == c.code){
+        const prg = programsData.find((p)=> p.code == c.prg)
 
-    //   programsData.find((prg)=> prg.code == c.prg && prg.publish == 1 &&  && b?.isGrp != 1)
-
-    //   if(cnd.chest == c.code && prg.publish == 1){
-    //     cat = c.prg.slice(0,1)
-    //     totalPoints += c?.pts || 0
-    //   }
-    // }
-    // )  
+        if(prg?.publish == 1 && prg?.isGrp != 1){
+          cat = c.prg.slice(0,1)
+          totalPoints += c?.pts || 0
+        }
+      
+      }
+    }
+    )
     
 
     return {
@@ -82,6 +83,8 @@ const page = () => {
   }
 
   )
+    
+
 
   const topCandidatesSorted = topCandidates.sort((a,b)=> b.totalPoints - a.totalPoints)
 
