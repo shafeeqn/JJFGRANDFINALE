@@ -165,61 +165,71 @@
   "code": "JO21",
   "name": "ചിത്രരചന",
   "engName": "DRAWING",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO22",
   "name": "സുഡോക്കു",
   "engName": "SUDOKU",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO23",
   "name": "മെമ്മറി ടെസ്റ്റ്",
   "engName": "MEMORY TEST",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO24",
   "name": "ഖത്തുന്നസ്ഖ്",
   "engName": "KHATHUNNASKH",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO25",
   "name": "കേട്ടെഴുത്ത്",
   "engName": "KETTEZHUTH",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO26",
   "name": "പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
   "engName": "POSTER DESIGNING",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO27",
   "name": "നിഘണ്ടു നിര്‍മ്മാണം",
   "engName": "DICTIONARY MAKING",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO28",
   "name": "തശ്കീല്‍",
   "engName": "THASHKEEL",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO29",
   "name": "മലയാള പ്രബന്ധം",
   "engName": "ESSAY MALAYALAM",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JO30",
   "name": "പ്രശ്‌നോത്തരി",
   "engName": "PUZZLE",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "SS1",
