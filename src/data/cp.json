@@ -1,7 +1,9 @@
 [
  {
   "code": "KDY306",
-  "prg": "JO21"
+  "prg": "JO21",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY178",
@@ -17,7 +19,10 @@
  },
  {
   "code": "TGI220",
-  "prg": "JO21"
+  "prg": "JO21",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "TGI230",
@@ -29,19 +34,29 @@
  },
  {
   "code": "VGA117",
-  "prg": "JO21"
+  "prg": "JO21",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR206",
-  "prg": "JO21"
+  "prg": "JO21",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "CLT179",
-  "prg": "JO21"
+  "prg": "JO21",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "CLT120",
-  "prg": "JO21"
+  "prg": "JO21",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD104",
@@ -56,12 +71,21 @@
   "prg": "JO21"
  },
  {
+  "code": "KSD150",
+  "prg": "JO21"
+ },
+ {
   "code": "KDY132",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY119",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "PMN109",
@@ -69,7 +93,10 @@
  },
  {
   "code": "PMN134",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "TGI218",
@@ -77,7 +104,9 @@
  },
  {
   "code": "TGI111",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "VGA320",
@@ -93,11 +122,16 @@
  },
  {
   "code": "KNR126",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT176",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "CLT126",
@@ -105,11 +139,27 @@
  },
  {
   "code": "PKD215",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD197",
-  "prg": "JO22"
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD125",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KSD230",
+  "prg": "JO22",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD125",
@@ -125,7 +175,10 @@
  },
  {
   "code": "KDY138",
-  "prg": "JO23"
+  "prg": "JO23",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "PMN291",
@@ -149,7 +202,10 @@
  },
  {
   "code": "VGA314",
-  "prg": "JO23"
+  "prg": "JO23",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KNR179",
@@ -161,7 +217,10 @@
  },
  {
   "code": "CLT124",
-  "prg": "JO23"
+  "prg": "JO23",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "CLT244",
@@ -184,8 +243,19 @@
   "prg": "JO23"
  },
  {
+  "code": "KSD196",
+  "prg": "JO23"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JO23"
+ },
+ {
   "code": "KDY128",
-  "prg": "JO24"
+  "prg": "JO24",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
  },
  {
   "code": "PMN126",
@@ -201,15 +271,24 @@
  },
  {
   "code": "TGI211",
-  "prg": "JO24"
+  "prg": "JO24",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
  },
  {
   "code": "TGI309",
-  "prg": "JO24"
+  "prg": "JO24",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
  },
  {
   "code": "VGA119",
-  "prg": "JO24"
+  "prg": "JO24",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KNR302",
@@ -233,7 +312,10 @@
  },
  {
   "code": "KDY137",
-  "prg": "JO25"
+  "prg": "JO25",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "KDY170",
@@ -249,7 +331,10 @@
  },
  {
   "code": "TGI211",
-  "prg": "JO25"
+  "prg": "JO25",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
  },
  {
   "code": "TGI427",
@@ -257,7 +342,10 @@
  },
  {
   "code": "VGA120",
-  "prg": "JO25"
+  "prg": "JO25",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "VGA184",
@@ -288,8 +376,19 @@
   "prg": "JO25"
  },
  {
+  "code": "KSD126",
+  "prg": "JO25"
+ },
+ {
+  "code": "KSD222",
+  "prg": "JO25"
+ },
+ {
   "code": "KDY136",
-  "prg": "JO26"
+  "prg": "JO26",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
  },
  {
   "code": "PMN126",
@@ -301,7 +400,10 @@
  },
  {
   "code": "TGI217",
-  "prg": "JO26"
+  "prg": "JO26",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "TGI110",
@@ -321,7 +423,10 @@
  },
  {
   "code": "CLT184",
-  "prg": "JO26"
+  "prg": "JO26",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
  },
  {
   "code": "CLT128",
@@ -329,6 +434,10 @@
  },
  {
   "code": "PKD202",
+  "prg": "JO26"
+ },
+ {
+  "code": "KSD125",
   "prg": "JO26"
  },
  {
@@ -345,11 +454,17 @@
  },
  {
   "code": "PMN132",
-  "prg": "JO27"
+  "prg": "JO27",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "TGI208",
-  "prg": "JO27"
+  "prg": "JO27",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "TGI204",
@@ -357,7 +472,10 @@
  },
  {
   "code": "VGA122",
-  "prg": "JO27"
+  "prg": "JO27",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA151",
@@ -396,8 +514,19 @@
   "prg": "JO27"
  },
  {
+  "code": "KSD105",
+  "prg": "JO27"
+ },
+ {
+  "code": "KSD128",
+  "prg": "JO27"
+ },
+ {
   "code": "KDY123",
-  "prg": "JO28"
+  "prg": "JO28",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KDY318",
@@ -417,11 +546,17 @@
  },
  {
   "code": "TGI213",
-  "prg": "JO28"
+  "prg": "JO28",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA110",
-  "prg": "JO28"
+  "prg": "JO28",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "VGA227",
@@ -452,6 +587,10 @@
   "prg": "JO28"
  },
  {
+  "code": "KSD231",
+  "prg": "JO28"
+ },
+ {
   "code": "KDY281",
   "prg": "JO29"
  },
@@ -461,11 +600,17 @@
  },
  {
   "code": "PMN247",
-  "prg": "JO29"
+  "prg": "JO29",
+  "grade": "B",
+  "position": 1,
+  "pts": 8
  },
  {
   "code": "TGI401",
-  "prg": "JO29"
+  "prg": "JO29",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
  },
  {
   "code": "TGI185",
@@ -485,7 +630,10 @@
  },
  {
   "code": "KNR252",
-  "prg": "JO29"
+  "prg": "JO29",
+  "grade": "B",
+  "position": 2,
+  "pts": 6
  },
  {
   "code": "CLT135",
@@ -504,8 +652,14 @@
   "prg": "JO29"
  },
  {
+  "code": "KSD168",
+  "prg": "JO29"
+ },
+ {
   "code": "KDY123",
-  "prg": "JO30"
+  "prg": "JO30",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY282",
@@ -521,7 +675,10 @@
  },
  {
   "code": "TGI219",
-  "prg": "JO30"
+  "prg": "JO30",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "TGI417",
@@ -529,7 +686,10 @@
  },
  {
   "code": "VGA110",
-  "prg": "JO30"
+  "prg": "JO30",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "VGA144",
@@ -537,7 +697,10 @@
  },
  {
   "code": "KNR175",
-  "prg": "JO30"
+  "prg": "JO30",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KNR265",
@@ -549,6 +712,14 @@
  },
  {
   "code": "PKD224",
+  "prg": "JO30"
+ },
+ {
+  "code": "KSD153",
+  "prg": "JO30"
+ },
+ {
+  "code": "KSD231",
   "prg": "JO30"
  },
  {
@@ -634,6 +805,14 @@
   "grade": "A",
   "position": 2,
   "pts": 8
+ },
+ {
+  "code": "KSD149",
+  "prg": "JS1"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS1"
  },
  {
   "code": "KSD149",
@@ -732,6 +911,14 @@
   "pts": 6
  },
  {
+  "code": "KSD175",
+  "prg": "JS10"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS10"
+ },
+ {
   "code": "KDY227",
   "prg": "JS11"
  },
@@ -822,6 +1009,14 @@
   "pts": 5
  },
  {
+  "code": "KSD132",
+  "prg": "JS11"
+ },
+ {
+  "code": "KSD182",
+  "prg": "JS11"
+ },
+ {
   "code": "KDY195",
   "prg": "JS12"
  },
@@ -909,6 +1104,14 @@
   "prg": "JS12"
  },
  {
+  "code": "KSD154",
+  "prg": "JS12"
+ },
+ {
+  "code": "KSD236",
+  "prg": "JS12"
+ },
+ {
   "code": "KDY306",
   "prg": "JS13"
  },
@@ -986,6 +1189,14 @@
   "pts": 10
  },
  {
+  "code": "KSD110",
+  "prg": "JS13"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS13"
+ },
+ {
   "code": "KDY220",
   "prg": "JS14"
  },
@@ -1052,6 +1263,14 @@
  },
  {
   "code": "PKD215",
+  "prg": "JS14"
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS14"
+ },
+ {
+  "code": "KSD222",
   "prg": "JS14"
  },
  {
@@ -1140,6 +1359,14 @@
   "prg": "JS15"
  },
  {
+  "code": "KSD136",
+  "prg": "JS15"
+ },
+ {
+  "code": "KSD233",
+  "prg": "JS15"
+ },
+ {
   "code": "KDY131",
   "prg": "JS16",
   "grade": "A",
@@ -1212,6 +1439,14 @@
  },
  {
   "code": "KSD131",
+  "prg": "JS16"
+ },
+ {
+  "code": "KSD131",
+  "prg": "JS16"
+ },
+ {
+  "code": "KSD231",
   "prg": "JS16"
  },
  {
@@ -1289,6 +1524,14 @@
  },
  {
   "code": "KSD125",
+  "prg": "JS17"
+ },
+ {
+  "code": "KSD125",
+  "prg": "JS17"
+ },
+ {
+  "code": "KSD222",
   "prg": "JS17"
  },
  {
@@ -1374,6 +1617,14 @@
   "pts": 5
  },
  {
+  "code": "KSD135",
+  "prg": "JS18"
+ },
+ {
+  "code": "KSD236",
+  "prg": "JS18"
+ },
+ {
   "code": "KDY133",
   "prg": "JS19",
   "grade": "A",
@@ -1455,6 +1706,14 @@
   "prg": "JS19"
  },
  {
+  "code": "KSD131",
+  "prg": "JS19"
+ },
+ {
+  "code": "KSD180",
+  "prg": "JS19"
+ },
+ {
   "code": "KDY140",
   "prg": "JS2",
   "grade": "A",
@@ -1523,6 +1782,14 @@
  },
  {
   "code": "PKD198",
+  "prg": "JS2"
+ },
+ {
+  "code": "KSD129",
+  "prg": "JS2"
+ },
+ {
+  "code": "KSD187",
   "prg": "JS2"
  },
  {
@@ -1615,6 +1882,14 @@
   "prg": "JS20"
  },
  {
+  "code": "KSD151",
+  "prg": "JS20"
+ },
+ {
+  "code": "KSD186",
+  "prg": "JS20"
+ },
+ {
   "code": "KDY302",
   "prg": "JS3"
  },
@@ -1684,6 +1959,14 @@
   "grade": "A",
   "position": 3,
   "pts": 6
+ },
+ {
+  "code": "KSD230",
+  "prg": "JS3"
+ },
+ {
+  "code": "KSD130",
+  "prg": "JS3"
  },
  {
   "code": "KSD230",
@@ -1773,6 +2056,14 @@
   "prg": "JS4"
  },
  {
+  "code": "KSD134",
+  "prg": "JS4"
+ },
+ {
+  "code": "KSD181",
+  "prg": "JS4"
+ },
+ {
   "code": "KDY220",
   "prg": "JS5"
  },
@@ -1851,6 +2142,14 @@
   "grade": "A",
   "position": 2,
   "pts": 8
+ },
+ {
+  "code": "KSD172",
+  "prg": "JS5"
+ },
+ {
+  "code": "KSD134",
+  "prg": "JS5"
  },
  {
   "code": "KSD172",
@@ -1953,6 +2252,14 @@
   "pts": 5
  },
  {
+  "code": "KSD134",
+  "prg": "JS6"
+ },
+ {
+  "code": "KSD232",
+  "prg": "JS6"
+ },
+ {
   "code": "KDY135",
   "prg": "JS7",
   "grade": "A",
@@ -2051,6 +2358,14 @@
   "prg": "JS7"
  },
  {
+  "code": "KSD129",
+  "prg": "JS7"
+ },
+ {
+  "code": "KSD185",
+  "prg": "JS7"
+ },
+ {
   "code": "KDY124",
   "prg": "JS8",
   "grade": "B",
@@ -2112,6 +2427,14 @@
  },
  {
   "code": "PKD283",
+  "prg": "JS8"
+ },
+ {
+  "code": "KSD136",
+  "prg": "JS8"
+ },
+ {
+  "code": "KSD233",
   "prg": "JS8"
  },
  {
@@ -2209,452 +2532,16 @@
   "prg": "JS9"
  },
  {
-  "code": "JO27",
-  "prg": "KSD105"
+  "code": "KSD179",
+  "prg": "JS9"
  },
  {
-  "code": "JS13",
-  "prg": "KSD110"
+  "code": "KSD180",
+  "prg": "JS9"
  },
  {
-  "code": "JS17",
-  "prg": "KSD125"
- },
- {
-  "code": "JO22",
-  "prg": "KSD125"
- },
- {
-  "code": "JO26",
-  "prg": "KSD125"
- },
- {
-  "code": "JO25",
-  "prg": "KSD126"
- },
- {
-  "code": "JO27",
-  "prg": "KSD128"
- },
- {
-  "code": "JS2",
-  "prg": "KSD129"
- },
- {
-  "code": "JS7",
-  "prg": "KSD129"
- },
- {
-  "code": "JS1",
-  "prg": "KSD130"
- },
- {
-  "code": "JS3",
-  "prg": "KSD130"
- },
- {
-  "code": "JS13",
-  "prg": "KSD130"
- },
- {
-  "code": "JS16",
-  "prg": "KSD131"
- },
- {
-  "code": "JS19",
-  "prg": "KSD131"
- },
- {
-  "code": "JS11",
-  "prg": "KSD132"
- },
- {
-  "code": "JS4",
-  "prg": "KSD134"
- },
- {
-  "code": "JS5",
-  "prg": "KSD134"
- },
- {
-  "code": "JS6",
-  "prg": "KSD134"
- },
- {
-  "code": "JS18",
-  "prg": "KSD135"
- },
- {
-  "code": "JS8",
-  "prg": "KSD136"
- },
- {
-  "code": "JS14",
-  "prg": "KSD136"
- },
- {
-  "code": "JS15",
-  "prg": "KSD136"
- },
- {
-  "code": "JS1",
-  "prg": "KSD149"
- },
- {
-  "code": "JO21",
-  "prg": "KSD150"
- },
- {
-  "code": "JS20",
-  "prg": "KSD151"
- },
- {
-  "code": "JO30",
-  "prg": "KSD153"
- },
- {
-  "code": "JS12",
-  "prg": "KSD154"
- },
- {
-  "code": "JO29",
-  "prg": "KSD168"
- },
- {
-  "code": "JS5",
-  "prg": "KSD172"
- },
- {
-  "code": "JS10",
-  "prg": "KSD175"
- },
- {
-  "code": "JS9",
-  "prg": "KSD179"
- },
- {
-  "code": "JS9",
-  "prg": "KSD180"
- },
- {
-  "code": "JS10",
-  "prg": "KSD180"
- },
- {
-  "code": "JS19",
-  "prg": "KSD180"
- },
- {
-  "code": "JS4",
-  "prg": "KSD181"
- },
- {
-  "code": "JS11",
-  "prg": "KSD182"
- },
- {
-  "code": "JS7",
-  "prg": "KSD185"
- },
- {
-  "code": "JS20",
-  "prg": "KSD186"
- },
- {
-  "code": "JS2",
-  "prg": "KSD187"
- },
- {
-  "code": "JO23",
-  "prg": "KSD196"
- },
- {
-  "code": "JS14",
-  "prg": "KSD222"
- },
- {
-  "code": "JS17",
-  "prg": "KSD222"
- },
- {
-  "code": "JO23",
-  "prg": "KSD222"
- },
- {
-  "code": "JO25",
-  "prg": "KSD222"
- },
- {
-  "code": "JS3",
-  "prg": "KSD230"
- },
- {
-  "code": "JO22",
-  "prg": "KSD230"
- },
- {
-  "code": "JS16",
-  "prg": "KSD231"
- },
- {
-  "code": "JO28",
-  "prg": "KSD231"
- },
- {
-  "code": "JO30",
-  "prg": "KSD231"
- },
- {
-  "code": "JS6",
-  "prg": "KSD232"
- },
- {
-  "code": "JS8",
-  "prg": "KSD233"
- },
- {
-  "code": "JS15",
-  "prg": "KSD233"
- },
- {
-  "code": "JS12",
-  "prg": "KSD236"
- },
- {
-  "code": "JS18",
-  "prg": "KSD236"
- },
- {
-  "code": "SS3",
-  "prg": "KSD501"
- },
- {
-  "code": "SS6",
-  "prg": "KSD502"
- },
- {
-  "code": "SS20",
-  "prg": "KSD503"
- },
- {
-  "code": "SO21",
-  "prg": "KSD517"
- },
- {
-  "code": "SO22",
-  "prg": "KSD517"
- },
- {
-  "code": "SO39",
-  "prg": "KSD517"
- },
- {
-  "code": "SS9",
-  "prg": "KSD518"
- },
- {
-  "code": "SO35",
-  "prg": "KSD518"
- },
- {
-  "code": "SO24",
-  "prg": "KSD519"
- },
- {
-  "code": "SO31",
-  "prg": "KSD519"
- },
- {
-  "code": "SS20",
-  "prg": "KSD520"
- },
- {
-  "code": "SS11",
-  "prg": "KSD521"
- },
- {
-  "code": "SO28",
-  "prg": "KSD521"
- },
- {
-  "code": "SS5",
-  "prg": "KSD522"
- },
- {
-  "code": "SS6",
-  "prg": "KSD522"
- },
- {
-  "code": "SS16",
-  "prg": "KSD522"
- },
- {
-  "code": "SO30",
-  "prg": "KSD522"
- },
- {
-  "code": "SO33",
-  "prg": "KSD522"
- },
- {
-  "code": "SO32",
-  "prg": "KSD523"
- },
- {
-  "code": "SO36",
-  "prg": "KSD523"
- },
- {
-  "code": "SO34",
-  "prg": "KSD524"
- },
- {
-  "code": "SO37",
-  "prg": "KSD525"
- },
- {
-  "code": "SS1",
-  "prg": "KSD526"
- },
- {
-  "code": "SS3",
-  "prg": "KSD526"
- },
- {
-  "code": "SS12",
-  "prg": "KSD526"
- },
- {
-  "code": "SS18",
-  "prg": "KSD526"
- },
- {
-  "code": "SS19",
-  "prg": "KSD526"
- },
- {
-  "code": "SS8",
-  "prg": "KSD527"
- },
- {
-  "code": "SS13",
-  "prg": "KSD527"
- },
- {
-  "code": "SS2",
-  "prg": "KSD528"
- },
- {
-  "code": "SS7",
-  "prg": "KSD528"
- },
- {
-  "code": "SS17",
-  "prg": "KSD529"
- },
- {
-  "code": "SS1",
-  "prg": "KSD539"
- },
- {
-  "code": "SS4",
-  "prg": "KSD539"
- },
- {
-  "code": "SS5",
-  "prg": "KSD539"
- },
- {
-  "code": "SS14",
-  "prg": "KSD540"
- },
- {
-  "code": "SS9",
-  "prg": "KSD549"
- },
- {
-  "code": "SO27",
-  "prg": "KSD549"
- },
- {
-  "code": "SS7",
-  "prg": "KSD554"
- },
- {
-  "code": "SS15",
-  "prg": "KSD559"
- },
- {
-  "code": "SS4",
-  "prg": "KSD560"
- },
- {
-  "code": "SO32",
-  "prg": "KSD560"
- },
- {
-  "code": "SS10",
-  "prg": "KSD563"
- },
- {
-  "code": "SS11",
-  "prg": "KSD582"
- },
- {
-  "code": "SO25",
-  "prg": "KSD582"
- },
- {
-  "code": "SS2",
-  "prg": "KSD587"
- },
- {
-  "code": "SO26",
-  "prg": "KSD588"
- },
- {
-  "code": "SO38",
-  "prg": "KSD588"
- },
- {
-  "code": "SS13",
-  "prg": "KSD589"
- },
- {
-  "code": "SO30",
-  "prg": "KSD592"
- },
- {
-  "code": "SS8",
-  "prg": "KSD595"
- },
- {
-  "code": "SS19",
-  "prg": "KSD598"
- },
- {
-  "code": "SO23",
-  "prg": "KSD598"
- },
- {
-  "code": "SS16",
-  "prg": "KSD599"
- },
- {
-  "code": "SS10",
-  "prg": "KSD600"
- },
- {
-  "code": "SS12",
-  "prg": "KSD600"
- },
- {
-  "code": "SO37",
-  "prg": "KSD600"
- },
- {
-  "code": "SS15",
-  "prg": "KSD601"
+  "code": "KSD517",
+  "prg": "SO21"
  },
  {
   "code": "KDY536",
@@ -2717,6 +2604,10 @@
   "prg": "SO21"
  },
  {
+  "code": "KSD517",
+  "prg": "SO22"
+ },
+ {
   "code": "KDY542",
   "prg": "SO22"
  },
@@ -2767,6 +2658,10 @@
  {
   "code": "KSD517",
   "prg": "SO22"
+ },
+ {
+  "code": "KSD598",
+  "prg": "SO23"
  },
  {
   "code": "KDY547",
@@ -2821,6 +2716,10 @@
   "prg": "SO23"
  },
  {
+  "code": "KSD519",
+  "prg": "SO24"
+ },
+ {
   "code": "PMN551",
   "prg": "SO24"
  },
@@ -2863,6 +2762,10 @@
  {
   "code": "KSD519",
   "prg": "SO24"
+ },
+ {
+  "code": "KSD582",
+  "prg": "SO25"
  },
  {
   "code": "KDY509",
@@ -2921,6 +2824,10 @@
   "prg": "SO25"
  },
  {
+  "code": "KSD588",
+  "prg": "SO26"
+ },
+ {
   "code": "KDY583",
   "prg": "SO26"
  },
@@ -2977,6 +2884,10 @@
   "prg": "SO26"
  },
  {
+  "code": "KSD549",
+  "prg": "SO27"
+ },
+ {
   "code": "KDY595",
   "prg": "SO27"
  },
@@ -3027,6 +2938,10 @@
  {
   "code": "KSD549",
   "prg": "SO27"
+ },
+ {
+  "code": "KSD521",
+  "prg": "SO28"
  },
  {
   "code": "KDY549",
@@ -3133,6 +3048,14 @@
   "prg": "SO29"
  },
  {
+  "code": "KSD522",
+  "prg": "SO30"
+ },
+ {
+  "code": "KSD592",
+  "prg": "SO30"
+ },
+ {
   "code": "KDY632",
   "prg": "SO30"
  },
@@ -3197,6 +3120,10 @@
   "prg": "SO30"
  },
  {
+  "code": "KSD519",
+  "prg": "SO31"
+ },
+ {
   "code": "KDY540",
   "prg": "SO31"
  },
@@ -3247,6 +3174,14 @@
  {
   "code": "KSD519",
   "prg": "SO31"
+ },
+ {
+  "code": "KSD523",
+  "prg": "SO32"
+ },
+ {
+  "code": "KSD560",
+  "prg": "SO32"
  },
  {
   "code": "KDY672",
@@ -3305,6 +3240,10 @@
   "prg": "SO32"
  },
  {
+  "code": "KSD522",
+  "prg": "SO33"
+ },
+ {
   "code": "KDY548",
   "prg": "SO33"
  },
@@ -3361,6 +3300,10 @@
   "prg": "SO33"
  },
  {
+  "code": "KSD524",
+  "prg": "SO34"
+ },
+ {
   "code": "KDY513",
   "prg": "SO34"
  },
@@ -3407,6 +3350,10 @@
  {
   "code": "KSD524",
   "prg": "SO34"
+ },
+ {
+  "code": "KSD518",
+  "prg": "SO35"
  },
  {
   "code": "KDY544",
@@ -3463,6 +3410,10 @@
  {
   "code": "KSD518",
   "prg": "SO35"
+ },
+ {
+  "code": "KSD523",
+  "prg": "SO36"
  },
  {
   "code": "KDY674",
@@ -3523,6 +3474,14 @@
  {
   "code": "KSD523",
   "prg": "SO36"
+ },
+ {
+  "code": "KSD525",
+  "prg": "SO37"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SO37"
  },
  {
   "code": "KDY534",
@@ -3589,6 +3548,10 @@
   "prg": "SO37"
  },
  {
+  "code": "KSD588",
+  "prg": "SO38"
+ },
+ {
   "code": "KDY544",
   "prg": "SO38"
  },
@@ -3627,6 +3590,10 @@
  {
   "code": "KSD588",
   "prg": "SO38"
+ },
+ {
+  "code": "KSD517",
+  "prg": "SO39"
  },
  {
   "code": "KDY540",
@@ -3737,6 +3704,14 @@
   "prg": "SO40"
  },
  {
+  "code": "KSD526",
+  "prg": "SS1"
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS1"
+ },
+ {
   "code": "KDY712",
   "prg": "SS1"
  },
@@ -3799,6 +3774,14 @@
  {
   "code": "KSD539",
   "prg": "SS1"
+ },
+ {
+  "code": "KSD563",
+  "prg": "SS10"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SS10"
  },
  {
   "code": "KDY718",
@@ -3865,6 +3848,14 @@
   "prg": "SS10"
  },
  {
+  "code": "KSD521",
+  "prg": "SS11"
+ },
+ {
+  "code": "KSD582",
+  "prg": "SS11"
+ },
+ {
   "code": "KDY665",
   "prg": "SS11"
  },
@@ -3925,6 +3916,14 @@
   "prg": "SS11"
  },
  {
+  "code": "KSD526",
+  "prg": "SS12"
+ },
+ {
+  "code": "KSD600",
+  "prg": "SS12"
+ },
+ {
   "code": "KDY671",
   "prg": "SS12"
  },
@@ -3979,6 +3978,14 @@
  {
   "code": "KSD600",
   "prg": "SS12"
+ },
+ {
+  "code": "KSD527",
+  "prg": "SS13"
+ },
+ {
+  "code": "KSD589",
+  "prg": "SS13"
  },
  {
   "code": "KDY540",
@@ -4045,6 +4052,10 @@
   "prg": "SS13"
  },
  {
+  "code": "KSD540",
+  "prg": "SS14"
+ },
+ {
   "code": "KDY535",
   "prg": "SS14"
  },
@@ -4103,6 +4114,14 @@
  {
   "code": "KSD540",
   "prg": "SS14"
+ },
+ {
+  "code": "KSD559",
+  "prg": "SS15"
+ },
+ {
+  "code": "KSD601",
+  "prg": "SS15"
  },
  {
   "code": "KDY548",
@@ -4169,6 +4188,14 @@
   "prg": "SS15"
  },
  {
+  "code": "KSD522",
+  "prg": "SS16"
+ },
+ {
+  "code": "KSD599",
+  "prg": "SS16"
+ },
+ {
   "code": "KDY674",
   "prg": "SS16"
  },
@@ -4233,6 +4260,10 @@
   "prg": "SS16"
  },
  {
+  "code": "KSD529",
+  "prg": "SS17"
+ },
+ {
   "code": "KDY530",
   "prg": "SS17"
  },
@@ -4293,6 +4324,10 @@
   "prg": "SS17"
  },
  {
+  "code": "KSD526",
+  "prg": "SS18"
+ },
+ {
   "code": "KDY530",
   "prg": "SS18"
  },
@@ -4351,6 +4386,14 @@
  {
   "code": "KSD526",
   "prg": "SS18"
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS19"
+ },
+ {
+  "code": "KSD598",
+  "prg": "SS19"
  },
  {
   "code": "KDY712",
@@ -4417,6 +4460,14 @@
   "prg": "SS19"
  },
  {
+  "code": "KSD528",
+  "prg": "SS2"
+ },
+ {
+  "code": "KSD587",
+  "prg": "SS2"
+ },
+ {
   "code": "KDY599",
   "prg": "SS2"
  },
@@ -4481,6 +4532,14 @@
   "prg": "SS2"
  },
  {
+  "code": "KSD503",
+  "prg": "SS20"
+ },
+ {
+  "code": "KSD520",
+  "prg": "SS20"
+ },
+ {
   "code": "KDY693",
   "prg": "SS20"
  },
@@ -4543,6 +4602,14 @@
  {
   "code": "KSD503",
   "prg": "SS20"
+ },
+ {
+  "code": "KSD501",
+  "prg": "SS3"
+ },
+ {
+  "code": "KSD526",
+  "prg": "SS3"
  },
  {
   "code": "KDY601",
@@ -4613,6 +4680,14 @@
   "prg": "SS30"
  },
  {
+  "code": "KSD539",
+  "prg": "SS4"
+ },
+ {
+  "code": "KSD560",
+  "prg": "SS4"
+ },
+ {
   "code": "KDY544",
   "prg": "SS4"
  },
@@ -4675,6 +4750,14 @@
  {
   "code": "KSD560",
   "prg": "SS4"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS5"
+ },
+ {
+  "code": "KSD539",
+  "prg": "SS5"
  },
  {
   "code": "KDY606",
@@ -4741,6 +4824,14 @@
   "prg": "SS5"
  },
  {
+  "code": "KSD502",
+  "prg": "SS6"
+ },
+ {
+  "code": "KSD522",
+  "prg": "SS6"
+ },
+ {
   "code": "KDY716",
   "prg": "SS6"
  },
@@ -4803,6 +4894,14 @@
  {
   "code": "KSD502",
   "prg": "SS6"
+ },
+ {
+  "code": "KSD528",
+  "prg": "SS7"
+ },
+ {
+  "code": "KSD554",
+  "prg": "SS7"
  },
  {
   "code": "KDY552",
@@ -4869,6 +4968,14 @@
   "prg": "SS7"
  },
  {
+  "code": "KSD527",
+  "prg": "SS8"
+ },
+ {
+  "code": "KSD595",
+  "prg": "SS8"
+ },
+ {
   "code": "KDY533",
   "prg": "SS8"
  },
@@ -4931,6 +5038,14 @@
  {
   "code": "KSD527",
   "prg": "SS8"
+ },
+ {
+  "code": "KSD518",
+  "prg": "SS9"
+ },
+ {
+  "code": "KSD549",
+  "prg": "SS9"
  },
  {
   "code": "KDY606",
