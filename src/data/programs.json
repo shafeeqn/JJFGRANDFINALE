@@ -378,121 +378,141 @@
   "code": "SO21",
   "name": "അറബിക് കാലിഗ്രഫി",
   "engName": "CALLIGRAPHY ARABIC",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO22",
   "name": "പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
   "engName": "POSTER DESIGNING",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO23",
   "name": "ഖത്തുന്നസ്ഖ്",
   "engName": "KHATHUNNAKH",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO24",
   "name": "ഖത്തുറുഖഈ",
   "engName": "KHATHURUQA'",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO25",
   "name": "വിവര്‍ത്തനം",
   "engName": "TRANSLATION",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO26",
   "name": "വിവര്‍ത്തനം",
   "engName": "TRANSLATION",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO27",
   "name": "വിവര്‍ത്തനം",
   "engName": "TRANSLATION",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO28",
   "name": "പ്രബന്ധം അറബി",
   "engName": "ESSAY ARABIC",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO29",
   "name": "പ്രബന്ധം ഇംഗ്ലീഷ്",
   "engName": "ESSAY ENGLISH",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO30",
   "name": "പ്രബന്ധം മലയാളം",
   "engName": "ESSAY MALAYALAM",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO31",
   "name": "റിപ്പോര്‍ട്ടിംഗ്",
   "engName": "REPORTING",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO32",
   "name": "തലവാചക നിര്‍മ്മാണം",
   "engName": "HEADLINE WRITING",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO33",
   "name": "മുദ്രവാക്യ രചന",
   "engName": "SLOGAN MAKING",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO34",
   "name": "കവിതാ രചന",
   "engName": "POEM WRITING",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO35",
   "name": "നിഘണ്ടു നിര്‍മ്മാണം",
   "engName": "DICTIONARY MAKING",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO36",
   "name": "അടിക്കുറിപ്പ്",
   "engName": "CAPTION MAKING",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO37",
   "name": "പദ സമ്പാദനം",
   "engName": "VOCABULARY",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO38",
   "name": "തശ്കീല്‍",
   "engName": "THASHKEEL",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO39",
   "name": "പ്രശ്‌നോത്തരി",
   "engName": "PUZZLE",
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SO40",
   "name": "പത്രനിര്‍മാണം",
   "engName": "NEWSPAPER MAKING",
   "cat": "S",
-  "isGrp": 1
+  "isGrp": 1,
+  "publish": 1
  }
 ]
