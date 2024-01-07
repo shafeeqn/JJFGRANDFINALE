@@ -11,8 +11,7 @@ const Profile = (props: Props) => {
   const [selectedCP, setSelectedCP] = useState<any>();
   return (
     <>
-      {
-        props.candidate.name ?
+      {props.candidate.name ? (
         <div className="flex flex-col justify-center items-center my-10 px-10 w-full">
           <p className="font-semibold bg-yellow px-2 py-1 rounded-md text-lg -mb-5 z-50">
             Details
@@ -33,14 +32,13 @@ const Profile = (props: Props) => {
             <p className="font-semibold text-xl text-center">
               Total Points :{" "}
               <span className="text-2xl font-bold">
-
                 {props?.candidate?.programs?.reduce((a: any, b: any) => {
                     if (b?.publish == 1 && b?.isGrp != 1) {
                         return a + (b?.pts as unknown as number) || 0;
                       } else {
                         return a + 0;
                       }
-                 
+                
                 }, 0)}
               </span>
             </p>
@@ -65,7 +63,7 @@ const Profile = (props: Props) => {
             </>
           )}
         </div>
-        :
+      ) : (
         <div className="flex flex-col justify-center items-center my-10 px-10 w-full">
           <p className="font-semibold bg-yellow px-2 py-1 rounded-md text-lg -mb-5 z-50">
             Details
@@ -76,12 +74,13 @@ const Profile = (props: Props) => {
             </p>
           </div>
         </div>
-      }
+      )}
       <ProgramResult
-          selectedCP={selectedCP as any}
-          programResultView={programResultView}
-          setProgramResultView={setProgramResultView}
-        />
+        name={props.candidate.name}
+        selectedCP={selectedCP as any}
+        programResultView={programResultView}
+        setProgramResultView={setProgramResultView}
+      />
     </>
   );
 };
