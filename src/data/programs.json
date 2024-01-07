@@ -236,84 +236,96 @@
   "name": "ഖിറാഅത്ത്",
   "engName": "QIRA'TH",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS2",
   "name": "ഹിഫ്‌ള്",
   "engName": "HIFZ",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS3",
   "name": "വാങ്ക്",
   "engName": "AZAN",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS4",
   "name": "ക്ലാസ് അവതരണം",
   "engName": "TEACHING",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS5",
   "name": "വഅ്‌ള്",
   "engName": "VA'Z",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS6",
   "name": "പ്രസംഗം മലയാളം",
   "engName": "SPEECH MALAYALAM",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS7",
   "name": "പ്രസംഗം അറബി",
   "engName": "SPEECH ARABIC",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS8",
   "name": "പ്രസംഗം ഉറുദു",
   "engName": "SPEECH URDU",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS9",
   "name": "പ്രസംഗം ഇംഗ്ലീഷ്",
   "engName": "SPEECH ENGLISH",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS10",
   "name": "ഖുഥ്ബ",
   "engName": "KHUTHBA",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS11",
   "name": "ഗ്രന്ഥ വായന",
   "engName": "BOOK READING",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS12",
   "name": "കവിതാലാപനം മലയാളം",
   "engName": "POEM RECITATION",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS13",
@@ -327,28 +339,32 @@
   "name": "അനൗണ്‍സ്‌മെന്റ്",
   "engName": "ANNOUNCEMENT",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS15",
   "name": "പ്രബന്ധാവതരണം",
   "engName": "ESSAY PRESENTATION",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS16",
   "name": "നിമിഷപ്രസംഗം",
   "engName": "EXTEMPORE SPEECH",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS17",
   "name": "പാടിപ്പറയല്‍",
   "engName": "SPEECH AND SONG",
   "isStage": 1,
-  "cat": "S"
+  "cat": "S",
+  "publish": 1
  },
  {
   "code": "SS18",
@@ -356,7 +372,8 @@
   "engName": "MAPPILLA MASHUP",
   "isStage": 1,
   "cat": "S",
-  "isGrp": 1
+  "isGrp": 1,
+  "publish": 1
  },
  {
   "code": "SS19",
@@ -364,7 +381,8 @@
   "engName": "QASEEDA RECITATION",
   "isStage": 1,
   "cat": "S",
-  "isGrp": 1
+  "isGrp": 1,
+  "publish": 1
  },
  {
   "code": "SS20",
@@ -372,7 +390,8 @@
   "engName": "PROGRAMME SETTING",
   "isStage": 1,
   "cat": "S",
-  "isGrp": 1
+  "isGrp": 1,
+  "publish": 1
  },
  {
   "code": "SO21",
