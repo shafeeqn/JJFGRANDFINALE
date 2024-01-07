@@ -4278,11 +4278,16 @@
  },
  {
   "code": "KDY540",
-  "prg": "SS13"
+  "prg": "SS13",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY511",
-  "prg": "SS13"
+  "prg": "SS13",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "PMN604",
@@ -4294,7 +4299,10 @@
  },
  {
   "code": "TGI586",
-  "prg": "SS13"
+  "prg": "SS13",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "TGI557",
@@ -4302,7 +4310,10 @@
  },
  {
   "code": "VGA525",
-  "prg": "SS13"
+  "prg": "SS13",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "VGA558",
@@ -4318,7 +4329,9 @@
  },
  {
   "code": "CLT562",
-  "prg": "SS13"
+  "prg": "SS13",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT577",
@@ -4658,8 +4671,9 @@
  },
  {
   "code": "TGI592",
-  "prg": "SS17"
-   "grade": "A",
+  "prg": "SS17",
+  "grade": "A",
+  "position": 3,
   "pts": 6
  },
  {
@@ -5000,7 +5014,7 @@
   "prg": "SS20"
  },
  {
-  "code": "VGA527",
+  "code": "PMN527",
   "prg": "SS20",
   "grade": "A",
   "position": 1,
@@ -5019,7 +5033,10 @@
  },
  {
   "code": "VGA527",
-  "prg": "SS20"
+  "prg": "SS20",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
  },
  {
   "code": "VGA557",
