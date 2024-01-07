@@ -3940,11 +3940,11 @@
  },
  {
   "code": "VGA512",
-  "prg": "Ss1"
+  "prg": "SS1"
  },
  {
   "code": "VGA552",
-  "prg": "Ss1"
+  "prg": "SS1"
  },
  {
   "code": "KNR603",
@@ -3992,7 +3992,10 @@
  },
  {
   "code": "KDY549",
-  "prg": "SS10"
+  "prg": "SS10",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "PMN606",
@@ -4000,7 +4003,9 @@
  },
  {
   "code": "PMN517",
-  "prg": "SS10"
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI594",
@@ -4012,23 +4017,33 @@
  },
  {
   "code": "VGA512",
-  "prg": "Ss10"
+  "prg": "SS10",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA502",
-  "prg": "Ss10"
+  "prg": "SS10"
  },
  {
   "code": "KNR590",
-  "prg": "SS10"
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR629",
-  "prg": "SS10"
+  "prg": "SS10",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "CLT604",
-  "prg": "SS10"
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT501",
@@ -4036,7 +4051,9 @@
  },
  {
   "code": "PKD615",
-  "prg": "SS10"
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD634",
@@ -4048,7 +4065,9 @@
  },
  {
   "code": "KSD600",
-  "prg": "SS10"
+  "prg": "SS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD521",
@@ -4080,11 +4099,11 @@
  },
  {
   "code": "VGA518",
-  "prg": "Ss11"
+  "prg": "SS11"
  },
  {
   "code": "VGA631",
-  "prg": "Ss11"
+  "prg": "SS11"
  },
  {
   "code": "KNR547",
@@ -4128,7 +4147,9 @@
  },
  {
   "code": "KDY671",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY518",
@@ -4136,51 +4157,80 @@
  },
  {
   "code": "PMN529",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI770",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "TGI583",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "VGA519",
-  "prg": "Ss12"
+  "prg": "SS12",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KNR548",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR629",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT527",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "CLT515",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD542",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD661",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD526",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KSD600",
-  "prg": "SS12"
+  "prg": "SS12",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "KSD527",
@@ -4216,11 +4266,11 @@
  },
  {
   "code": "VGA525",
-  "prg": "Ss13"
+  "prg": "SS13"
  },
  {
   "code": "VGA558",
-  "prg": "Ss13"
+  "prg": "SS13"
  },
  {
   "code": "KNR504",
@@ -4260,35 +4310,54 @@
  },
  {
   "code": "KDY535",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY731",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "PMN513",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "PMN608",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI739",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI610",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "VGA515",
-  "prg": "Ss14"
+  "prg": "SS14",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA704",
-  "prg": "Ss14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR618",
@@ -4296,27 +4365,47 @@
  },
  {
   "code": "KNR625",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "CLT518",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT594",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD597",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD656",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD540",
-  "prg": "SS14"
+  "prg": "SS14",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
+ },
+ {
+  "code": "PKD570",
+  "prg": "SS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD559",
@@ -4352,11 +4441,11 @@
  },
  {
   "code": "VGA518",
-  "prg": "Ss15"
+  "prg": "SS15"
  },
  {
   "code": "VGA696",
-  "prg": "Ss15"
+  "prg": "SS15"
  },
  {
   "code": "KNR587",
@@ -4404,11 +4493,17 @@
  },
  {
   "code": "KDY603",
-  "prg": "SS16"
+  "prg": "SS16",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "PMN599",
-  "prg": "SS16"
+  "prg": "SS16",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "PMN521",
@@ -4424,11 +4519,16 @@
  },
  {
   "code": "VGA515",
-  "prg": "Ss16"
+  "prg": "SS16",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "VGA611",
-  "prg": "Ss16"
+  "prg": "SS16",
+  "grade": "A",
+  "position": 3,
+  "pts": 8
  },
  {
   "code": "KNR541",
@@ -4452,15 +4552,33 @@
  },
  {
   "code": "PKD588",
-  "prg": "SS16"
+  "prg": "SS16",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD522",
-  "prg": "SS16"
+  "prg": "SS16",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KSD599",
   "prg": "SS16"
+ },
+ {
+  "code": "PKD696",
+  "prg": "SS16",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "KNR641",
+  "prg": "SS16",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "KSD529",
@@ -4492,11 +4610,11 @@
  },
  {
   "code": "VGA528",
-  "prg": "Ss17"
+  "prg": "SS17"
  },
  {
   "code": "VGA628",
-  "prg": "Ss17"
+  "prg": "SS17"
  },
  {
   "code": "KNR626",
@@ -4532,7 +4650,10 @@
  },
  {
   "code": "KDY530",
-  "prg": "SS18"
+  "prg": "SS18",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KDY702",
@@ -4544,11 +4665,16 @@
  },
  {
   "code": "PMN662",
-  "prg": "SS18"
+  "prg": "SS18",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI588",
-  "prg": "SS18"
+  "prg": "SS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "TGI548",
@@ -4556,11 +4682,16 @@
  },
  {
   "code": "VGA561",
-  "prg": "Ss18"
+  "prg": "SS18",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "VGA520",
-  "prg": "Ss18"
+  "prg": "SS18",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR629",
@@ -4584,11 +4715,16 @@
  },
  {
   "code": "PKD575",
-  "prg": "SS18"
+  "prg": "SS18",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD526",
-  "prg": "SS18"
+  "prg": "SS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "KSD526",
@@ -4624,11 +4760,11 @@
  },
  {
   "code": "VGA520",
-  "prg": "Ss19"
+  "prg": "SS19"
  },
  {
   "code": "VGA561",
-  "prg": "Ss19"
+  "prg": "SS19"
  },
  {
   "code": "KNR626",
@@ -4696,11 +4832,11 @@
  },
  {
   "code": "VGA547",
-  "prg": "Ss2"
+  "prg": "SS2"
  },
  {
   "code": "VGA512",
-  "prg": "Ss2"
+  "prg": "SS2"
  },
  {
   "code": "KNR603",
@@ -4748,7 +4884,10 @@
  },
  {
   "code": "KDY528",
-  "prg": "SS20"
+  "prg": "SS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "PMN598",
@@ -4756,11 +4895,17 @@
  },
  {
   "code": "PMN527",
-  "prg": "SS20"
+  "prg": "SS20",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "TGI591",
-  "prg": "SS20"
+  "prg": "SS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "TGI550",
@@ -4768,11 +4913,11 @@
  },
  {
   "code": "VGA527",
-  "prg": "Ss20"
+  "prg": "SS20"
  },
  {
   "code": "VGA557",
-  "prg": "Ss20"
+  "prg": "SS20"
  },
  {
   "code": "KNR586",
@@ -4784,11 +4929,16 @@
  },
  {
   "code": "CLT518",
-  "prg": "SS20"
+  "prg": "SS20",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "CLT523",
-  "prg": "SS20"
+  "prg": "SS20",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD561",
@@ -4840,11 +4990,11 @@
  },
  {
   "code": "VGA513",
-  "prg": "Ss3"
+  "prg": "SS3"
  },
  {
   "code": "VGA698",
-  "prg": "Ss3"
+  "prg": "SS3"
  },
  {
   "code": "KNR626",
@@ -4916,11 +5066,11 @@
  },
  {
   "code": "VGA514",
-  "prg": "Ss4"
+  "prg": "SS4"
  },
  {
   "code": "VGA503",
-  "prg": "Ss4"
+  "prg": "SS4"
  },
  {
   "code": "KNR571",
@@ -4988,11 +5138,11 @@
  },
  {
   "code": "VGA527",
-  "prg": "Ss5"
+  "prg": "SS5"
  },
  {
   "code": "VGA620",
-  "prg": "Ss5"
+  "prg": "SS5"
  },
  {
   "code": "KNR589",
@@ -5036,23 +5186,35 @@
  },
  {
   "code": "KDY716",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY603",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "PMN599",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN670",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI583",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "TGI509",
@@ -5060,39 +5222,60 @@
  },
  {
   "code": "VGA515",
-  "prg": "Ss6"
+  "prg": "SS6",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA502",
-  "prg": "Ss6"
+  "prg": "SS6"
  },
  {
   "code": "KNR641",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR658",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "CLT595",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "CLT501",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD696",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "PKD588",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD522",
-  "prg": "SS6"
+  "prg": "SS6",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KSD502",
@@ -5108,7 +5291,10 @@
  },
  {
   "code": "KDY552",
-  "prg": "SS7"
+  "prg": "SS7",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KDY513",
@@ -5116,7 +5302,10 @@
  },
  {
   "code": "PMN601",
-  "prg": "SS7"
+  "prg": "SS7",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "PMN562",
@@ -5124,7 +5313,10 @@
  },
  {
   "code": "TGI579",
-  "prg": "SS7"
+  "prg": "SS7",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "TGI554",
@@ -5132,11 +5324,16 @@
  },
  {
   "code": "VGA516",
-  "prg": "Ss7"
+  "prg": "SS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA563",
-  "prg": "Ss7"
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR595",
@@ -5148,11 +5345,15 @@
  },
  {
   "code": "CLT609",
-  "prg": "SS7"
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT624",
-  "prg": "SS7"
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD673",
@@ -5164,11 +5365,16 @@
  },
  {
   "code": "KSD528",
-  "prg": "SS7"
+  "prg": "SS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "KSD554",
-  "prg": "SS7"
+  "prg": "SS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD527",
@@ -5180,35 +5386,54 @@
  },
  {
   "code": "KDY533",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY701",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN600",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "PMN584",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI551",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI581",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA517",
-  "prg": "Ss8"
+  "prg": "SS8",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "VGA562",
-  "prg": "Ss8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR514",
@@ -5216,15 +5441,22 @@
  },
  {
   "code": "KNR631",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "CLT506",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT607",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD551",
@@ -5232,7 +5464,9 @@
  },
  {
   "code": "PKD586",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD595",
@@ -5240,7 +5474,9 @@
  },
  {
   "code": "KSD527",
-  "prg": "SS8"
+  "prg": "SS8",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD518",
@@ -5276,11 +5512,11 @@
  },
  {
   "code": "VGA528",
-  "prg": "Ss9"
+  "prg": "SS9"
  },
  {
   "code": "VGA558",
-  "prg": "Ss9"
+  "prg": "SS9"
  },
  {
   "code": "KNR517",
