@@ -35,7 +35,7 @@ const Profile = (props: Props) => {
               <span className="text-2xl font-bold">
 
                 {props?.candidate?.programs?.reduce((a: any, b: any) => {
-                    if (b?.publish == 1) {
+                    if (b?.publish == 1 && b?.isGrp != 1) {
                         return a + (b?.pts as unknown as number) || 0;
                       } else {
                         return a + 0;

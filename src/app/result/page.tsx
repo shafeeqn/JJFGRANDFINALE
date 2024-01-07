@@ -64,7 +64,7 @@ const page = () => {
     // cp.map((c)=>{
     //   // check is published
 
-    //   programsData.find((prg)=> prg.code == c.prg && prg.publish == 1)
+    //   programsData.find((prg)=> prg.code == c.prg && prg.publish == 1 &&  && b?.isGrp != 1)
 
     //   if(cnd.chest == c.code && prg.publish == 1){
     //     cat = c.prg.slice(0,1)
