@@ -52,84 +52,96 @@
   "name": "പ്രസംഗം ഇംഗ്ലീഷ്",
   "engName": "SPEECH ENGLISH",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS8",
   "name": "ഗ്രന്ഥവായന",
   "engName": "BOOK READING",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS9",
   "name": "ഗാനം അറബി",
   "engName": "SONG ARABIC",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS10",
   "name": "മാപ്പിളപ്പാട്ട്",
   "engName": "MAPPILLA SONG",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS11",
   "name": "മാലപ്പാട്ട്",
   "engName": "MALA RECITATION",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS12",
   "name": "ഗാനം ഉറുദു",
   "engName": "SONG URDU",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS13",
   "name": "കഥ പറച്ചില്‍",
   "engName": "STORY TELLING",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS14",
   "name": "ഗദ്യവായന മലയാളം",
   "engName": "PROSE READING MALAYALAM",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS15",
   "name": "മുശാഅറ",
   "engName": "MUSHA'RA",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS16",
   "name": "പദപ്പയറ്റ് അറബി",
   "engName": "WORD FIGHT ARABIC",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS17",
   "name": "പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
   "engName": "WORD FIGHT ENGLISH",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS18",
   "name": "മദ്ഹുന്നബി",
   "engName": "MADHUNNABI",
   "isStage": 1,
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "JS19",
@@ -137,7 +149,8 @@
   "engName": "GROUP SONG ARABIC",
   "isStage": 1,
   "cat": "J",
-  "isGrp": 1
+  "isGrp": 1,
+  "publish": 1
  },
  {
   "code": "JS20",
@@ -145,7 +158,8 @@
   "engName": "GROUP SONG MALAYALAM",
   "isStage": 1,
   "cat": "J",
-  "isGrp": 1
+  "isGrp": 1,
+  "publish": 1
  },
  {
   "code": "JO21",
