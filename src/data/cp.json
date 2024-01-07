@@ -641,11 +641,16 @@
  },
  {
   "code": "KDY323",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY201",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "PMN114",
@@ -657,7 +662,9 @@
  },
  {
   "code": "TGI212",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI269",
@@ -665,7 +672,10 @@
  },
  {
   "code": "VGA109",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA287",
@@ -673,7 +683,9 @@
  },
  {
   "code": "KNR167",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR249",
@@ -681,11 +693,22 @@
  },
  {
   "code": "CLT128",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT141",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
+ },
+ {
+  "code": "VGA153",
+  "prg": "JS10",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "PKD242",
@@ -693,7 +716,9 @@
  },
  {
   "code": "PKD209",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD175",
@@ -701,7 +726,10 @@
  },
  {
   "code": "KSD180",
-  "prg": "JS10"
+  "prg": "JS10",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KDY227",
@@ -713,23 +741,37 @@
  },
  {
   "code": "PMN125",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN226",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "TGI212",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "TGI179",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "VGA112",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA272",
@@ -737,23 +779,33 @@
  },
  {
   "code": "KNR195",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR250",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT137",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT122",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD242",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD209",
@@ -765,7 +817,9 @@
  },
  {
   "code": "KSD182",
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY195",
@@ -777,7 +831,9 @@
  },
  {
   "code": "PMN107",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN249",
@@ -785,23 +841,35 @@
  },
  {
   "code": "TGI325",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI216",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA109",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "VGA325",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR136",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR250",
@@ -809,11 +877,16 @@
  },
  {
   "code": "CLT156",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT101",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "PKD149",
@@ -821,11 +894,15 @@
  },
  {
   "code": "PKD276",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD236",
-  "prg": "JS12"
+  "prg": "JS12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD154",
@@ -845,7 +922,9 @@
  },
  {
   "code": "PMN241",
-  "prg": "JS13"
+  "prg": "JS13",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI342",
@@ -857,7 +936,10 @@
  },
  {
   "code": "VGA113",
-  "prg": "JS13"
+  "prg": "JS13",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "VGA134",
@@ -869,11 +951,16 @@
  },
  {
   "code": "KNR256",
-  "prg": "JS13"
+  "prg": "JS13",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "CLT220",
-  "prg": "JS13"
+  "prg": "JS13",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT127",
@@ -893,7 +980,10 @@
  },
  {
   "code": "KSD130",
-  "prg": "JS13"
+  "prg": "JS13",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KDY220",
@@ -901,7 +991,10 @@
  },
  {
   "code": "KDY145",
-  "prg": "JS14"
+  "prg": "JS14",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "PMN240",
@@ -913,7 +1006,9 @@
  },
  {
   "code": "TGI349",
-  "prg": "JS14"
+  "prg": "JS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI211",
@@ -921,15 +1016,23 @@
  },
  {
   "code": "VGA111",
-  "prg": "JS14"
+  "prg": "JS14",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "VGA144",
-  "prg": "JS14"
+  "prg": "JS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR174",
-  "prg": "JS14"
+  "prg": "JS14",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KNR198",
@@ -961,7 +1064,10 @@
  },
  {
   "code": "KDY129",
-  "prg": "JS15"
+  "prg": "JS15",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KDY180",
@@ -969,11 +1075,16 @@
  },
  {
   "code": "PMN133",
-  "prg": "JS15"
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI214",
-  "prg": "JS15"
+  "prg": "JS15",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "TGI111",
@@ -981,7 +1092,10 @@
  },
  {
   "code": "VGA118",
-  "prg": "JS15"
+  "prg": "JS15",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA140",
@@ -997,11 +1111,15 @@
  },
  {
   "code": "CLT110",
-  "prg": "JS15"
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT176",
-  "prg": "JS15"
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD161",
@@ -1013,7 +1131,9 @@
  },
  {
   "code": "KSD233",
-  "prg": "JS15"
+  "prg": "JS15",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD136",
@@ -1021,7 +1141,10 @@
  },
  {
   "code": "KDY131",
-  "prg": "JS16"
+  "prg": "JS16",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KDY171",
@@ -1037,7 +1160,10 @@
  },
  {
   "code": "TGI219",
-  "prg": "JS16"
+  "prg": "JS16",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "TGI194",
@@ -1045,7 +1171,10 @@
  },
  {
   "code": "VGA114",
-  "prg": "JS16"
+  "prg": "JS16",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "VGA151",
@@ -1065,7 +1194,9 @@
  },
  {
   "code": "CLT173",
-  "prg": "JS16"
+  "prg": "JS16",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD146",
@@ -1085,7 +1216,10 @@
  },
  {
   "code": "KDY142",
-  "prg": "JS17"
+  "prg": "JS17",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "KDY172",
@@ -1093,7 +1227,10 @@
  },
  {
   "code": "PMN232",
-  "prg": "JS17"
+  "prg": "JS17",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "PMN133",
@@ -1101,7 +1238,10 @@
  },
  {
   "code": "TGI207",
-  "prg": "JS17"
+  "prg": "JS17",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "TGI265",
@@ -1121,7 +1261,9 @@
  },
  {
   "code": "KNR260",
-  "prg": "JS17"
+  "prg": "JS17",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT104",
@@ -1133,7 +1275,9 @@
  },
  {
   "code": "PKD224",
-  "prg": "JS17"
+  "prg": "JS17",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD152",
@@ -1149,15 +1293,22 @@
  },
  {
   "code": "KDY164",
-  "prg": "JS18"
+  "prg": "JS18",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KDY201",
-  "prg": "JS18"
+  "prg": "JS18",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN122",
-  "prg": "JS18"
+  "prg": "JS18",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI242",
@@ -1165,11 +1316,17 @@
  },
  {
   "code": "TGI216",
-  "prg": "JS18"
+  "prg": "JS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA153",
-  "prg": "JS18"
+  "prg": "JS18",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "VGA146",
@@ -1200,16 +1357,28 @@
   "prg": "JS18"
  },
  {
+  "code": "PMN226",
+  "prg": "JS18",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
+ },
+ {
   "code": "KSD135",
   "prg": "JS18"
  },
  {
   "code": "KSD236",
-  "prg": "JS18"
+  "prg": "JS18",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY133",
-  "prg": "JS19"
+  "prg": "JS19",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
  },
  {
   "code": "KDY301",
@@ -1217,7 +1386,10 @@
  },
  {
   "code": "PMN224",
-  "prg": "JS19"
+  "prg": "JS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
  },
  {
   "code": "PMN125",
@@ -1225,7 +1397,10 @@
  },
  {
   "code": "TGI212",
-  "prg": "JS19"
+  "prg": "JS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
  },
  {
   "code": "TGI266",
@@ -1233,11 +1408,17 @@
  },
  {
   "code": "VGA111",
-  "prg": "JS19"
+  "prg": "JS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
  },
  {
   "code": "VGA153",
-  "prg": "JS19"
+  "prg": "JS19",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
  },
  {
   "code": "KNR167",
@@ -1245,7 +1426,10 @@
  },
  {
   "code": "KNR253",
-  "prg": "JS19"
+  "prg": "JS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
  },
  {
   "code": "CLT141",
@@ -1253,7 +1437,10 @@
  },
  {
   "code": "CLT101",
-  "prg": "JS19"
+  "prg": "JS19",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
  },
  {
   "code": "PKD196",
@@ -1348,7 +1535,10 @@
  },
  {
   "code": "KDY130",
-  "prg": "JS20"
+  "prg": "JS20",
+  "grade": "A",
+  "position": 1,
+  "pts": 15
  },
  {
   "code": "KDY169",
@@ -1356,7 +1546,9 @@
  },
  {
   "code": "PMN226",
-  "prg": "JS20"
+  "prg": "JS20",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN206",
@@ -1364,7 +1556,10 @@
  },
  {
   "code": "TGI216",
-  "prg": "JS20"
+  "prg": "JS20",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
  },
  {
   "code": "TGI245",
@@ -1372,11 +1567,17 @@
  },
  {
   "code": "VGA109",
-  "prg": "JS20"
+  "prg": "JS20",
+  "grade": "A",
+  "position": 2,
+  "pts": 13
  },
  {
   "code": "VGA153",
-  "prg": "JS20"
+  "prg": "JS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
  },
  {
   "code": "KNR167",
@@ -1388,7 +1589,10 @@
  },
  {
   "code": "CLT141",
-  "prg": "JS20"
+  "prg": "JS20",
+  "grade": "A",
+  "position": 3,
+  "pts": 11
  },
  {
   "code": "CLT187",
@@ -1599,7 +1803,9 @@
  },
  {
   "code": "VGA108",
-  "prg": "JS5"
+  "prg": "JS5",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "VGA163",
@@ -1688,7 +1894,9 @@
  },
  {
   "code": "VGA114",
-  "prg": "JS6"
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "VGA240",
@@ -1746,63 +1954,97 @@
  },
  {
   "code": "KDY135",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KDY295",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "PMN237",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN132",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI217",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI186",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "VGA107",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA141",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "KNR136",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR259",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT182",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "CLT219",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "PKD193",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD208",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD129",
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KSD185",
@@ -1810,11 +2052,17 @@
  },
  {
   "code": "KDY124",
-  "prg": "JS8"
+  "prg": "JS8",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
  },
  {
   "code": "KDY163",
-  "prg": "JS8"
+  "prg": "JS8",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "PMN121",
@@ -1826,7 +2074,10 @@
  },
  {
   "code": "TGI309",
-  "prg": "JS8"
+  "prg": "JS8",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "VGA227",
@@ -1838,7 +2089,10 @@
  },
  {
   "code": "KNR126",
-  "prg": "JS8"
+  "prg": "JS8",
+  "grade": "B",
+  "position": 3,
+  "pts": 4
  },
  {
   "code": "KNR252",
@@ -1870,7 +2124,10 @@
  },
  {
   "code": "KDY201",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "position": 2,
+  "pts": 8
  },
  {
   "code": "KDY169",
@@ -1878,7 +2135,9 @@
  },
  {
   "code": "PMN107",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PMN153",
@@ -1886,23 +2145,35 @@
  },
  {
   "code": "TGI216",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "TGI294",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "VGA111",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "position": 1,
+  "pts": 10
  },
  {
   "code": "VGA314",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR167",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "KNR172",
@@ -1910,11 +2181,16 @@
  },
  {
   "code": "CLT101",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "position": 3,
+  "pts": 6
  },
  {
   "code": "CLT217",
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": "PKD296",
