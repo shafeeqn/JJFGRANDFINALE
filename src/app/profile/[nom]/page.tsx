@@ -8,9 +8,9 @@ import Profile from '@/components/profile/Profile'
 const page = ({ params }: { params: { nom: string } }) => {
     const nom = params.nom
 
-    const candidate = candidatesData.find((cnd)=> cnd.chest == nom)
+    const candidate = candidatesData.find((cnd)=> cnd.chest?.toString() == nom)
 
-    const programWithCandidates = cp.filter((cnd)=> cnd.code == nom).map((cnd)=>{
+    const programWithCandidates = cp.filter((cnd)=> cnd.code?.toString() == nom).map((cnd)=>{
 
       return {
         ...cnd,

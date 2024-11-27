@@ -26,8 +26,8 @@ const page = ({ params, searchParams }: any) => {
     <div>
       <Institution
         searchParams={searchParams}
-        candidates={candidatesData}
-        candidatePrograms={candidateProgramsData}
+        candidates={candidatesData as any}
+        candidatePrograms={candidateProgramsData as any}
         programs={programsData}
         institutions={
           institutionsData

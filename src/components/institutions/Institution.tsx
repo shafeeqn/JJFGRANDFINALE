@@ -25,12 +25,12 @@ interface Props {
     zone: string;
   }[];
   candidates: {
-    chest: string;
+    chest: any;
     name: string;
     college: string;
   }[];
   candidatePrograms: {
-    code: string;
+    code: any;
     prg: string;
   }[];
   programs: any[];
