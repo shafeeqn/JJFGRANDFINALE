@@ -21,12 +21,14 @@ const Results = (props: Props) => {
 
         <ProgramsList programs={props.programs} />
       </div>
+      <div>
+
       <div className="flex flex-col lg:flex-row mt-60 lg:mt-8">
         <div>
           <p className="font-bold text-xl text-center">Junior Toppers</p>
-          <div className="flex flex-wrap p-3 overflow-x-scroll gap-2">
+          <div className="flex flex-wrap p-3  gap-2">
             {props.topJunior?.length > 0 ? (
-              props.topJunior.map((topper: any) => (
+              props.topJunior.slice(0, 3).map((topper: any) => (
                 <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                   <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
                     {topper.chest}
@@ -48,9 +50,9 @@ const Results = (props: Props) => {
 
         <div>
           <p className="font-bold text-xl text-center">Senior Toppers</p>
-          <div className="flex flex-wrap p-3 overflow-x-scroll gap-2">
+          <div className="flex flex-wrap p-3  gap-2">
             {props.topSenior?.length > 0 ? (
-              props.topSenior.map((topper: any) => (
+              props.topSenior.slice(0, 3).map((topper: any) => (
                 <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                   <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
                     {topper.chest}
@@ -69,7 +71,90 @@ const Results = (props: Props) => {
             )}
           </div>
         </div>
+
+        <div>
+          <p className="font-bold text-xl text-center">Junior Toppers</p>
+          <div className="flex flex-wrap p-3  gap-2">
+            {props.topJunior?.length > 0 ? (
+              props.topJunior.slice(0, 3).map((topper: any) => (
+                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                    {topper.chest}
+                  </p>
+                  <p className="font-bold">{topper.name}</p>
+                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
+                  <p className="text-sm uppercase">Junior | {topper.college}</p>
+                </div>
+              ))
+            ) : (
+              <div className="flex flex-col items-center justify-center h-full">
+                {/* <p className="text-2xl font-bold text-primary">
+                    No Results Published.
+                  </p> */}
+              </div>
+            )}
+          </div>
+        </div>
+
       </div>
+
+
+
+
+
+      <div className="flex flex-col lg:flex-row mt-60 lg:mt-8">
+
+        <div>
+          <p className="font-bold text-xl text-center">Super Senior Toppers</p>
+          <div className="flex flex-wrap p-3  gap-2">
+            {props.topSenior?.length > 0 ? (
+              props.topSenior.slice(0, 3).map((topper: any) => (
+                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                    {topper.chest}
+                  </p>
+                  <p className="font-bold">{topper.name}</p>
+                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
+                  <p className="text-sm uppercase">Junior | {topper.college}</p>
+                </div>
+              ))
+            ) : (
+              <div className="flex flex-col items-center justify-center h-full">
+                {/* <p className="text-2xl font-bold text-primary">
+                    No Results Published.
+                  </p> */}
+              </div>
+            )}
+          </div>
+        </div>
+
+        <div>
+          <p className="font-bold text-xl text-center">Sub Junior Toppers</p>
+          <div className="flex flex-wrap p-3  gap-2">
+            {props.topJunior?.length > 0 ? (
+              props.topJunior.slice(0, 3).map((topper: any) => (
+                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                    {topper.chest}
+                  </p>
+                  <p className="font-bold">{topper.name}</p>
+                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
+                  <p className="text-sm uppercase">Junior | {topper.college}</p>
+                </div>
+              ))
+            ) : (
+              <div className="flex flex-col items-center justify-center h-full">
+                {/* <p className="text-2xl font-bold text-primary">
+                    No Results Published.
+                  </p> */}
+              </div>
+            )}
+          </div>
+        </div>
+
+      </div>
+      </div>
+      
     </>
   );
 };

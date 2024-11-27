@@ -61,12 +61,12 @@ const Institution = (props: Props) => {
     <>
       {!props.searchParams.category ? (
         <div>
-          <label className="flex gap-1 justify-center cursor-pointer w-full">
+          <label className="flex gap-1 justify-center cursor-pointer w-full pt-10 px-10 md:px-24 ">
             <input
               type="text"
               className="rounded-full px-3 h-10
                border-yellow border-dashed border-2 w-full"
-              placeholder="Search Candidates Here"
+              placeholder="Search Institutions Here"
               onChange={(e) => delayedSearch(e.target.value)}
               required
             />
@@ -88,9 +88,29 @@ const Institution = (props: Props) => {
                 className="w-72 bg-secondary p-6 rounded-xl flex flex-col gap-2 items-start "
                 key={index}
               >
-                <div className=" border-2 h-28 p-3 my-2 gap-2 border-primary flex flex-col cursor-pointer items-center justify-center rounded-xl border-dashed w-full">
+                <div className=" border-2 h-44 p-3 my-2 gap-2 border-primary flex flex-col cursor-pointer items-center justify-center rounded-xl border-dashed w-full">
                   <p className=" text-center">{instn.name}</p>
-                  <div className="flex gap-2">
+                  <div className="flex gap-2 flex-wrap">
+                    <button
+                      onClick={() => {
+                        router.push(
+                          `/institutions?category=general&institution=${instn.name}`
+                        );
+                      }}
+                      className="px-2 py-1 text-sm bg-primary hover:bg-primary rounded-lg text-white font-semibold"
+                    >
+                      General
+                    </button>
+                    <button
+                      onClick={() => {
+                        router.push(
+                          `/institutions?category=senior&institution=${instn.name}`
+                        );
+                      }}
+                      className="px-2 py-1 text-sm bg-primary hover:bg-primary rounded-lg text-white font-semibold"
+                    >
+                      Senior
+                    </button>
                     <button
                       onClick={() => {
                         router.push(
@@ -104,13 +124,24 @@ const Institution = (props: Props) => {
                     <button
                       onClick={() => {
                         router.push(
-                          `/institutions?category=senior&institution=${instn.name}`
+                          `/institutions?category=sub-junior&institution=${instn.name}`
                         );
                       }}
                       className="px-2 py-1 text-sm bg-primary hover:bg-primary rounded-lg text-white font-semibold"
                     >
-                      Senior
+                      Sub Junior
                     </button>
+                    <button
+                      onClick={() => {
+                        router.push(
+                          `/institutions?category=super-senior&institution=${instn.name}`
+                        );
+                      }}
+                      className="px-2 py-1 text-sm bg-primary hover:bg-primary rounded-lg text-white font-semibold"
+                    >
+                      Super Senior
+                    </button>
+                    
                   </div>
                 </div>
               </div>

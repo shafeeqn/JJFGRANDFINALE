@@ -3,7 +3,8 @@
      "code": "SJO1",
      "name": "അറബിക് കയ്യെഴുത്ത്",
      "engName": "ARABIC HW",
-     "cat": "SJ"
+     "cat": "SJ",
+     "publish": 1
     },
     {
      "code": "SJO2",
@@ -125,7 +126,8 @@
      "code": "JO1",
      "name": "അറബിക് കയ്യെഴുത്ത്",
      "engName": "ARABIC HANDWRITING",
-     "cat": "J"
+     "cat": "J",
+     "publish": 1
     },
     {
      "code": "JO2",

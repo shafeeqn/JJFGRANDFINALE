@@ -35,12 +35,12 @@ const Programs = (props: Props) => {
 
   return (
     <div>
-      <label className="flex gap-1 justify-center cursor-pointer w-full">
+      <label className="flex gap-1 justify-center cursor-pointer w-full pt-10 px-10 md:px-24">
         <input
           type="text"
           className="rounded-full px-3 h-10
                border-yellow border-dashed border-2 w-full"
-          placeholder="Search Candidates Here"
+          placeholder="Search Programs Here"
           onChange={(e) => delayedSearch(e.target.value)}
           required
         />

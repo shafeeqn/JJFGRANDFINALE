@@ -33,7 +33,7 @@ const Candidate = (props: Props) => {
 
   return (
     <div>
-      <label className="flex gap-1 justify-center cursor-pointer w-full">
+      <label className="flex gap-1 justify-center cursor-pointer w-full pt-10 px-10 md:px-24">
         <input
           type="text"
           className="rounded-full px-3 h-10
