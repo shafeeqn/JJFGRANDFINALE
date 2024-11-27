@@ -62,7 +62,13 @@ function TeamsList(props: Props) {
                   <div className="flex flex-col justify-center w-3/6 text-xs font-semibold whitespace-nowrap gap-1">
                     <p>
                       <span className="bg-yellow px-2 rounded-full">
-                        General : {team.juniorPoints}
+                        General : {team.generalPoints}
+                      </span>
+                    </p>
+
+                    <p>
+                      <span className="bg-yellow px-2 rounded-full">
+                        Junior : {team.juniorPoints}
                       </span>
                     </p>
 
@@ -71,28 +77,23 @@ function TeamsList(props: Props) {
                         Senior : {team.seniorPoints}
                       </span>
                     </p>
-
                     <p>
                       <span className="bg-yellow px-2 rounded-full">
-                        Senior : {team.seniorPoints}
-                      </span>
-                    </p>
-                    <p>
-                      <span className="bg-yellow px-2 rounded-full">
-                        Super Senior : {team.juniorPoints}
+                        Super Senior : {team.superSeniorPoints}
                       </span>
                     </p>
 
                     <p>
                       <span className="bg-yellow px-2 rounded-full">
-                        Sub Junior : {team.seniorPoints}
+                        Sub Junior : {team.subJuniorPoints}
                       </span>
                     </p>
                   </div>
                 </div>
               )
           )
-        ) : (
+        ) : 
+        (
           <div className="flex flex-col items-center justify-center h-full">
             <p className="text-2xl font-bold ">No Results Published.</p>
           </div>

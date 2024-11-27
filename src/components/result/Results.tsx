@@ -7,9 +7,16 @@ interface Props {
   programs: any;
   topJunior: any;
   topSenior: any;
+  topSuperSenior: any;
+  topSubJunior: any;
+  topGeneral: any;
 }
 
 const Results = (props: Props) => {
+
+  console.log(props);
+  
+
   return (
     <>
       <div className="flex flex-col lg:flex-row w-full md:h-screen items-center p-5">
@@ -25,9 +32,9 @@ const Results = (props: Props) => {
 
       <div className="flex flex-col lg:flex-row mt-60 lg:mt-8">
         <div>
-          <p className="font-bold text-xl text-center">Junior Toppers</p>
+          <p className="font-bold text-xl text-center">General Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
-            {props.topJunior?.length > 0 ? (
+            {props.topGeneral?.length > 0 ? (
               props.topJunior.slice(0, 3).map((topper: any) => (
                 <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                   <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
@@ -35,15 +42,25 @@ const Results = (props: Props) => {
                   </p>
                   <p className="font-bold">{topper.name}</p>
                   <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Junior | {topper.college}</p>
+                  <p className="text-sm uppercase">General | {topper.college}</p>
                 </div>
               ))
             ) : (
-              <div className="flex flex-col items-center justify-center h-full">
-                {/* <p className="text-2xl font-bold text-primary">
-                    No Results Published.
-                  </p> */}
-              </div>
+              // <div className="flex flex-col items-center justify-center h-full">
+              //   <p className="text-2xl font-bold text-primary">
+              //       No Results Published.
+              //     </p>
+              // </div>
+              <>
+               <div className="hover:bg-ysmoke p-3 border rounded-md w-full lg:min-w-1/3">
+                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                    ##
+                  </p>
+                  <p className="font-bold">##</p>
+                  <p className="text-3xl font-bold">### pts</p>
+                  <p className="text-sm uppercase">General | ### </p>
+                </div>
+                </>
             )}
           </div>
         </div>
@@ -59,7 +76,7 @@ const Results = (props: Props) => {
                   </p>
                   <p className="font-bold">{topper.name}</p>
                   <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Junior | {topper.college}</p>
+                  <p className="text-sm uppercase">Senior | {topper.college}</p>
                 </div>
               ))
             ) : (
@@ -107,15 +124,15 @@ const Results = (props: Props) => {
         <div>
           <p className="font-bold text-xl text-center">Super Senior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
-            {props.topSenior?.length > 0 ? (
-              props.topSenior.slice(0, 3).map((topper: any) => (
+            {props.topSuperSenior?.length > 0 ? (
+              props.topSuperSenior.slice(0, 3).map((topper: any) => (
                 <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                   <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
                     {topper.chest}
                   </p>
                   <p className="font-bold">{topper.name}</p>
                   <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Junior | {topper.college}</p>
+                  <p className="text-sm uppercase">Super Senior | {topper.college}</p>
                 </div>
               ))
             ) : (
@@ -131,15 +148,15 @@ const Results = (props: Props) => {
         <div>
           <p className="font-bold text-xl text-center">Sub Junior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
-            {props.topJunior?.length > 0 ? (
-              props.topJunior.slice(0, 3).map((topper: any) => (
+            {props.topSubJunior?.length > 0 ? (
+              props.topSubJunior.slice(0, 3).map((topper: any) => (
                 <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                   <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
                     {topper.chest}
                   </p>
                   <p className="font-bold">{topper.name}</p>
                   <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Junior | {topper.college}</p>
+                  <p className="text-sm uppercase">Sub Junior | {topper.college}</p>
                 </div>
               ))
             ) : (

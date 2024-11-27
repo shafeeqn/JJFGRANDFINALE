@@ -55,7 +55,7 @@ const Institution = (props: Props) => {
 
   useEffect(() => {
     console.log(props.searchParams);
-    console.log(findCandidateCategory("KDY128"));
+    console.log(findCandidateCategory(""));
   }, []);
   return (
     <>
@@ -151,17 +151,17 @@ const Institution = (props: Props) => {
       ) : (
         <div className="text-center text-xs m-10 print:m-0 p-8 rounded-xl">
           <p className="text-3xl font-bold ">Jamia Junior College Fest &apos;25</p>
-          <p className="text-2xl font-bold mb-2">
+          {/* <p className="text-2xl font-bold mb-2">
             {
               props.institutions.find(
                 (instn) => instn.name === props.searchParams.institution
               )?.zone
             }
-          </p>
+          </p> */}
           <div className="">
             <div
-              className={`flex h-48 items-end mb-8 w-[${
-                props.searchParams.category === "junior" ? "1260" : "1620"
+              className={`flex h-60 items-end mb-8 ml-6 w-[${
+                props.searchParams.category === "junior" ? "1260" : "1260"
               }px]`}
             >
               <div className="w-[400px] my-auto text-center">
@@ -183,6 +183,15 @@ const Institution = (props: Props) => {
                     const seniorCandidates = props.candidates.filter(
                       (c) => findCandidateCategory(c.chest) === "S"
                     );
+                    const subJuniorCandidates = props.candidates.filter(
+                      (c) => findCandidateCategory(c.chest) === "SJ"
+                    );
+                    const superSeniorCandidates = props.candidates.filter(
+                      (c) => findCandidateCategory(c.chest) === "SS"
+                    );
+                    const generalCandidates = props.candidates.filter(
+                      (c) => findCandidateCategory(c.chest) === "G"
+                    );
 
                     return props.searchParams.category === "junior"
                       ? `${
@@ -190,8 +199,26 @@ const Institution = (props: Props) => {
                             (jc) => jc.college === props.searchParams.institution
                           ).length
                         } candidates`
-                      : `${
+                      : props.searchParams.category === "senior"
+                      ? `${
                           seniorCandidates.filter(
+                            (sc) => sc.college === props.searchParams.institution
+                          ).length
+                        } candidates`
+                      : props.searchParams.category === "sub-junior"
+                      ? `${
+                          subJuniorCandidates.filter(
+                            (sc) => sc.college === props.searchParams.institution
+                          ).length
+                        } candidates`
+                      : props.searchParams.category === "super-senior"
+                      ? `${
+                          superSeniorCandidates.filter(
+                            (sc) => sc.college === props.searchParams.institution
+                          ).length
+                        } candidates`
+                      : `${
+                          generalCandidates.filter(
                             (sc) => sc.college === props.searchParams.institution
                           ).length
                         } candidates`;
@@ -244,8 +271,10 @@ const Institution = (props: Props) => {
                                 prgms?.cat ===
                                 `${
                                   props.searchParams.category === "junior"
-                                    ? "J"
-                                    : "S"
+                                    ? "J" : props.searchParams.category === "senior"
+                                    ? "S" : props.searchParams.category === "sub-junior"
+                                    ? "SJ" : props.searchParams.category === "super-senior"
+                                    ? "SS" : "G"
                                 }`
                             )
                             .map((p, index) => (
@@ -282,8 +311,10 @@ const Institution = (props: Props) => {
                                 prgms?.cat ===
                                 `${
                                   props.searchParams.category === "junior"
-                                    ? "J"
-                                    : "S"
+                                    ? "J" : props.searchParams.category === "senior"
+                                    ? "S" : props.searchParams.category === "sub-junior"
+                                    ? "SJ" : props.searchParams.category === "super-senior"
+                                    ? "SS" : "G"
                                 }`
                             )
                             .map((p, index) => (
