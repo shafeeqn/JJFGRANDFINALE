@@ -33,7 +33,7 @@ const Results = (props: Props) => {
                   </p>
                   <p className="font-bold">{topper.name}</p>
                   <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Junior | {topper.dars}</p>
+                  <p className="text-sm uppercase">Junior | {topper.college}</p>
                 </div>
               ))
             ) : (
@@ -57,7 +57,7 @@ const Results = (props: Props) => {
                   </p>
                   <p className="font-bold">{topper.name}</p>
                   <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Junior | {topper.dars}</p>
+                  <p className="text-sm uppercase">Junior | {topper.college}</p>
                 </div>
               ))
             ) : (

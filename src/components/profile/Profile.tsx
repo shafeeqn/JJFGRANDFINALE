@@ -27,7 +27,7 @@ const Profile = (props: Props) => {
               {props?.candidate?.programs[0].cat == "J" ? "Junior" : "Senior"}
             </p>
             <p className="font-semibold text-xl text-center">
-              {props?.candidate?.dars}
+              {props?.candidate?.college}
             </p>
             <p className="font-semibold text-xl text-center">
               Total Points :{" "}

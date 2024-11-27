@@ -9,7 +9,7 @@ const PrgList = (props: Props) => {
   return (
     <div className="p-20 print:p-2 lg:flex lg:flex-col lg:items-center">
       <div className="text-center">
-        <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
+        <p className="text-3xl font-bold ">Jamia Junior College Fest &apos;25</p>
         <p className="text-2xl font-bold my-2">Grand Finale</p>
 
         <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
@@ -24,7 +24,7 @@ const PrgList = (props: Props) => {
             <th className="p-1">Sl No</th>
             <th className="p-1">Code</th>
             <th className="p-1">Name </th>
-            <th className="p-1">Dars Place</th>
+            <th className="p-1">Junior College Place</th>
             <th className="p-1">Mark</th>
             <th className="p-1">Grade</th>
             <th className="p-1">Remarks</th>
@@ -39,7 +39,7 @@ const PrgList = (props: Props) => {
                 {v.name?.length > 24 ? v.name?.slice(0, 20) + ".." : v.name}
               </td>
               <td className="px-1 w-80  border">
-                {v.dars?.length > 24 ? v.dars?.slice(0, 25) + ".." : v.dars}
+                {v.college?.length > 24 ? v.college?.slice(0, 25) + ".." : v.college}
               </td>
               <td className="px-1 w-10 border"></td>
               <td className="px-1 w-8 border"></td>

@@ -51,7 +51,7 @@ export default function ViewResult(props: Props) {
           <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
           <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">{cp?.chest}</p>
           <p className=" text-md font-bold">{cp?.name}</p>
-          <p className="text-sm">{cp?.dars}</p>
+          <p className="text-sm">{cp?.college}</p>
             <div className="flex gap-2 w-full items-center justify-center h-full">
           <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">{cp?.cp.pts} pts</p> 
           <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">{cp?.cp?.position || "NIL"}</p> 

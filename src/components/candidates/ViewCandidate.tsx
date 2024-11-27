@@ -57,7 +57,7 @@ const ViewCandidate = (props: Props) => {
             {props.selectedCandidate?.name}
           </p>
           <p className="text-lg font-bold text-primary">
-            {props.selectedCandidate?.dars}
+            {props.selectedCandidate?.college}
             </p>
           {cp &&
             cp.map((c: any, index) => {

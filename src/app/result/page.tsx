@@ -1,7 +1,7 @@
 import React from 'react'
 import candidatesData from '@/data/candidates.json'
 import programsData from "@/data/programs.json"
-import darsData from '@/data/institutions.json'
+import collegeData from '@/data/institutions.json'
 import cp from '@/data/cp.json'
 import Results from '@/components/result/Results'
 
@@ -24,14 +24,14 @@ const page = () => {
   })
   
 
-  const darsWithTotalPoints = darsData.map((dars)=>{
+  const collegeWithTotalPoints = collegeData.map((college)=>{
     let totalPoints = 0;
     let juniorPoints = 0;
     let seniorPoints = 0;
 
     candidateWithProgram.map((prg : any)=>{
       prg.candidate.map((cnd : any)=>{
-        if(cnd?.dars == dars.name){
+        if(cnd?.college == college.name){
           // console.log(cnd?.cp);
           
           totalPoints += cnd?.cp?.pts || 0
@@ -45,16 +45,16 @@ const page = () => {
     })
 
     return {
-      ...dars,
+      ...college,
       totalPoints,
       juniorPoints,
       seniorPoints
     }
   })
 
-  const darsWithTotalPointsSorted = darsWithTotalPoints.sort((a,b)=> b.totalPoints - a.totalPoints)
+  const collegeWithTotalPointsSorted = collegeWithTotalPoints.sort((a,b)=> b.totalPoints - a.totalPoints)
 
-  console.log(darsWithTotalPointsSorted[0]);
+  console.log(collegeWithTotalPointsSorted[0]);
   
   
   const topCandidates = candidatesData.map((cnd)=>{
@@ -99,7 +99,7 @@ const page = () => {
 
   return (
     <div>
-      <Results topTeams={darsWithTotalPointsSorted} programs={candidateWithProgram} 
+      <Results topTeams={collegeWithTotalPointsSorted} programs={candidateWithProgram} 
        topJunior={top5JuniorCandidates} topSenior={top5SeniorCandidates}
       />
     </div>

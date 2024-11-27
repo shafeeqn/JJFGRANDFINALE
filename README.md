@@ -1,2 +1,2 @@
-# dars-fest
-Dars Fest Website
+# college-fest
+Junior College Fest Website

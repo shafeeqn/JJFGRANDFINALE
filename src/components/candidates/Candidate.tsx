@@ -18,7 +18,7 @@ interface Props {
   candidates: {
     chest: number;
     name: string;
-    dars: number;
+    college: number;
   }[];
 }
 

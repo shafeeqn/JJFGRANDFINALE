@@ -83,7 +83,7 @@ export default function ProgramResult(props: Props) {
         }
 
         doc.text(
-          `Jamia Dars Fest 2023 - '24 conducted by Jamia Nooriyya Arabiyya`,
+          `Jamia Junior College Fest 2023 - '24 conducted by Jamia Nooriyya Arabiyya`,
           pdfWidth / 2,
           155,
           { align: "center" }

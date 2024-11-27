@@ -17,7 +17,7 @@ function TeamsList(props: Props) {
               type="text"
               className="rounded-full px-3 h-10
                border-yellow border-dashed border-2 w-full"
-              placeholder="Search Dars Here"
+              placeholder="Search Junior College Here"
               onChange={(e) => {
                 setSearch(e.target.value)
                 setFilteredTeams(props.topTeams.filter((team: any)=> team.name.toLowerCase().includes(e.target.value.toLowerCase())))

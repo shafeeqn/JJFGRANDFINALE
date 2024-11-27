@@ -27,7 +27,7 @@ interface Props {
   candidates: {
     chest: string;
     name: string;
-    dars: string;
+    college: string;
   }[];
   candidatePrograms: {
     code: string;
@@ -119,7 +119,7 @@ const Institution = (props: Props) => {
         </div>
       ) : (
         <div className="text-center text-xs m-10 print:m-0 p-8 rounded-xl">
-          <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
+          <p className="text-3xl font-bold ">Jamia Junior College Fest &apos;25</p>
           <p className="text-2xl font-bold mb-2">
             {
               props.institutions.find(
@@ -156,12 +156,12 @@ const Institution = (props: Props) => {
                     return props.searchParams.category === "junior"
                       ? `${
                           juniorCandidates.filter(
-                            (jc) => jc.dars === props.searchParams.institution
+                            (jc) => jc.college === props.searchParams.institution
                           ).length
                         } candidates`
                       : `${
                           seniorCandidates.filter(
-                            (sc) => sc.dars === props.searchParams.institution
+                            (sc) => sc.college === props.searchParams.institution
                           ).length
                         } candidates`;
                   })()}
@@ -196,7 +196,7 @@ const Institution = (props: Props) => {
 
             return props.searchParams.category === "junior"
               ? juniorCandidates
-                  .filter((jc) => jc.dars === props.searchParams.institution)
+                  .filter((jc) => jc.college === props.searchParams.institution)
                   .map((jc, i) => (
                     <div key={i} className="flex w-[1260px] ">
                       <p className="w-[80px] text-center line-clamp-1 font-semibold px-2 border border-slate-800">
@@ -234,7 +234,7 @@ const Institution = (props: Props) => {
                     </div>
                   ))
               : seniorCandidates
-                  .filter((sc) => sc.dars === props.searchParams.institution)
+                  .filter((sc) => sc.college === props.searchParams.institution)
                   .map((sc, i) => (
                     <div key={i} className="flex w-[1620px] ">
                       <p className="w-[80px] text-center line-clamp-1 font-semibold px-2 border border-slate-800">
