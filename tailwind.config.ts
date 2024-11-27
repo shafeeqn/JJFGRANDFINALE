@@ -18,7 +18,7 @@ const config: Config = {
         bluer: "#1c54a7",
         brown: "#B34418",
         browner: "#a23104",
-        yellow: "#F8AD1D",
+        yellow: "#FFC5CB",
         yellower: "#df9404",
         ysmoke: "#FACF7E",
         pink: "#F4A27A",
