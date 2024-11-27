@@ -30,8 +30,8 @@ const Results = (props: Props) => {
       </div>
       <div>
 
-      <div className="flex flex-col lg:flex-row mt-60 lg:mt-8">
-        <div>
+      <div className="flex flex-col lg:flex-row mt-60 lg:mt-8 w-screen ">
+        <div className="w-full lg:w-[30%]">
           <p className="font-bold text-xl text-center">General Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topGeneral?.length > 0 ? (
@@ -46,26 +46,16 @@ const Results = (props: Props) => {
                 </div>
               ))
             ) : (
-              // <div className="flex flex-col items-center justify-center h-full">
-              //   <p className="text-2xl font-bold text-primary">
-              //       No Results Published.
-              //     </p>
-              // </div>
               <>
-               <div className="hover:bg-ysmoke p-3 border rounded-md w-full lg:min-w-1/3">
-                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
-                    ##
-                  </p>
-                  <p className="font-bold">##</p>
-                  <p className="text-3xl font-bold">### pts</p>
-                  <p className="text-sm uppercase">General | ### </p>
+               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                  No Toppers to show
                 </div>
                 </>
             )}
           </div>
         </div>
 
-        <div>
+        <div className="w-full lg:w-[30%]">
           <p className="font-bold text-xl text-center">Senior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topSenior?.length > 0 ? (
@@ -80,16 +70,16 @@ const Results = (props: Props) => {
                 </div>
               ))
             ) : (
-              <div className="flex flex-col items-center justify-center h-full">
-                {/* <p className="text-2xl font-bold text-primary">
-                    No Results Published.
-                  </p> */}
-              </div>
+              <>
+               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                  No Toppers to show
+                </div>
+                </>
             )}
           </div>
         </div>
 
-        <div>
+        <div className="w-full lg:w-[30%]">
           <p className="font-bold text-xl text-center">Junior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topJunior?.length > 0 ? (
@@ -104,11 +94,11 @@ const Results = (props: Props) => {
                 </div>
               ))
             ) : (
-              <div className="flex flex-col items-center justify-center h-full">
-                {/* <p className="text-2xl font-bold text-primary">
-                    No Results Published.
-                  </p> */}
-              </div>
+              <>
+               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                  No Toppers to show
+                </div>
+                </>
             )}
           </div>
         </div>
@@ -121,7 +111,7 @@ const Results = (props: Props) => {
 
       <div className="flex flex-col lg:flex-row mt-60 lg:mt-8">
 
-        <div>
+        <div className="w-full lg:w-[40%]">
           <p className="font-bold text-xl text-center">Super Senior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topSuperSenior?.length > 0 ? (
@@ -136,16 +126,16 @@ const Results = (props: Props) => {
                 </div>
               ))
             ) : (
-              <div className="flex flex-col items-center justify-center h-full">
-                {/* <p className="text-2xl font-bold text-primary">
-                    No Results Published.
-                  </p> */}
-              </div>
+              <>
+               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                  No Toppers to show
+                </div>
+                </>
             )}
           </div>
         </div>
 
-        <div>
+        <div className="w-full lg:w-[40%]">
           <p className="font-bold text-xl text-center">Sub Junior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topSubJunior?.length > 0 ? (
@@ -160,11 +150,11 @@ const Results = (props: Props) => {
                 </div>
               ))
             ) : (
-              <div className="flex flex-col items-center justify-center h-full">
-                {/* <p className="text-2xl font-bold text-primary">
-                    No Results Published.
-                  </p> */}
-              </div>
+              <>
+               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                  No Toppers to show
+                </div>
+                </>
             )}
           </div>
         </div>
