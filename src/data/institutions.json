@@ -1,297 +1,62 @@
 [
-     {
-      "name": "AZEEZIYYA ARABIC COLLEGE CHITHARI",
-      "place": "CHITHARI",
-      "zone": "A"
-     },
-     {
-      "name": "JABALUNNOOR SHAREEATH COLLEGE PERAMBRA",
-      "place": "PERAMBRA",
-      "zone": "A"
-     },
-     {
-      "name": "JAMALIYYA ARABIC COLLEGE PANOOR",
-      "place": "PANOOR",
-      "zone": "A"
-     },
-     {
-      "name": "JAMIA FURQANIYYA PURAKKAD",
-      "place": "PURAKKAD",
-      "zone": "A"
-     },
-     {
-      "name": "JAMIA HASHIMIYYA SHAMSUL ULAMA SHAREEATH COLLEGE NADAPURAM",
-      "place": "NADAPURAM",
-      "zone": "A"
-     },
-     {
-      "name": "MUHAMMEDALI SHIHAB THANGAL MEMMORIAL ARABIC COLLEGE KODAGU",
-      "place": "KODAGU",
-      "zone": "A"
-     },
-     {
-      "name": "MUNAVVIRUL ISLAM RABBANIYYA SHAREEATH COLLEGE TRIKKARIPPUR",
-      "place": "TRIKKARIPPUR",
-      "zone": "A"
-     },
-     {
-      "name": "PARAPPADI MAQAM JAMIA JUNIOR COLLEGE MOGRAL PUTHUR",
-      "place": "PUTHUR",
-      "zone": "A"
-     },
-     {
-      "name": "QASI TKM BAVA USTHAD ISLAMIC ACADEMY PUTHIGE",
-      "place": "PUTHIGE",
-      "zone": "A"
-     },
-     {
-      "name": "SAYYID CSK THANGAL SHAREEATH COLLEGE KUTTIADY",
-      "place": "KUTTIADY",
-      "zone": "A"
-     },
-     {
-      "name": "SHAMSUL ULAMA ARABIC COLLEGE THODAR",
-      "place": "THODAR",
-      "zone": "A"
-     },
-     {
-      "name": "SHIHAB THANGAL ISLAMIC ACADEMY CHENKALA",
-      "place": "CHENKALA",
-      "zone": "A"
-     },
-     {
-      "name": "AL ANSAR ARABIC COLLEGE MUNDAMPARAMBA",
-      "place": "MUNDAMPARAMBA",
-      "zone": "B"
-     },
-     {
-      "name": "DARUL HIDAYA ISLAMIC ACADEMY KUTTAMBOOR",
-      "place": "KUTTAMBOOR",
-      "zone": "B"
-     },
-     {
-      "name": "DARUL IHSAN SHAREEA & ARTS COLLEGE PARIYANGAD",
-      "place": "PARIYANGAD",
-      "zone": "B"
-     },
-     {
-      "name": "EMM AL HIDAYA SAHREEATH COLLEGE CHERUKOD",
-      "place": "CHERUKOD",
-      "zone": "B"
-     },
-     {
-      "name": "G.T.M.O SAYYID MUHAMMED ALI SHIHAB THANGAL ARABIC COLLEGE DEVARSHOLAI",
-      "place": "DEVARSHOLAI",
-      "zone": "B"
-     },
-     {
-      "name": "JAMIA ISLAMIYYA MANJERI",
-      "place": "MANJERI",
-      "zone": "B"
-     },
-     {
-      "name": "MALJA'A SHAREEATHE & ARTS COLLEGE ELAYOOR",
-      "place": "ELAYOOR",
-      "zone": "B"
-     },
-     {
-      "name": "MARKAZUL ULOOMIL ISLAMI NILAMBUR, CHANDAKKUNNU",
-      "place": "CHANDAKKUNNU",
-      "zone": "B"
-     },
-     {
-      "name": "SA'ADA ISLAMIC & ARTS COLLEGE VARAMBATTA",
-      "place": "VARAMBATTA",
-      "zone": "B"
-     },
-     {
-      "name": "W.M.O DARUL ULOOM ARABIC COLLEGE SULTHAN BATHERY",
-      "place": "BATHERY",
-      "zone": "B"
-     },
-     {
-      "name": "W.M.O IMAM GAZZALI ACADEMY KOOLIVAYAL",
-      "place": "KOOLIVAYAL",
-      "zone": "B"
-     },
-     {
-      "name": "AL FAROOQUE SHAREEATH COLLEGE ORAVAMPURAM",
-      "place": "ORAVAMPURAM",
-      "zone": "C"
-     },
-     {
-      "name": "AL HASANATH ARABIC COLLEGE MAMPUZHA",
-      "place": "MAMPUZHA",
-      "zone": "C"
-     },
-     {
-      "name": "ANVARUL ISLAM SHAREEATH COLLEGE THIRURKKAD",
-      "place": "THIRURKKAD",
-      "zone": "C"
-     },
-     {
-      "name": "ANWARUL HUDA COMPLEX VETTATHUR",
-      "place": "VETTATHUR",
-      "zone": "C"
-     },
-     {
-      "name": "DARUL ISLAM JUNIOR COLLEGE VALLAPPUZA",
-      "place": "VALLAPPUZA",
-      "zone": "C"
-     },
-     {
-      "name": "DARUNNAJATH SHAREEA COLLEGE MANNARKKAD",
-      "place": "MANNARKKAD",
-      "zone": "C"
-     },
-     {
-      "name": "DARUNNAJATH SHAREEATH & ARTS COLLEGE KARUVARAKKUNDU",
-      "place": "KARUVARAKKUNDU",
-      "zone": "C"
-     },
-     {
-      "name": "IHYA ULOOM ARABIC COLLEGE PULLISSERY",
-      "place": "PULLISSERY",
-      "zone": "C"
-     },
-     {
-      "name": "IMAM NAVAVI ISLAMIC COMPLEX NATTUKAL",
-      "place": "NATTUKAL",
-      "zone": "C"
-     },
-     {
-      "name": "IRSHADUL ANAM SHAREEATH COLLEGE KOPPAM",
-      "place": "KOPPAM",
-      "zone": "C"
-     },
-     {
-      "name": "KAMMUSOOFI MEMMORIAL ISLAMIC COMPLEX THEYYOTTUCHIRA",
-      "place": "THEYYOTTUCHIRA",
-      "zone": "C"
-     },
-     {
-      "name": "MAJMA’ THARBIYYATHI RAHMANIYYA JUNIOR COLLEGE CHERPULASSERY",
-      "place": "CHERPULASSERY",
-      "zone": "C"
-     },
-     {
-      "name": "ANVARUL HUDA JAMIA JUNIOR COLLEGE RAMAPURAM",
-      "place": "RAMAPURAM",
-      "zone": "D"
-     },
-     {
-      "name": "BADRIYYA SHAREEATH COLLEGE VENGARA",
-      "place": "VENGARA",
-      "zone": "D"
-     },
-     {
-      "name": "DARUL ARQAM SHAREEA AND ARTS COLLEGE PERINTHALMANNA",
-      "place": "PERINTHALMANNA",
-      "zone": "D"
-     },
-     {
-      "name": "DARUL HIKAM SHAREEA & ARTS COLLEGE CHEMMANIYOD",
-      "place": "CHEMMANIYOD",
-      "zone": "D"
-     },
-     {
-      "name": "KOTTUMALA ABOOBACKER MUSLIYAR SMARAKA ISLAMIC COMPLEX KALAMBADI",
-      "place": "KALAMBADI",
-      "zone": "D"
-     },
-     {
-      "name": "MA'DINUL ULOOM ARABIC COLLEGE THAZHEKKOD",
-      "place": "THAZHEKKOD",
-      "zone": "D"
-     },
-     {
-      "name": "NUSRATHUL ISLAM ARABIC COLLEGE OLAVATTUR",
-      "place": "OLAVATTUR",
-      "zone": "D"
-     },
-     {
-      "name": "POOKOTTUR KHILAFATH MEMMORIAL ISLAMIC CENTRE POOKKOTTUR",
-      "place": "POOKKOTTUR",
-      "zone": "D"
-     },
-     {
-      "name": "SAYYID UMARALI SHIHAB THANGAL ISLAMIC ACADEMY ARIMBRA",
-      "place": "ARIMBRA",
-      "zone": "D"
-     },
-     {
-      "name": "SHIHAB THANGAL MEMMORIAL JAMIA JUNIOR COLLEGE PAZHAMALLUR",
-      "place": "PAZHAMALLUR",
-      "zone": "D"
-     },
-     {
-      "name": "SHUHADA ISLAMIC COLLEGE PUTHANANGADI",
-      "place": "PUTHANANGADI",
-      "zone": "D"
-     },
-     {
-      "name": "THRIPPANACHI USTHAD MEMMORIAL ISLAMIC COLLEGE TRIPPANACHI",
-      "place": "TRIPPANACHI",
-      "zone": "D"
-     },
-     {
-      "name": "AIDROOS MUSLIYAR ISLAMIC & ARTS COLLEGE POOKKIPPARAMBA",
-      "place": "POOKKIPPARAMBA",
-      "zone": "E"
-     },
-     {
-      "name": "DARUL FALAH ISLAMIC ACADEMY KALAMASSERY",
-      "place": "KALAMASSERY",
-      "zone": "E"
-     },
-     {
-      "name": "DARUL IHSAN ISLAMIC ACADEMY CHULOOR",
-      "place": "CHULOOR",
-      "zone": "E"
-     },
-     {
-      "name": "DARUL ISLAM JAMIA JUNIOR COLLEGE VELIYANKOD",
-      "place": "VELIYANKOD",
-      "zone": "E"
-     },
-     {
-      "name": "HASANIYYA ARABIC COLLEGE ANANGADI",
-      "place": "ANANGADI",
-      "zone": "E"
-     },
-     {
-      "name": "IRSHADIYYA ARABIC COLLEGE KUMARANELLUR",
-      "place": "KUMARANELLUR",
-      "zone": "E"
-     },
-     {
-      "name": "JAMIA MAHIRIYYA ISLAMIC COLLEGE RAMANATTUKARA",
-      "place": "RAMANATTUKARA",
-      "zone": "E"
-     },
-     {
-      "name": "MALHARUL ULOOM ARABIC COLLEGE KARUVANKALLU",
-      "place": "KARUVANKALLU",
-      "zone": "E"
-     },
-     {
-      "name": "MARKAZUSSAQAFATHIL ISLAMIYYA KUNDOOR",
-      "place": "KUNDOOR",
-      "zone": "E"
-     },
-     {
-      "name": "NOORUL HIKMA SHAREEATH & ARTS COLLEGE KANIYAPURAM",
-      "place": "KANIYAPURAM",
-      "zone": "E"
-     },
-     {
-      "name": "NOORUL HUDA ISLAMIC COLLEGE KADANCHERI",
-      "place": "KADANCHERI",
-      "zone": "E"
-     },
-     {
-      "name": "SHIHAB THANGAL ISLAMIC ACADEMY CHEROOR",
-      "place": "CHEROOR",
-      "zone": "E"
-     }
-    ]
+ {
+  "name": "AL FAROOQUE ORAVAMPURAM",
+  "place": "ORAVAMPURAM",
+  "zone": "C"
+ },
+ {
+  "name": "AL HASANATH MAMPUZHA",
+  "place": "MAMPUZHA",
+  "zone": "C"
+ },
+ {
+  "name": "ANVARUL ISLAM THIRURKKAD",
+  "place": "THIRURKKAD",
+  "zone": "C"
+ },
+ {
+  "name": "ANWARUL HUDA VETTATHUR",
+  "place": "VETTATHUR",
+  "zone": "C"
+ },
+ {
+  "name": "DARUL ISLAM VALLAPPUZA",
+  "place": "VALLAPPUZA",
+  "zone": "C"
+ },
+ {
+  "name": "DARUNNAJATH MANNARKKAD",
+  "place": "MANNARKKAD",
+  "zone": "C"
+ },
+ {
+  "name": "DARUNNAJATH KARUVARAKKUNDU",
+  "place": "KARUVARAKKUNDU",
+  "zone": "C"
+ },
+ {
+  "name": "IHYA ULOOM PULLISSERY",
+  "place": "PULLISSERY",
+  "zone": "C"
+ },
+ {
+  "name": "IMAM NAVAVI NATTUKAL",
+  "place": "NATTUKAL",
+  "zone": "C"
+ },
+ {
+  "name": "IRSHADUL ANAM KOPPAM",
+  "place": "KOPPAM",
+  "zone": "C"
+ },
+ {
+  "name": "KAMMUSOOFI THEYYOTTUCHIRA",
+  "place": "THEYYOTTUCHIRA",
+  "zone": "C"
+ },
+ {
+  "name": "MAJMA’ RAHMANIYYA CHERPULASSERY",
+  "place": "CHERPULASSERY",
+  "zone": "C"
+ }
+]
