@@ -660,7 +660,9 @@
   "engName": "MALAPPAT",
   "isStage": 1,
   "cat": "G",
-  "publish": 1
+  "publish": 1,
+  "isGrp": 1
+
  },
  {
   "code": "GS7",
