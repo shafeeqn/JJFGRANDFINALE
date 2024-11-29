@@ -33,8 +33,7 @@ export default function ViewResult(props: Props) {
       
       <p className="text-sm bg-orange inline font-semibold p-1 rounded-md">{props?.selectedProgram?.code}</p>
       <p className="text-md font-bold">{props.selectedProgram?.name}</p>
-      <p className="text-md font-bold">{props.selectedProgram?.cat == "J" ? "Junior" : "Senior" }</p>
-
+      <p className="text-md font-bold">{props.selectedProgram?.cat == "J" ? "Junior" : props.selectedProgram?.cat == "S" ? "Senior" : props.selectedProgram?.cat == "SS" ? "Super Senior" : props.selectedProgram?.cat == "SJ" ? "Sub Junior" : props.selectedProgram?.cat == "G" ? "General" : "NIL"}</p>
 
       { 
         sorted?.length > 0 ? sorted?.map((cp : any)=>(
