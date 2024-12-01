@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import jsPDF from "jspdf";
 import { saveAs } from "file-saver";
 
-interface Props {
+interface props {
   selectedCP: any;
   name: string;
   programResultView: boolean;
