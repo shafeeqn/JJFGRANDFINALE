@@ -53,7 +53,7 @@ export default function ProgramResult(props: Props) {
             : "";
 
         doc.text(
-          `This is to certify that Mr. ${props.name} has been awarded`,
+          This is to certify that Mr. ${props.name} has been awarded,
           pdfWidth / 2,
           137,
           { align: "center" }
@@ -61,21 +61,21 @@ export default function ProgramResult(props: Props) {
 
         if (props.selectedCP.position && props.selectedCP.grade) {
           doc.text(
-            `the ${capitalizedPosition} with ${capitalizedGrade} grade in ${props.selectedCP.engName} in`,
+            the ${capitalizedPosition} with ${capitalizedGrade} grade in ${props.selectedCP.engName} in,
             pdfWidth / 2,
             146,
             { align: "center" }
           );
         } else if (props.selectedCP.position) {
           doc.text(
-            `the ${capitalizedPosition} prize without any grade in ${props.selectedCP.engName} in`,
+            the ${capitalizedPosition} prize without any grade in ${props.selectedCP.engName} in,
             pdfWidth / 2,
             146,
             { align: "center" }
           );
         } else if (props.selectedCP.grade) {
           doc.text(
-            `${capitalizedGrade} grade without any position in ${props.selectedCP.engName} in`,
+            ${capitalizedGrade} grade without any position in ${props.selectedCP.engName} in,
             pdfWidth / 2,
             146,
             { align: "center" }
@@ -83,14 +83,14 @@ export default function ProgramResult(props: Props) {
         }
 
         doc.text(
-          `Jamia Junior College Fest 2023 - '24 conducted by Jamia Nooriyya Arabiyya`,
+          Jamia Junior College Fest 2023 - '24 conducted by Jamia Nooriyya Arabiyya,
           pdfWidth / 2,
           155,
           { align: "center" }
         );
 
         const pdfBlob = doc.output("blob");
-        saveAs(pdfBlob, `${props.selectedCP.engName} - ${props.name}.pdf`);
+        saveAs(pdfBlob, ${props.selectedCP.engName} - ${props.name}.pdf);
       });
   };
 
@@ -128,7 +128,7 @@ export default function ProgramResult(props: Props) {
                 {props?.selectedCP?.pts || "NIL"}
               </span>
             </p>
-            <button onClick={handleDownloadPDF} className="bg-green-600 hover:bg-green-700 text-white rounded-lg p-2 my-2">Download Certificate</button>
+            {/* <button onClick={handleDownloadPDF} className="bg-green-600 hover:bg-green-700 text-white rounded-lg p-2 my-2">Download Certificate</button> */}
           </>
         ) : (props.selectedCP?.pts as number) == 0 ? (
           <>
