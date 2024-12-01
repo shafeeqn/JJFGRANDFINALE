@@ -35,7 +35,7 @@ const Results = (props: Props) => {
           <p className="font-bold text-xl text-center">General Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topGeneral?.length > 0 ? (
-              props.topJunior.slice(0, 3).map((topper: any) => (
+              props.topGeneral.slice(0, 3).map((topper: any) => (
                 <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                   <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
                     {topper.chest}
