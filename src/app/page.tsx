@@ -9,18 +9,21 @@ function page() {
         Jamia Junior Fest
       </p>
       <p className="lg:text-lg font-black mb-5 text-center">
-Jamia Junior Colleges Arts Fest '25     </p>
+        Jamia Junior Colleges Arts Fest '25     </p>
       <p className="lg:text-lg font-black mb-5 text-center">
- (ZONE C)     </p>
+        (ZONE C)     </p>
       <div className="flex gap-2 text-xl font-semibold">
-        <Link href={'/result'}  className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
+        <Link href={'/result'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Results
         </Link >
-         {/* <Link href={'/institutions'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
+        {/* <Link href={'/institutions'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Junior College
         </Link > */}
         <Link href={'/profile'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Profile
+        </Link >
+        <Link href={'/score-board'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
+          Score Board
         </Link >
       </div>
     </div>
