@@ -12,9 +12,9 @@ const page = ({ params, searchParams }: any) => {
     const cps = candidateProgramsData.filter((cp) => cp.code == cnd.chest);
     return {
       ...cnd,
-      propgrams : cps.map((cp)=>{
+      programs: cps.map((cp) => {
         return {
-          ...programsData.find((prg)=> prg.code == cp.prg)
+          ...programsData.find((prg) => prg.code == cp.prg)
         }
       })
     };
