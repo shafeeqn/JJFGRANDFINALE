@@ -70,7 +70,7 @@ export default function CategoryResult(props: Props) {
                                     key={program.code}
                                     className="w-16 text-center font-medium py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300"
                                 >
-                                    {calculatePoints(institution.name, program.code) || "0"}
+                                    {calculatePoints(institution.name, program.code) || ""}
                                 </p>
                             ))}
                         </div>
