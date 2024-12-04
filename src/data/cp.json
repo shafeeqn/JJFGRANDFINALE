@@ -692,15 +692,23 @@
  },
  {
   "code": 3205,
-  "prg": "JS7"
+  "prg": "JS7",
+  "pts": 1,
+  "position": 3
  },
  {
   "code": 3404,
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 3554,
-  "prg": "JS7"
+  "prg": "JS7",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3202,
@@ -729,19 +737,31 @@
  },
  {
   "code": 3206,
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 3406,
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 3557,
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 3656,
-  "prg": "JS9"
+  "prg": "JS9",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3207,
@@ -2795,31 +2815,48 @@
  },
  {
   "code": 3122,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 3178,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3228,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3274,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 3326,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 3369,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 3423,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3571,
@@ -2827,15 +2864,23 @@
  },
  {
   "code": 3623,
-  "prg": "SSS12"
+  "prg": "SSS12",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3122,
-  "prg": "SSS13"
+  "prg": "SSS13",
+  "grade": "C",
+  "pts": 2,
+  "position": 3
  },
  {
   "code": 3175,
-  "prg": "SSS13"
+  "prg": "SSS13",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3224,
@@ -2843,7 +2888,10 @@
  },
  {
   "code": 3331,
-  "prg": "SSS13"
+  "prg": "SSS13",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 3423,
