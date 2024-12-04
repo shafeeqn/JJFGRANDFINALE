@@ -167,27 +167,41 @@
  },
  {
   "code": 3104,
-  "prg": "SJS13"
+  "prg": "SJS13",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3155,
-  "prg": "SJS13"
+  "prg": "SJS13",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3255,
-  "prg": "SJS13"
+  "prg": "SJS13",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3305,
-  "prg": "SJS13"
+  "prg": "SJS13",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3355,
-  "prg": "SJS13"
+  "prg": "SJS13",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 3455,
-  "prg": "SJS13"
+  "prg": "SJS13",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 3503,
@@ -195,39 +209,61 @@
  },
  {
   "code": 3605,
-  "prg": "SJS13"
+  "prg": "SJS13",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 3104,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 3156,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 3256,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 3306,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 3356,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3452,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3501,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 3606,
-  "prg": "SJS14"
+  "prg": "SJS14",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3105,
@@ -521,19 +557,30 @@
  },
  {
   "code": 3204,
-  "prg": "JS6"
+  "prg": "JS6",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3405,
-  "prg": "JS6"
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3555,
-  "prg": "JS6"
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 3655,
-  "prg": "JS6"
+  "prg": "JS6",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 3205,
@@ -606,7 +653,10 @@
  },
  {
   "code": 3208,
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3407,
@@ -614,11 +664,17 @@
  },
  {
   "code": 3558,
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 3652,
-  "prg": "JS11"
+  "prg": "JS11",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 3101,
@@ -1618,11 +1674,15 @@
  },
  {
   "code": 3115,
-  "prg": "SS17"
+  "prg": "SS17",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3170,
-  "prg": "SS17"
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3221,
@@ -1630,7 +1690,10 @@
  },
  {
   "code": 3271,
-  "prg": "SS17"
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3322,
@@ -1638,19 +1701,29 @@
  },
  {
   "code": 3418,
-  "prg": "SS17"
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 3565,
-  "prg": "SS17"
+  "prg": "SS17",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3614,
-  "prg": "SS17"
+  "prg": "SS17",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 3659,
-  "prg": "SS17"
+  "prg": "SS17",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3119,
@@ -2508,39 +2581,60 @@
  },
  {
   "code": 3128,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 15
  },
  {
   "code": 3181,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3227,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 3278,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3332,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3375,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3426,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3578,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3630,
-  "prg": "SSS14"
+  "prg": "SSS14",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 3125,
