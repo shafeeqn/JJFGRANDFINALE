@@ -77,22 +77,23 @@ const page = () => {
     cp.map((c) => {
       if (cnd.chest == c.code) {
         const prg = programsData.find((p) => p.code === c.prg);
-
+        
         if (prg?.publish == 1 && prg?.isGrp != 1) {
-          cat = c.prg.slice(0, 2);
-          if (cat === "SS") {
-            cat = "SS";
-          } else if (cat === "SJ") {
-            cat = "SJ";
-          }
-          // else cat starts with S
-          else if (cat.startsWith("S")) {
-            cat = "S";
-          } else if (cat.startsWith("J")) {
-            cat = "J";
-          } else if (cat.startsWith("G")) {
-            cat = "G";
-          }
+          cat = prg?.cat || "";
+          // cat = c.prg.slice(0, 2);
+          // if (cat === "SS") {
+          //   cat = "SS";
+          // } else if (cat === "SJ") {
+          //   cat = "SJ";
+          // }
+          // // else cat starts with S
+          // else if (cat.startsWith("S")) {
+          //   cat = "S";
+          // } else if (cat.startsWith("J")) {
+          //   cat = "J";
+          // } else if (cat.startsWith("G")) {
+          //   cat = "G";
+          // }
           totalPoints += c?.pts || 0;
         }
       }
