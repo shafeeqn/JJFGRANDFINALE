@@ -4026,15 +4026,22 @@
  },
  {
   "code": 1,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A",
+  "pts": 11,
+  "position": 3
  },
  {
   "code": 3,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 4,
@@ -4042,31 +4049,47 @@
  },
  {
   "code": 5,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 6,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A",
+  "pts": 13,
+  "position": 2
  },
  {
   "code": 7,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A",
+  "pts": 11,
+  "position": 3
  },
  {
   "code": 8,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 9,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 10,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A5"
  },
  {
   "code": 11,
-  "prg": "GS9"
+  "prg": "GS9",
+  "grade": "A",
+  "pts": 15,
+  "position": 1
  },
  {
   "code": 12,
