@@ -9,6 +9,13 @@ interface Props {
 const Profile = (props: Props) => {
   const [programResultView, setProgramResultView] = useState<boolean>(false);
   const [selectedCP, setSelectedCP] = useState<any>();
+
+  const totalPoints = props?.candidate?.programs?.reduce((total: number, prg: any) => {
+    if (prg?.publish === 1 && prg?.isGrp !== 1) {
+      return total + (prg?.pts || 0); // Add points if conditions are met
+    }
+    return total; // Otherwise, return the accumulator unchanged
+  }, 0); // Initialize the accumulator with 0
   return (
     <>
       {props.candidate.name ? (
@@ -24,7 +31,7 @@ const Profile = (props: Props) => {
               {props?.candidate?.name}
             </p>
             <p className="font-semibold text-xl text-center">
-              {props?.candidate?.programs[0].cat == "J" ? "Junior" : "Senior"}
+              {props?.candidate?.programs[0].cat == "J" ? "Junior" : props?.candidate?.programs[0].cat == "S" ? "Senior" : props?.candidate?.programs[0].cat == "SS" ? "Super Senior" : props?.candidate?.programs[0].cat == "SJ" ? "Sub Junior" : props?.candidate?.programs[0].cat == "G" ? "General" : "NIL"}
             </p>
             <p className="font-semibold text-xl text-center">
               {props?.candidate?.college}
@@ -32,14 +39,18 @@ const Profile = (props: Props) => {
             <p className="font-semibold text-xl text-center">
               Total Points :{" "}
               <span className="text-2xl font-bold">
-                {props?.candidate?.programs?.reduce((a: any, b: any) => {
+                {/* {props?.candidate?.programs?.reduce((a: any, b: any) => {
+                  console.log(b);
+                  
                     if (b?.publish == 1 && b?.isGrp != 1) {
                         return a + (b?.pts as unknown as number) || 0;
                       } else {
                         return a + 0;
                       }
                 
-                }, 0)}
+                }, 0)} */}
+
+{totalPoints}
               </span>
             </p>
           </div>
