@@ -9,7 +9,7 @@ function page() {
                 Score Board
             </p>
             <p className="lg:text-lg font-black mb-5 text-center">
-                Jamia Junior Colleges Arts Fest '25     </p>
+                JAMIA JUNIOR FEST '25     </p>
             <p className="lg:text-lg font-black mb-5 text-center">
                 (ZONE C)     </p>
             <div className="flex gap-2 text-xl font-semibold">
