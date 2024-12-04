@@ -2037,11 +2037,16 @@
  },
  {
   "code": 3317,
-  "prg": "SS19"
+  "prg": "SS19",
+  "grade": "C",
+  "pts": 4,
+  "position": 2
  },
  {
   "code": 3416,
-  "prg": "SS19"
+  "prg": "SS19",
+  "pts": 1,
+  "position": 3
  },
  {
   "code": 3563,
@@ -2049,7 +2054,10 @@
  },
  {
   "code": 3618,
-  "prg": "SS19"
+  "prg": "SS19",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 3120,
