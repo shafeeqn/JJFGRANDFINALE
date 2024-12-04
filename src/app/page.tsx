@@ -9,7 +9,7 @@ function page() {
         Jamia Junior Fest
       </p>
       <p className="lg:text-lg font-black mb-5 text-center">
-        JAMIA JUNIOR FEST '25     </p>
+        JAMIA JUNIOR COLLEGE ARTS FEST '25     </p>
       <p className="lg:text-lg font-black mb-5 text-center">
         (ZONE C)     </p>
       <div className="flex gap-2 text-xl font-semibold">
