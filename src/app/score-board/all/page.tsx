@@ -14,7 +14,7 @@ const Page = () => {
         const nextIndex = (currentIndex + 1) % categories.length;
         return categories[nextIndex];
       });
-    }, 8000);
+    }, 5000);
 
     return () => clearInterval(intervalId); 
   }, []);
