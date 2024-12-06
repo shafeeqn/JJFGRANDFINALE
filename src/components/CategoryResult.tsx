@@ -30,6 +30,13 @@ export default function CategoryResult({ category }: { category: string }) {
         }, 0);
     }
 
+    const sortedInstitutions = institutionsData.map(institution => {
+        return {
+            ...institution,
+            totalPoints: institutionTotalPoints(institution.name)
+        };
+    }).sort((a, b) => b.totalPoints - a.totalPoints);
+
     return (
         <div className="text-center text-xs m-10 print:m-0 p-8 rounded-xl bg-gradient-to-br from-pink-200 via-sky-200 to-blue-200 shadow-xl">
             <div className="text-3xl font-extrabold mb-5 text-sky-800">
@@ -78,7 +85,7 @@ export default function CategoryResult({ category }: { category: string }) {
                     </div>
                 </div>
                 {/* Table Rows */}
-                {institutionsData.map((institution, index) => (
+                {sortedInstitutions.map((institution, index) => (
                     <div
                         key={institution.name}
                         className={`flex w-full min-w-[1200px] ${index % 2 === 0 ? "bg-blue-50" : "bg-pink-50"
@@ -98,7 +105,7 @@ export default function CategoryResult({ category }: { category: string }) {
                                 </p>
                             ))}
                             <p className="w-16 text-center font-bold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300">
-                                {institutionTotalPoints(institution.name)}
+                                {institution.totalPoints}
                             </p>
                         </div>
                     </div>
