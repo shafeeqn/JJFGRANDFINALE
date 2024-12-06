@@ -1,62 +1,62 @@
 [
  {
-  "name": "AL FAROOQUE ORAVAMPURAM",
-  "place": "ORAVAMPURAM",
-  "zone": "C"
+  "name": "01. AMIAC POOKKIPPARAMBA",
+  "place": "POOKKIPPARAMBA",
+  "zone": "E"
  },
  {
-  "name": "AL HASANATH MAMPUZHA",
-  "place": "MAMPUZHA",
-  "zone": "C"
+  "name": "02. DARUL FALAH KALAMASSERY",
+  "place": "KALAMASSERY",
+  "zone": "E"
  },
  {
-  "name": "ANVARUL ISLAM THIRURKKAD",
-  "place": "THIRURKKAD",
-  "zone": "C"
+  "name": "03. DARUL IHSAN CHULOOR",
+  "place": "CHULOOR",
+  "zone": "E"
  },
  {
-  "name": "ANWARUL HUDA VETTATHUR",
-  "place": "VETTATHUR",
-  "zone": "C"
+  "name": "04. DARUL ISLAM VELIYANKOD",
+  "place": "VELIYANKOD",
+  "zone": "E"
  },
  {
-  "name": "DARUL ISLAM VALLAPPUZA",
-  "place": "VALLAPPUZA",
-  "zone": "C"
+  "name": "05. HASANIYYA ANANGADI",
+  "place": "ANANGADI",
+  "zone": "E"
  },
  {
-  "name": "DARUNNAJATH MANNARKKAD",
-  "place": "MANNARKKAD",
-  "zone": "C"
+  "name": "06. IRSHADIYYA KUMARANELLUR",
+  "place": "KUMARANELLUR",
+  "zone": "E"
  },
  {
-  "name": "DARUNNAJATH KARUVARAKKUNDU",
-  "place": "KARUVARAKKUNDU",
-  "zone": "C"
+  "name": "07. MAHIRIYYA RAMANATTUKARA",
+  "place": "RAMANATTUKARA",
+  "zone": "E"
  },
  {
-  "name": "IHYA ULOOM PULLISSERY",
-  "place": "PULLISSERY",
-  "zone": "C"
+  "name": "08. MALHARUL ULOOM KARUVANKALLU",
+  "place": "KARUVANKALLU",
+  "zone": "E"
  },
  {
-  "name": "IMAM NAVAVI NATTUKAL",
-  "place": "NATTUKAL",
-  "zone": "C"
+  "name": "09. MARKAZ KUNDOOR",
+  "place": "KUNDOOR",
+  "zone": "E"
  },
  {
-  "name": "IRSHADUL ANAM KOPPAM",
-  "place": "KOPPAM",
-  "zone": "C"
+  "name": "10. NOORUL HIKMA KANIYAPURAM",
+  "place": "KANIYAPURAM",
+  "zone": "E"
  },
  {
-  "name": "KAMMUSOOFI THEYYOTTUCHIRA",
-  "place": "THEYYOTTUCHIRA",
-  "zone": "C"
+  "name": "11. NOORUL HUDA KADANCHERI",
+  "place": "KADANCHERI",
+  "zone": "E"
  },
  {
-  "name": "MAJMA’ RAHMANIYYA CHERPULASSERY",
-  "place": "CHERPULASSERY",
-  "zone": "C"
+  "name": "12. STIA CHEROOR",
+  "place": "CHEROOR",
+  "zone": "E"
  }
 ]
