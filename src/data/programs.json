@@ -1,34 +1,34 @@
 [
  {
-  "code": "SJO1",
+  "code": "SJ01",
   "name": "അറബിക് കയ്യെഴുത്ത്",
   "engName": "ARABIC HW",
   "cat": "SJ",
   "publish": 1
  },
  {
-  "code": "SJO2",
+  "code": "SJ02",
   "name": "മലയാളം കയ്യെഴുത്ത്",
   "engName": "MALAYALAM HW",
   "cat": "SJ",
   "publish": 1
  },
  {
-  "code": "SJO3",
+  "code": "SJ03",
   "name": "ഉർദു കയ്യെഴുത്ത്",
   "engName": "URDU HW",
   "cat": "SJ",
   "publish": 1
  },
  {
-  "code": "SJO4",
+  "code": "SJ04",
   "name": "മെമ്മറി ടെസ്റ്റ്",
   "engName": "MEMORY TEST",
   "cat": "SJ",
   "publish": 1
  },
  {
-  "code": "SJS5",
+  "code": "SJ0‎‎5",
   "name": "ഖിറാഅത്ത്",
   "engName": "QIRA'ATH",
   "cat": "SJ",
@@ -36,7 +36,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS6",
+  "code": "SJ06",
   "name": "അറബി ഗാനം",
   "engName": "ARABIC SONG",
   "cat": "SJ",
@@ -44,7 +44,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS7",
+  "code": "SJ07",
   "name": "അറബിക് കഥ പറയൽ",
   "engName": "ARABIC STORY TELLING",
   "cat": "SJ",
@@ -52,7 +52,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS8",
+  "code": "SJ08",
   "name": " അറബിക് പദപ്പയറ്റ്",
   "engName": "ARABIC WORD FIGHT",
   "cat": "SJ",
@@ -60,7 +60,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS9",
+  "code": "SJ09",
   "name": " മലയാള ഗാനം",
   "engName": "MALAYALAM SONG",
   "cat": "SJ",
@@ -68,7 +68,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS10",
+  "code": "SJ‎‎10",
   "name": "മലയാള പ്രസംഗം",
   "engName": "MALAYALAM SPEECH",
   "cat": "SJ",
@@ -76,7 +76,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS11",
+  "code": "SJ11",
   "name": "മലയാളം കഥ പറയൽ",
   "engName": "MALAYALAM STORY TELLING",
   "cat": "SJ",
@@ -84,7 +84,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS12",
+  "code": "SJ12",
   "name": "മധുരം മലയാളം",
   "engName": "SWEET MALAYALAM",
   "cat": "SJ",
@@ -92,7 +92,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS13",
+  "code": "SJ13",
   "name": " ഇംഗ്ലീഷ് കഥ പറയൽ",
   "engName": "ENGLISH STORY TELLING",
   "cat": "SJ",
@@ -100,7 +100,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS14",
+  "code": "SJ14",
   "name": "ഇംഗ്ലീഷ് ഗദ്യ വായന",
   "engName": "ENGLISH READING",
   "cat": "SJ",
@@ -108,7 +108,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS15",
+  "code": "SJ15",
   "name": "ഇംഗ്ലീഷ് പദപ്പയറ്റ്",
   "engName": "ENGLISH WORDFIGHT",
   "cat": "SJ",
@@ -116,7 +116,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS16",
+  "code": "SJ16",
   "name": "ഉർദു ഗാനം",
   "engName": "URDU SONG",
   "cat": "SJ",
@@ -124,7 +124,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS17",
+  "code": "SJ17",
   "name": "ഉർദു പ്രസംഗം",
   "engName": "URDU SPEECH",
   "cat": "SJ",
@@ -132,7 +132,7 @@
   "isStage": 1
  },
  {
-  "code": "SJS18",
+  "code": "SJ18",
   "name": "ഉർദു ഗദ്യ വായന",
   "engName": "URDU READING",
   "cat": "SJ",
@@ -140,35 +140,35 @@
   "isStage": 1
  },
  {
-  "code": "JO1",
+  "code": "J19",
   "name": "അറബിക് കയ്യെഴുത്ത്",
   "engName": "ARABIC HANDWRITING",
   "cat": "J",
   "publish": 1
  },
  {
-  "code": "JO2",
+  "code": "J20",
   "name": "മലയാളം കയ്യെഴുത്ത്",
   "engName": "MALAYALAM HANDWRITING",
   "cat": "J",
   "publish": 1
  },
  {
-  "code": "JO3",
+  "code": "J21",
   "name": "വിവർത്തനം (മലയാളം-അറബി)",
   "engName": "TRANSLATION MAL-AR",
   "cat": "J",
   "publish": 1
  },
  {
-  "code": "JO4",
+  "code": "J22",
   "name": "ഉർദു കയ്യെഴുത്ത്",
   "engName": "URDU HANDWRITING",
   "cat": "J",
   "publish": 1
  },
  {
-  "code": "JS5",
+  "code": "J23",
   "name": "ഖിറാഅത്ത്",
   "engName": "QIRA'ATH",
   "cat": "J",
@@ -176,7 +176,7 @@
   "isStage": 1
  },
  {
-  "code": "JS6",
+  "code": "J24",
   "name": "അറബിക് ഗാനം",
   "engName": "ARABIC SONG",
   "cat": "J",
@@ -184,7 +184,7 @@
   "isStage": 1
  },
  {
-  "code": "JS7",
+  "code": "J25",
   "name": "അറബിക് പ്രസംഗം",
   "engName": "ARABIC SPEECH",
   "cat": "J",
@@ -192,7 +192,7 @@
   "isStage": 1
  },
  {
-  "code": "JS8",
+  "code": "J26",
   "name": "ഹിഫ്ള്",
   "engName": "HIFZ",
   "cat": "J",
@@ -200,7 +200,7 @@
   "isStage": 1
  },
  {
-  "code": "JS9",
+  "code": "J27",
   "name": "മാപ്പിളപ്പാട്ട്",
   "engName": "MAPPILAPPAT",
   "cat": "J",
@@ -208,7 +208,7 @@
   "isStage": 1
  },
  {
-  "code": "JS10",
+  "code": "J28",
   "name": "മലയാള പ്രസംഗം",
   "engName": "MALAYALAM SPEECH",
   "cat": "J",
@@ -216,7 +216,7 @@
   "isStage": 1
  },
  {
-  "code": "JS11",
+  "code": "J29",
   "name": "മലയാള പദ്യം ചൊല്ലൽ",
   "engName": "MALAYALAM PADYAM",
   "cat": "J",
@@ -224,7 +224,7 @@
   "isStage": 1
  },
  {
-  "code": "JS12",
+  "code": "J30",
   "name": "ഇംഗ്ലീഷ് പ്രസംഗം",
   "engName": "ENGLISH SPEECH",
   "cat": "J",
@@ -232,7 +232,7 @@
   "isStage": 1
  },
  {
-  "code": "JS13",
+  "code": "J31",
   "name": "ഇംഗ്ലീഷ് പിക് & ടോക്",
   "engName": "ENGLISH PICK & TALK",
   "cat": "J",
@@ -240,7 +240,7 @@
   "isStage": 1
  },
  {
-  "code": "JS14",
+  "code": "J32",
   "name": "ഇംഗ്ലീഷ് സ്പെല്ലിംഗ് ബീ",
   "engName": "ENGLISH SPELLING BEE",
   "cat": "J",
@@ -248,7 +248,7 @@
   "isStage": 1
  },
  {
-  "code": "JS15",
+  "code": "J33",
   "name": "ഉർദു ഗാനം",
   "engName": "URDU SONG",
   "cat": "J",
@@ -256,7 +256,7 @@
   "isStage": 1
  },
  {
-  "code": "JS16",
+  "code": "J34",
   "name": "ഉർദു പ്രസംഗം",
   "engName": "URDU SPEECH",
   "cat": "J",
@@ -264,7 +264,7 @@
   "isStage": 1
  },
  {
-  "code": "JS17",
+  "code": "J35",
   "name": "ഉർദു പദ്യം ചൊല്ലൽ",
   "engName": "URDU PADYAM ",
   "cat": "J",
@@ -272,7 +272,7 @@
   "isStage": 1
  },
  {
-  "code": "JS18",
+  "code": "‎J36",
   "name": "ക്വിസ് (Digital Multilingual)",
   "engName": "QUIZ MULTI",
   "cat": "J",
@@ -280,91 +280,91 @@
   "isStage": 1
  },
  {
-  "code": "SO1",
+  "code": "S37",
   "name": "അറബിക് കാലിഗ്രഫി",
   "engName": "ARABIC CALLIGRAPHY",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO2",
+  "code": "S38",
   "name": "അറബിക് പോസ്റ്റർ ഡിസൈനിംഗ്",
   "engName": "ARABIC POSTER DESIGN",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO3",
+  "code": "S39",
   "name": "അറബിക് പ്രബന്ധം",
   "engName": "ARABIC ESSAY",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO4",
+  "code": "S40",
   "name": "അറബിക് വീഡിയോ ഗ്രാസ്പിംഗ്",
   "engName": "ARABIC VIDEO GRASPING",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO5",
+  "code": "S41",
   "name": "മലയാള പ്രബന്ധം",
   "engName": "MALAYALAM ESSAY",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO6",
+  "code": "S42",
   "name": "മലയാളം കവിതാരചന",
   "engName": "MALAYALAM POEM",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO7",
+  "code": "S43",
   "name": "ഇംഗ്ലീഷ് ന്യൂസ് മേക്കിംഗ്",
   "engName": "ENGLISH NEWS MAKING",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO8",
+  "code": "S44",
   "name": "ഇംഗ്ലീഷ് പ്രബന്ധം",
   "engName": "ENGLISH ESSAY",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO9",
+  "code": "S45",
   "name": "ഇംഗ്ലീഷ് വേഡ് ഹണ്ടിംഗ്",
   "engName": "ENGLISH WORDHUNTING",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO10",
+  "code": "S46",
   "name": "വിവർത്തനം (ഇംഗ്ലീഷ് - അറബിക്)",
   "engName": "TRANSLATION ENG-ARA",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO11",
+  "code": "S47",
   "name": "ഉർദു പ്രബന്ധം",
   "engName": "URDU ESSAY",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SO12",
+  "code": "S48",
   "name": "വിവർത്തനം (മലയാളം - ഉർദു)",
   "engName": "TRANSLATION MAL-URD",
   "cat": "S",
   "publish": 1
  },
  {
-  "code": "SS13",
+  "code": "S49",
   "name": "അറബിക് ഗാനം",
   "engName": "ARABIC SONG",
   "cat": "S",
@@ -372,7 +372,7 @@
   "isStage": 1
  },
  {
-  "code": "SS14",
+  "code": "S50",
   "name": "അറബിക് പ്രസംഗം",
   "engName": "ARABIC SPEECH",
   "cat": "S",
@@ -380,7 +380,7 @@
   "isStage": 1
  },
  {
-  "code": "SS15",
+  "code": "S51",
   "name": "തസ് രീഫ്",
   "engName": "THASREEF",
   "cat": "S",
@@ -388,7 +388,7 @@
   "isStage": 1
  },
  {
-  "code": "SS16",
+  "code": "S52",
   "name": "മാപ്പിളപ്പാട്ട്",
   "engName": "MAPPILAPPAT",
   "cat": "S",
@@ -396,7 +396,7 @@
   "isStage": 1
  },
  {
-  "code": "SS17",
+  "code": "S53",
   "name": "മലയാള പ്രസംഗം",
   "engName": "MALAYALAM SPEECH",
   "cat": "S",
@@ -404,7 +404,7 @@
   "isStage": 1
  },
  {
-  "code": "SS18",
+  "code": "S54",
   "name": "ഇംഗ്ലീഷ് പ്രസംഗം",
   "engName": "ENGLISH SPEECH",
   "cat": "S",
@@ -412,7 +412,7 @@
   "isStage": 1
  },
  {
-  "code": "SS19",
+  "code": "S55",
   "name": "ഇംഗ്ലിഷ് ലൈവ് റിപ്പോർട്ടിംഗ്",
   "engName": "ENGLISH LIVE REPORTING",
   "cat": "S",
@@ -420,7 +420,7 @@
   "isStage": 1
  },
  {
-  "code": "SS20",
+  "code": "S56",
   "name": "ഉർദു ഗാനം",
   "engName": "URDU SONG",
   "cat": "S",
@@ -428,7 +428,7 @@
   "isStage": 1
  },
  {
-  "code": "SS21",
+  "code": "S57",
   "name": "ഉർദു പ്രസംഗം",
   "engName": "URDU SPEECH",
   "cat": "S",
@@ -436,7 +436,7 @@
   "isStage": 1
  },
  {
-  "code": "SS22",
+  "code": "S58",
   "name": "ക്വിസ് (Digital Multilingual)",
   "engName": "QUIZ MULTI",
   "cat": "S",
@@ -444,77 +444,77 @@
   "isStage": 1
  },
  {
-  "code": "SSO1",
+  "code": "SS59",
   "name": "അറബിക് കാലിഗ്രഫി",
   "engName": "ARABIC CALLIGRAPHY",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO2",
+  "code": "SS60",
   "name": "അറബിക് പ്രബന്ധം",
   "engName": "ARABIC ESSAY",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO3",
+  "code": "SS61",
   "name": "അറബിക് വീഡിയോ ഗ്രാസ്പിംഗ്",
   "engName": "ARABIC VIDEO GRASPING",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO4",
+  "code": "SS62",
   "name": "അറബിക് നിഘണ്ടു നിർമ്മാണം",
   "engName": "ARABIC DICTIONARY",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO5",
+  "code": "SS63",
   "name": "മലയാള പ്രബന്ധം",
   "engName": "MALAYALAM ESSAY",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO6",
+  "code": "SS64",
   "name": "മലയാളം കവിതാരചന",
   "engName": "MALAYALAM POEM ",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO7",
+  "code": "SS65",
   "name": "ഇംഗ്ലീഷ് പ്രബന്ധം",
   "engName": "ENGLISH ESSAY",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO8",
+  "code": "SS66",
   "name": "വിവർത്തനം (അറബിക്- ഇംഗ്ലീഷ്)",
   "engName": "TRANSLATION ARA-ENG",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO9",
+  "code": "SS67",
   "name": "ഉർദു പ്രബന്ധം",
   "engName": "URDU ESSAY",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSO10",
+  "code": "SS68",
   "name": "വിവർത്തനം (ഇംഗ്ലിഷ് - ഉർദു)",
   "engName": "TRANSLATION ENG-URD",
   "cat": "SS",
   "publish": 1
  },
  {
-  "code": "SSS11",
+  "code": "SS69",
   "name": "അറബിക് ഗാനം",
   "engName": "ARABIC SONG",
   "cat": "SS",
@@ -522,7 +522,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS12",
+  "code": "SS70",
   "name": "അറബിക് പ്രസംഗം",
   "engName": "ARABIC SPEECH",
   "cat": "SS",
@@ -530,7 +530,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS13",
+  "code": "SS71",
   "name": "അറബിക് ലൈവ് റിപ്പോർട്ടിംഗ്",
   "engName": "ARABIC LIVE REPORTING",
   "cat": "SS",
@@ -538,7 +538,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS14",
+  "code": "SS72",
   "name": "മാപ്പിളപ്പാട്ട്",
   "engName": "MAPPILAPPAT",
   "cat": "SS",
@@ -546,7 +546,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS15",
+  "code": "SS73",
   "name": "മലയാള പ്രസംഗം",
   "engName": "MALAYALAM SPEECH",
   "cat": "SS",
@@ -554,7 +554,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS16",
+  "code": "SS74",
   "name": "പാടിപ്പറയൽ",
   "engName": "PADIPPARAYAL",
   "cat": "SS",
@@ -562,7 +562,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS17",
+  "code": "SS75",
   "name": "ഇംഗ്ലീഷ് പിക് & ടോക്",
   "engName": "ENGLISH PICK & TALK",
   "cat": "SS",
@@ -570,7 +570,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS18",
+  "code": "SS76",
   "name": "ഇംഗ്ലീഷ് ലൈവ് ട്രാൻസ്ലേഷൻ)",
   "engName": "ENGLISH LIVE TRANSLATION",
   "cat": "SS",
@@ -578,7 +578,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS19",
+  "code": "SS77",
   "name": "ഉർദു ഗാനം",
   "engName": "URDU SONG",
   "cat": "SS",
@@ -586,7 +586,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS20",
+  "code": "SS78",
   "name": "ഉർദു പദ്യം ചൊല്ലൽ",
   "engName": "URDU PADYAM ",
   "cat": "SS",
@@ -594,7 +594,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS21",
+  "code": "SS79",
   "name": "ഉർദു പ്രസംഗം",
   "engName": "URDU SPEECH",
   "cat": "SS",
@@ -602,7 +602,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS22",
+  "code": "SS81",
   "name": "ഇംഗ്ലിഷ് പവര്‍പോയിന്റ് പ്രസന്റേഷന്‍",
   "engName": "ENGLISH PPT PRESENTATION",
   "cat": "SS",
@@ -610,7 +610,7 @@
   "isStage": 1
  },
  {
-  "code": "SSS23",
+  "code": "SS82",
   "name": "ക്വിസ് (Digital Multilingual)",
   "engName": "QUIZ MULTI",
   "cat": "SS",
@@ -618,35 +618,35 @@
   "isStage": 1
  },
  {
-  "code": "GO1",
+  "code": "G83",
   "name": "പത്രനിർമ്മാണം (മലയാളം)",
   "engName": "NEWS PAPER MALAYALAM",
   "cat": "G",
   "publish": 1
  },
  {
-  "code": "GO2",
+  "code": "G84",
   "name": "പത്രനിർമ്മാണം (അറബി)",
   "engName": "NEWSPAPER ARABIC",
   "cat": "G",
   "publish": 1
  },
  {
-  "code": "GO3",
+  "code": "G85",
   "name": "പത്രനിർമ്മാണം (ഇംഗ്ലിഷ്)",
   "engName": "NEWSPAPER ENGLISH",
   "cat": "G",
   "publish": 1
  },
  {
-  "code": "GO4",
+  "code": "G86",
   "name": "പത്രനിർമ്മാണം (ഉർദു)",
   "engName": "NEWSPAPER URDU",
   "cat": "G",
   "publish": 1
  },
  {
-  "code": "GS5",
+  "code": "G87",
   "name": "സംഘഗാനം",
   "engName": "GROUP SONG",
   "cat": "G",
@@ -655,7 +655,7 @@
   "isGrp": 1
  },
  {
-  "code": "GS6",
+  "code": "G88",
   "name": "മാലപ്പാട്ട്",
   "engName": "MALAPPAT",
   "cat": "G",
@@ -664,7 +664,7 @@
   "isGrp": 1
  },
  {
-  "code": "GS7",
+  "code": "G89",
   "name": "ഖസ്വീദ പാരായണം",
   "engName": "QASEEDA",
   "cat": "G",
@@ -673,7 +673,7 @@
   "isGrp": 1
  },
  {
-  "code": "GS8",
+  "code": "G90",
   "name": "മുശാഅറ",
   "engName": "MUSHA'ARA",
   "cat": "G",
@@ -682,7 +682,7 @@
   "isGrp": 1
  },
  {
-  "code": "GS9",
+  "code": "G91",
   "name": "ഖവ്വാലി",
   "engName": "QAWWALI",
   "cat": "G",
@@ -691,7 +691,7 @@
   "isGrp": 1
  },
  {
-  "code": "GS10",
+  "code": "G92",
   "name": "മുനാളറ (അറബിക്)",
   "engName": "MUNAZARA",
   "cat": "G",
