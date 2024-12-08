@@ -141,11 +141,15 @@
  },
  {
   "code": 5104,
-  "prg": "SJ12"
+  "prg": "SJ12",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 5214,
-  "prg": "SJ12"
+  "prg": "SJ12",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 5254,
@@ -153,19 +157,30 @@
  },
  {
   "code": 5304,
-  "prg": "SJ12"
+  "prg": "SJ12",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 5352,
-  "prg": "SJ12"
+  "prg": "SJ12",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 5401,
-  "prg": "SJ12"
+  "prg": "SJ12",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 5456,
-  "prg": "SJ12"
+  "prg": "SJ12",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 5554,
@@ -173,7 +188,10 @@
  },
  {
   "code": 5605,
-  "prg": "SJ12"
+  "prg": "SJ12",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 5105,
@@ -262,7 +280,10 @@
  },
  {
   "code": 5104,
-  "prg": "SJ15"
+  "prg": "SJ15",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 5215,
@@ -282,11 +303,17 @@
  },
  {
   "code": 5403,
-  "prg": "SJ15"
+  "prg": "SJ15",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 5456,
-  "prg": "SJ15"
+  "prg": "SJ15",
+  "grade": "A",
+  "pts": 8,
+  "position": 3
  },
  {
   "code": 5556,
@@ -294,7 +321,9 @@
  },
  {
   "code": 5606,
-  "prg": "SJ15"
+  "prg": "SJ15",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 5106,
@@ -750,15 +779,23 @@
  },
  {
   "code": 5155,
-  "prg": "J32"
+  "prg": "J32",
+  "pts": 1,
+  "position": 3
  },
  {
   "code": 5533,
-  "prg": "J32"
+  "prg": "J32",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 5651,
-  "prg": "J32"
+  "prg": "J32",
+  "grade": "C",
+  "pts": 4,
+  "position": 2
  },
  {
   "code": 5153,
@@ -1724,7 +1761,10 @@
  },
  {
   "code": 5412,
-  "prg": "S54"
+  "prg": "S54",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 5464,
@@ -1732,11 +1772,17 @@
  },
  {
   "code": 5541,
-  "prg": "S54"
+  "prg": "S54",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 5674,
-  "prg": "S54"
+  "prg": "S54",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 5224,
