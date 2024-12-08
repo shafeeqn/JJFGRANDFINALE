@@ -651,8 +651,7 @@
   "engName": "GROUP SONG",
   "cat": "G",
   "publish": 1,
-  "isStage": 1,
-  "isGrp": 1
+  "isStage": 1
  },
  {
   "code": "G88",
@@ -660,8 +659,7 @@
   "engName": "MALAPPAT",
   "cat": "G",
   "publish": 1,
-  "isStage": 1,
-  "isGrp": 1
+  "isStage": 1
  },
  {
   "code": "G89",
@@ -669,8 +667,7 @@
   "engName": "QASEEDA",
   "cat": "G",
   "publish": 1,
-  "isStage": 1,
-  "isGrp": 1
+  "isStage": 1
  },
  {
   "code": "G90",
@@ -678,8 +675,7 @@
   "engName": "MUSHA'ARA",
   "cat": "G",
   "publish": 1,
-  "isStage": 1,
-  "isGrp": 1
+  "isStage": 1
  },
  {
   "code": "G91",
@@ -687,8 +683,7 @@
   "engName": "QAWWALI",
   "cat": "G",
   "publish": 1,
-  "isStage": 1,
-  "isGrp": 1
+  "isStage": 1
  },
  {
   "code": "G92",
@@ -696,7 +691,6 @@
   "engName": "MUNAZARA",
   "cat": "G",
   "publish": 1,
-  "isStage": 1,
-  "isGrp": 1
+  "isStage": 1
  }
 ]
