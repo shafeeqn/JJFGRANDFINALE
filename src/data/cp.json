@@ -54,17 +54,11 @@
  },
  {
   "code": 5102,
-  "prg": "SJ‎‎10",
-  "grade": "B",
-  "pts": 4,
-  "position": 3
+  "prg": "SJ‎‎10"
  },
  {
   "code": 5212,
-  "prg": "SJ‎‎10",
-  "grade": "B",
-  "pts": 6,
-  "position": 2
+  "prg": "SJ‎‎10"
  },
  {
   "code": 5252,
@@ -1884,9 +1878,7 @@
  },
  {
   "code": 5601,
-  "prg": "SJ06",
-  "grade": "B",
-  "pts": 3
+  "prg": "SJ06"
  },
  {
   "code": 5111,
@@ -2775,290 +2767,290 @@
   "position": 1
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G83",
   "grade": "A",
   "pts": 13,
   "position": 2
  },
  {
-  "code": 102,
+  "code": 02,
   "prg": "G83"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G83",
   "grade": "C",
   "pts": 1
  },
  {
-  "code": 104,
+  "code": 04,
   "prg": "G83"
  },
  {
-  "code": 105,
+  "code": 05,
   "prg": "G83"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G83",
   "grade": "A",
   "pts": 15,
   "position": 1
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G83",
   "grade": "B",
   "pts": 3
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G83",
   "grade": "B",
   "pts": 9,
   "position": 3
  },
  {
-  "code": 110,
+  "code": 10,
   "prg": "G83",
   "grade": "C",
   "pts": 1
  },
  {
-  "code": 111,
+  "code": 11,
   "prg": "G83",
   "grade": "B",
   "pts": 3
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G83",
   "grade": "B",
   "pts": 3
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G84",
   "pts": 6,
   "position": 3
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G84",
   "grade": "B",
   "pts": 11,
   "position": 2
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G84",
   "grade": "A",
   "pts": 15,
   "position": 1
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G85",
   "pts": 6,
   "position": 3
  },
  {
-  "code": 102,
+  "code": 02,
   "prg": "G85"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G85"
  },
  {
-  "code": 104,
+  "code": 04,
   "prg": "G85"
  },
  {
-  "code": 105,
+  "code": 05,
   "prg": "G85"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G85",
   "grade": "B",
   "pts": 13,
   "position": 1
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G85"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G85",
   "grade": "B",
   "pts": 11,
   "position": 2
  },
  {
-  "code": 111,
+  "code": 11,
   "prg": "G85"
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G85"
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G86",
   "pts": 6,
   "position": 3
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G86"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G86",
   "grade": "C",
   "pts": 9,
   "position": 2
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G86"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G86",
   "grade": "B",
   "pts": 13,
   "position": 1
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G87"
  },
  {
-  "code": 102,
+  "code": 02,
   "prg": "G87"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G87"
  },
  {
-  "code": 104,
+  "code": 04,
   "prg": "G87"
  },
  {
-  "code": 105,
+  "code": 05,
   "prg": "G87"
  },
  {
-  "code": 106,
+  "code": 06,
   "prg": "G87"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G87"
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G87"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G87"
  },
  {
-  "code": 111,
+  "code": 11,
   "prg": "G87"
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G87"
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G88"
  },
  {
-  "code": 102,
+  "code": 02,
   "prg": "G88"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G88"
  },
  {
-  "code": 104,
+  "code": 04,
   "prg": "G88"
  },
  {
-  "code": 105,
+  "code": 05,
   "prg": "G88"
  },
  {
-  "code": 106,
+  "code": 06,
   "prg": "G88"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G88"
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G88"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G88"
  },
  {
-  "code": 111,
+  "code": 11,
   "prg": "G88"
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G88"
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G89"
  },
  {
-  "code": 102,
+  "code": 02,
   "prg": "G89"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G89"
  },
  {
-  "code": 104,
+  "code": 04,
   "prg": "G89"
  },
  {
-  "code": 105,
+  "code": 05,
   "prg": "G89"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G89"
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G89"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G89"
  },
  {
-  "code": 111,
+  "code": 11,
   "prg": "G89"
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G89"
  },
  {
@@ -3098,108 +3090,108 @@
   "prg": "SJ09"
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G90"
  },
  {
-  "code": 102,
+  "code": 02,
   "prg": "G90"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G90",
   "grade": "B",
   "pts": 9,
   "position": 3
  },
  {
-  "code": 104,
+  "code": 04,
   "prg": "G90"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G90",
   "grade": "A",
   "pts": 13,
   "position": 2
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G90"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G90",
   "grade": "A",
   "pts": 15,
   "position": 1
  },
  {
-  "code": 111,
+  "code": 11,
   "prg": "G90"
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G90"
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G91"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G91"
  },
  {
-  "code": 104,
+  "code": 04,
   "prg": "G91"
  },
  {
-  "code": 105,
+  "code": 05,
   "prg": "G91"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G91"
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G91"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G91"
  },
  {
-  "code": 111,
+  "code": 11,
   "prg": "G91"
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G91"
  },
  {
-  "code": 101,
+  "code": 01,
   "prg": "G92"
  },
  {
-  "code": 103,
+  "code": 03,
   "prg": "G92"
  },
  {
-  "code": 107,
+  "code": 07,
   "prg": "G92"
  },
  {
-  "code": 108,
+  "code": 08,
   "prg": "G92"
  },
  {
-  "code": 109,
+  "code": 09,
   "prg": "G92"
  },
  {
-  "code": 112,
+  "code": 12,
   "prg": "G92"
  }
 ]
