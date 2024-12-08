@@ -1730,57 +1730,62 @@
   "college": "07. MAHIRIYYA RAMANATTUKARA"
  },
  {
-  "chest": "01",
+  "chest": "C1",
   "name": "01. AMIAC POOKKIPPARAMBA",
   "college": "01. AMIAC POOKKIPPARAMBA"
  },
  {
-  "chest": "02",
+  "chest": "C2",
   "name": "02. DARUL FALAH KALAMASSERY",
   "college": "02. DARUL FALAH KALAMASSERY"
  },
  {
-  "chest": "03",
+  "chest": "C3",
   "name": "03. DARUL IHSAN CHULOOR",
   "college": "03. DARUL IHSAN CHULOOR"
  },
  {
-  "chest": "04",
+  "chest": "C4",
   "name": "04. DARUL ISLAM VELIYANKOD",
   "college": "04. DARUL ISLAM VELIYANKOD"
  },
  {
-  "chest": "05",
+  "chest": "C5",
   "name": "05. HASANIYYA ANANGADI",
   "college": "05. HASANIYYA ANANGADI"
  },
  {
-  "chest": "06",
+  "chest": "C6",
   "name": "06. IRSHADIYYA KUMARANELLUR",
   "college": "06. IRSHADIYYA KUMARANELLUR"
  },
  {
-  "chest": "07",
+  "chest": "C7",
   "name": "07. MAHIRIYYA RAMANATTUKARA",
   "college": "07. MAHIRIYYA RAMANATTUKARA"
  },
  {
-  "chest": "08",
+  "chest": "C8",
   "name": "08. MALHARUL ULOOM KARUVANKALLU",
   "college": "08. MALHARUL ULOOM KARUVANKALLU"
  },
  {
-  "chest": "09",
+  "chest": "C9",
   "name": "09. MARKAZ KUNDOOR",
   "college": "09. MARKAZ KUNDOOR"
  },
  {
-  "chest": "11",
+  "chest": "C10",
+  "name": "10. NOORUL HIKMA KANIYAPURAM",
+  "college": "10. NOORUL HIKMA KANIYAPURAM"
+ },
+ {
+  "chest": "C11",
   "name": "11. NOORUL HUDA KADANCHERI",
   "college": "11. NOORUL HUDA KADANCHERI"
  },
  {
-  "chest": "12",
+  "chest": "C12",
   "name": "12. STIA CHEROOR",
   "college": "12. STIA CHEROOR"
  }
