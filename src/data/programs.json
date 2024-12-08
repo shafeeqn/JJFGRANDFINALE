@@ -143,25 +143,29 @@
   "code": "J19",
   "name": "അറബിക് കയ്യെഴുത്ത്",
   "engName": "ARABIC HANDWRITING",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "J20",
   "name": "മലയാളം കയ്യെഴുത്ത്",
   "engName": "MALAYALAM HANDWRITING",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "J21",
   "name": "വിവർത്തനം (മലയാളം-അറബി)",
   "engName": "TRANSLATION MAL-AR",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "J22",
   "name": "ഉർദു കയ്യെഴുത്ത്",
   "engName": "URDU HANDWRITING",
-  "cat": "J"
+  "cat": "J",
+  "publish": 1
  },
  {
   "code": "J23",
