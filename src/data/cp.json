@@ -932,15 +932,24 @@
     },
     {
       "code": 5157,
-      "prg": "J35"
+      "prg": "J35",
+      "grade": "A",
+      "pts": 6,
+      "position": 3
     },
     {
       "code": 5534,
-      "prg": "J35"
+      "prg": "J35",
+      "grade": "A",
+      "pts": 8,
+      "position": 2
     },
     {
       "code": 5653,
-      "prg": "J35"
+      "prg": "J35",
+      "grade": "A",
+      "pts": 10,
+      "position": 1
     },
     {
       "code": 5155,
@@ -2960,23 +2969,36 @@
     },
     {
       "code": 5118,
-      "prg": "SS77"
+      "prg": "SS77",
+      "grade": "A",
+      "pts": 5
     },
     {
       "code": 5203,
-      "prg": "SS77"
+      "prg": "SS77",
+      "grade": "A",
+      "pts": 5
     },
     {
       "code": 5432,
-      "prg": "SS77"
+      "prg": "SS77",
+      "grade": "A",
+      "pts": 6,
+      "position": 3
     },
     {
       "code": 5472,
-      "prg": "SS77"
+      "prg": "SS77",
+      "grade": "A",
+      "pts": 6,
+      "position": 3
     },
     {
       "code": 5513,
-      "prg": "SS77"
+      "prg": "SS77",
+      "grade": "A",
+      "pts": 8,
+      "position": 2
     },
     {
       "code": 5602,
@@ -2984,11 +3006,16 @@
     },
     {
       "code": 5682,
-      "prg": "SS77"
+      "prg": "SS77",
+      "grade": "A",
+      "pts": 10,
+      "position": 1
     },
     {
       "code": 5121,
-      "prg": "SS78"
+      "prg": "SS78",
+      "grade": "C",
+      "pts": 1
     },
     {
       "code": 5203,
@@ -2996,15 +3023,23 @@
     },
     {
       "code": 5432,
-      "prg": "SS78"
+      "prg": "SS78",
+      "grade": "A",
+      "pts": 10,
+      "position": 1
     },
     {
       "code": 5477,
-      "prg": "SS78"
+      "prg": "SS78",
+      "grade": "B",
+      "pts": 3
     },
     {
       "code": 5513,
-      "prg": "SS78"
+      "prg": "SS78",
+      "grade": "A",
+      "pts": 8,
+      "position": 2
     },
     {
       "code": 5620,
@@ -3012,7 +3047,10 @@
     },
     {
       "code": 5682,
-      "prg": "SS78"
+      "prg": "SS78",
+      "grade": "B",
+      "pts": 4,
+      "position": 3
     },
     {
       "code": 5113,
