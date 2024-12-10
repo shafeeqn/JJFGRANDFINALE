@@ -1,1787 +1,1277 @@
 [
  {
-  "chest": 5101,
-  "name": "ASHIF HUSAIN KC",
-  "college": "01. AMIAC POOKKIPPARAMBA"
+  "chest": 1325,
+  "name": "MUHAMMED RIHAN K",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
-  "chest": 5211,
-  "name": "MUHAMMED JABIR PA",
-  "college": "03. DARUL IHSAN CHULOOR"
+  "chest": 1401,
+  "name": "MUHAMMAD BASIL PP",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
  },
  {
-  "chest": 5251,
-  "name": "MOHAMMED SIDAN N",
-  "college": "04. DARUL ISLAM VELIYANKOD"
+  "chest": 1451,
+  "name": "SALAHUDHEN AYYOOBI",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
  },
  {
-  "chest": 5301,
-  "name": "SHARAFUDEEN",
-  "college": "05. HASANIYYA ANANGADI"
+  "chest": 1514,
+  "name": "MUHAMMAD IMRAN",
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5351,
-  "name": "MUBARIZ CM",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
+  "chest": 1551,
+  "name": "MUHAMMED SINAN PV",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5445,
-  "name": "MUHAMMED RASHIQ",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1683,
+  "name": "RAZEEN",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5453,
-  "name": "MUHAMMAD THWALHATH",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
+  "chest": 1503,
+  "name": "MUHAMMAD AFNAN",
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5554,
-  "name": "MUHAMMED SINAN N.H",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
+  "chest": 1557,
+  "name": "MUHAMMED IRFAN",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5601,
-  "name": "MUHAMMED SAFWAN P",
-  "college": "11. NOORUL HUDA KADANCHERI"
+  "chest": 1682,
+  "name": "ANAS",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5102,
-  "name": "MUHAMMED SINAN C",
-  "college": "01. AMIAC POOKKIPPARAMBA"
+  "chest": 1407,
+  "name": "MUHAMMAD P",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
  },
  {
-  "chest": 5212,
-  "name": "MUHAMMAD SINAN K.S",
-  "college": "03. DARUL IHSAN CHULOOR"
+  "chest": 1675,
+  "name": "FARAZ",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5252,
-  "name": "ABDUL MUHSIN PP",
-  "college": "04. DARUL ISLAM VELIYANKOD"
+  "chest": 1305,
+  "name": "MUHAMMED K",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
-  "chest": 5302,
-  "name": "AMJAD",
-  "college": "05. HASANIYYA ANANGADI"
+  "chest": 1405,
+  "name": "MUHAMMAD NAZIM BS",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
  },
  {
-  "chest": 5352,
-  "name": "MUHAMMED FAYAS P",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
+  "chest": 1452,
+  "name": "ABOOBACKER SIDDIQUE .B.H",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
  },
  {
-  "chest": 5446,
-  "name": "MUHAMMED SUHAIL PK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5454,
-  "name": "ZAINUL ABIDEEN",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5551,
-  "name": "BILAL",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5603,
-  "name": "NIHAL P A",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5103,
-  "name": "MUHAMMAD SHAHAM. P",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5213,
-  "name": "AFSAL VS",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5253,
-  "name": "ZAINUL ABEDEEN",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5303,
-  "name": "AJNAS",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5447,
-  "name": "AKMAL IRFAN MC",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5455,
-  "name": "ASHABE PC",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5555,
-  "name": "NASMIL",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5604,
-  "name": "MUHAMMED ARSHID E. V",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5104,
-  "name": "MUHAMMED DHANISH C",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5214,
-  "name": "MUHAMMAD SHAFI R.R",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5254,
-  "name": "MUHAMMED SINAN M",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5304,
-  "name": "NIFAD",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5401,
-  "name": "MUHAMMED AMJAD ALI PM",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5456,
-  "name": "UMAR FUAAD",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5605,
-  "name": "MUHAMMED ASLAM NP",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5105,
-  "name": "MOHAMMED SWALIH U",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5215,
-  "name": "LIYAQATH HALEEF K.A",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5255,
-  "name": "MUHAMMED MAZIN MS",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5305,
-  "name": "ASHIQ ALI",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5556,
-  "name": "ARIF ABDULLA",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5353,
-  "name": "MUHAMMED SINAN K",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
- },
- {
-  "chest": 5402,
-  "name": "MUHAMMED SHAMIL EP",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5256,
-  "name": "SALMANUL FARIS",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5306,
-  "name": "BILAL",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5403,
-  "name": "MUHAMMED DILSHAN K",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5606,
-  "name": "MUHAMMED ADIL KP",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5106,
-  "name": "MUHAMMAD NIHAL",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5216,
-  "name": "MUHAMMED SINAN K.M",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5307,
-  "name": "AFLAH CH",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5354,
-  "name": "MUHAMMED MINHAJ K",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
- },
- {
-  "chest": 5404,
-  "name": "MUHAMMED MIDLAJ PP",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5451,
-  "name": "AMEEN",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5557,
-  "name": "FAHEEM",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5107,
-  "name": "MOHAMMAD YASEEN",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5217,
-  "name": "IHSAN E.P",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5257,
-  "name": "DULKIFLE",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5308,
-  "name": "RINSHAD",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5355,
-  "name": "MUHAMMED SHAMIR A",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
- },
- {
-  "chest": 5405,
-  "name": "DANISH CK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5309,
-  "name": "RADHIN",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5406,
-  "name": "MUHAMMED FARSHID K",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5607,
-  "name": "MUHAMMED FAVAS KP",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5152,
-  "name": "MUHAMMAD YAZEEN",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5526,
-  "name": "MOHAMMED SWALIH",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5668,
-  "name": "THANVEER ALI P",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5108,
-  "name": "MUHAMMAD JIFIN. M",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5258,
-  "name": "MUHAMMED SHAMMAS PT",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5310,
-  "name": "ALI ANSARI",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5356,
-  "name": "MUHAMMED RAMEES KV",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
- },
- {
-  "chest": 5407,
-  "name": "MUHAMMED HADI P",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5153,
-  "name": "MUHAMMED ASLAM",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5527,
-  "name": "MUHAMMED ANSHAD N",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5669,
-  "name": "MUHAMMED THABSHEER VK",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5154,
-  "name": "SAHAL KOYA THANGAL",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5528,
-  "name": "MOHAMMED ABDULLA.NK",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5670,
-  "name": "AHAMMED FIRNAS AK",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5155,
-  "name": "MUHAMMED SINAN",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5529,
-  "name": "ANSAR. P.P",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5651,
-  "name": "MUHAMMED SINAN K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5530,
-  "name": "AHMED SWABEEH PV",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5652,
-  "name": "MUHAMMED SHAHID P",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5653,
-  "name": "MOHAMMED RASEES PP",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5156,
-  "name": "ABDUL HAMEED",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5531,
-  "name": "MUHAMMED HISHAM C",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5654,
-  "name": "IMTHIYAZ AHAMED KK",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5655,
-  "name": "MUHAMMAD SHEHIN T",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5532,
-  "name": "MUHAMMED SHIHAL PC",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5656,
-  "name": "MUHAMMED FARSEEN VP",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5157,
-  "name": "MUHAMMED NABEEL",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5501,
-  "name": "BURHANUL HAQUE V",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5657,
-  "name": "MUHAMMED SHIBILI K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5218,
-  "name": "MUHAMMAD ASHIQ PA",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5311,
-  "name": "ABAN ATHIF",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5457,
-  "name": "RABEEH C",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5608,
-  "name": "MUHAMMED MUZAMMIL VK",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5533,
-  "name": "MUHAMMED SHIHABUDHEEN C",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5151,
-  "name": "AMJAD BILAL",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5658,
-  "name": "MUHAMMED NIHAL PP",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5534,
-  "name": "MOHAMMED SWALAHUDHEEN",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5535,
-  "name": "MUHAMMED SHAHAL PC",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5158,
-  "name": "MUHSIN KOYA THANGAL",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5219,
-  "name": "MUHAMMED RAZZAAN N.S",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5259,
-  "name": "MOHAMMED ASLAM",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5408,
-  "name": "MUHAMMED AFLAH SHAN A",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5458,
-  "name": "MIDLAJ",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5536,
-  "name": "BISHRUL AMEEN PK",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5609,
-  "name": "MUHAMMED ADIL M",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5659,
-  "name": "MUHAMMED HASIR PP",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5159,
-  "name": "UMER SADIK",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5260,
-  "name": "MUHAMMED SHAMEEL K",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5459,
-  "name": "AFTHASH",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5160,
-  "name": "MUHAMMED FALAH",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5220,
-  "name": "FAVAS M.A",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5409,
-  "name": "MUHAMMED HANAS PP",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5460,
-  "name": "SHANID",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5537,
-  "name": "MUHAMMED SINAN MP",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5610,
-  "name": "MUAHAMMED SHAMIL C",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5660,
-  "name": "MUHAMMED SHABEEB  O",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5109,
-  "name": "MUHAMMED SINAN MP",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5221,
-  "name": "MUHAMMED RISHAL VK",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5261,
-  "name": "MUHAMMED SHAHAL CK",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5312,
-  "name": "THANSEEH",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5410,
-  "name": "MUHAMMED SHAKIR A",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5161,
-  "name": "MUHAMMAD FAIZ",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5262,
-  "name": "FADLULLAH PH",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5661,
-  "name": "MUHAMMED SHIBILI A",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5162,
-  "name": "MUHAMMED AFSAL",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5222,
-  "name": "MUHAMMED FADHIL K.R",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5263,
-  "name": "MOHAMMED RAMEES",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5411,
-  "name": "MUHAMMED RAZAN MC",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5461,
-  "name": "ANSHID",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5538,
-  "name": "NABEEL THANGAL VP",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5611,
-  "name": "MUHAMMED UMAR FAROOQ",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5662,
-  "name": "SHAHUL HAMEED AK",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5163,
-  "name": "MUHAMMED SAFAR",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5223,
-  "name": "NAJUMAL K.N",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5539,
-  "name": "MUHAMMED MIDLAJ PK",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5558,
-  "name": "ASIF.I",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5612,
-  "name": "SHAMNAD K",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5663,
-  "name": "THAMEEMUL DARY",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5224,
-  "name": "MUHAMMED UVAIS R.R",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5264,
-  "name": "MOHAMMED ALTHAF",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5412,
-  "name": "MUHAMMED HANNAD A",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5540,
-  "name": "BADRU DHUJA",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5559,
-  "name": "EZZUDHEEN",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5613,
-  "name": "MUHAMMED USAID N",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5664,
-  "name": "AMEEN SHAHID K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5225,
-  "name": "IBRAHIM SHA KAMAL",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5416,
-  "name": "MUHAMMED NASHIF KM",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5462,
+  "chest": 1504,
   "name": "SAHL",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5417,
-  "name": "MUHAMMED NIHAL K",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1560,
+  "name": "THAHA MUHAMMED P.P.",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5665,
-  "name": "MUHAMMED SUFAIL K",
-  "college": "12. STIA CHEROOR"
+  "chest": 1306,
+  "name": "MUHAMMED SAJAD. P. K",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
-  "chest": 5541,
-  "name": "ASLAM MUHYUDHEEN M",
-  "college": "09. MARKAZ KUNDOOR"
+  "chest": 1406,
+  "name": "MUFEED P",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
  },
  {
-  "chest": 5418,
-  "name": "MUHAMMED RIFAD PK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1457,
+  "name": "MUHAMMED RAZEEN P",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
  },
  {
-  "chest": 5542,
-  "name": "SHANID UA",
-  "college": "09. MARKAZ KUNDOOR"
+  "chest": 1518,
+  "name": "SAYYID BURHANTANGAL",
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5666,
-  "name": "MOHAMMED MOINUDHEEN T",
-  "college": "12. STIA CHEROOR"
+  "chest": 1556,
+  "name": "HABEEB RAHMANTV",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5226,
-  "name": "JASIR HUSAIN C.A",
-  "college": "03. DARUL IHSAN CHULOOR"
+  "chest": 1680,
+  "name": "BILAL",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5413,
-  "name": "MUHAMMED ASLAM MV",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1327,
+  "name": "MUHAMMAD HASAN E",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
-  "chest": 5543,
-  "name": "SALSABEEL M",
-  "college": "09. MARKAZ KUNDOOR"
+  "chest": 1402,
+  "name": "MUHAMMAD SHADIL MK",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
  },
  {
-  "chest": 5560,
-  "name": "SWABIR",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
+  "chest": 1458,
+  "name": "ABDUL SAJJAD B.B",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
  },
  {
-  "chest": 5671,
-  "name": "MUKHTHAR  K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5227,
-  "name": "THANZEER N.N",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5313,
-  "name": "SHIFAN. P",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5419,
-  "name": "MUHAMMED RASHAD V",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5561,
-  "name": "FARHAN",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5614,
-  "name": "NOORUDHEEN CK",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5201,
-  "name": "MUHAMMED FAYIZ K.A",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5672,
-  "name": "MUHAMMED FARSEEN K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5228,
-  "name": "MUSTHAFA KAMAL E.M",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5673,
-  "name": "MUHAMMED IRSHAD VK",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5420,
-  "name": "FADHI RAHMAN M",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5463,
-  "name": "JASEEL MUHAMMAD",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5544,
-  "name": "SAIFUDHEEN C",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5464,
-  "name": "RAJEEB",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5674,
-  "name": "FARHAN AK",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5421,
-  "name": "MUHAMMED AJINSHAN A",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5164,
-  "name": "MUHAMMED SALIH",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5465,
-  "name": "ADIL AMEEN",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5502,
-  "name": "MUHAMMED SINAN NV",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5675,
-  "name": "MUHAMMED AJMAL HUSAIN P",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5165,
-  "name": "MUHAMMAD FAVAS",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5466,
-  "name": "LABEEB",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5229,
-  "name": "AMEEN SWALIH",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5110,
-  "name": "MOHAMMED RISAL M",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5230,
-  "name": "SALAHUDHEEN AYYOOBI K.A",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5422,
-  "name": "ABDUL AHAD M",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5452,
-  "name": "SAFWAN",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5503,
-  "name": "MUHAMMED MUNAVAR K.P",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5615,
-  "name": "MOHAMED AFSAL",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5676,
-  "name": "MUHAMMED FAHIS P",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5231,
-  "name": "MUHAMMAD ADHIL KM",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5314,
-  "name": "ADNAN P",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5357,
-  "name": "MUHAMMED ANSHIF NV",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
- },
- {
-  "chest": 5423,
-  "name": "HUSNUL MUNAVVIR K",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5111,
-  "name": "MUHAMMED AJMAL T",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5232,
-  "name": "MIDHILAJ M.C",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5424,
-  "name": "MUHAMMED NIYAS KP",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5467,
-  "name": "SAJAD KT",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5504,
-  "name": "MOHAMMED FASIL K",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5562,
-  "name": "ABDU SAMEEH",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5616,
-  "name": "MUHAMMED MUNAWIR KV",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5677,
-  "name": "MUHAMMED NISHAD CP",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5233,
-  "name": "MOHAMMED HADNAN A.Y",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5425,
-  "name": "MUHAMMED ANFAS KM",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5505,
-  "name": "HABEEB RAHMAN M",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5617,
-  "name": "MUHAMMED SINAN KP",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5112,
-  "name": "MUHAMMED FAHIS",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5234,
-  "name": "MUHAMMED HUDAIFA N.K",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5468,
-  "name": "IHSAN",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5506,
-  "name": "MUHAMMED MUFEED K.T",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5678,
-  "name": "MAHABOOB M",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5113,
-  "name": "NISAMUDEEN",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5235,
-  "name": "MUHAMMED  SINAN E.P",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5426,
-  "name": "HANEENUL AMAN PK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5552,
-  "name": "ASLAM.N",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5679,
-  "name": "MUHAMMED SHABEER K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5114,
-  "name": "MUHAMMED RABEEH B",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5427,
-  "name": "RINSHAD K",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5469,
-  "name": "SUHAIL",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5507,
-  "name": "MOHAMMED ABDUL BASITH P.K",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5680,
-  "name": "MUHAMMED SHAMIL K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5117,
-  "name": "MOHAMMED SHAHIL K",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5428,
-  "name": "MUHAMMED FAYAD A",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5470,
-  "name": "FAHIZ A",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5508,
-  "name": "MUHAMMED SADIQUE P.C",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5618,
-  "name": "MUHAMMED SINAD CV",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5115,
-  "name": "SALMAN",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5619,
-  "name": "MUHAMMED JUNAID M P",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5236,
-  "name": "MUHRIZ ABDUL KADER",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5414,
-  "name": "MUHAMMED IMAD HUSAIN C",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5471,
-  "name": "FAHIZ PN",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5509,
-  "name": "ANAS T",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5681,
-  "name": "SHIHABUDHEEN .K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5620,
-  "name": "MUHAMMED UVAISE",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5118,
-  "name": "MUHAMMED SINAN K",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5237,
-  "name": "MUHAMMED SINAN P.A",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5472,
-  "name": "ASLAM AT",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5510,
-  "name": "MUHAMMED JAMSHID T.P",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5682,
-  "name": "MUHAMMED VASIM KK",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5119,
-  "name": "HASHIM FARHAN TK",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5473,
-  "name": "MUHAMMAD ABI SINAN",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5429,
-  "name": "MUHAMMED ARIF PT",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5238,
-  "name": "MUHAMMED JUNAID P.U",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5239,
-  "name": "MUHAMMED SHAKIR .S",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5430,
-  "name": "MUHAMMED DILSHAD M",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5120,
-  "name": "MUHAMMED SHIBIL",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5474,
-  "name": "ADNAN N",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5553,
-  "name": "FAYIS MUHAMMED",
-  "college": "10. NOORUL HIKMA KANIYAPURAM"
- },
- {
-  "chest": 5683,
-  "name": "MUHAMMED SABITH M",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5121,
-  "name": "MUHSIN RAHMAN",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5475,
-  "name": "MUHAMMED ALI ABRAR",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5511,
-  "name": "MUHAMMED HUSAMUL HAQUE V",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5621,
-  "name": "MOHAMMED SABITH MP",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5684,
-  "name": "MUHAMMED SHAMEEM K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5202,
-  "name": "MUHAMMED SAHAL PS",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5431,
-  "name": "AHAMMED AMEEN A",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5476,
-  "name": "IMTHIYAZ AHMMED",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5685,
-  "name": "ANAS. T. P",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5512,
-  "name": "SYED MOHAMMED ZIYAD P",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5203,
-  "name": "MUHAMMED SUFIYAN N.S",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5432,
-  "name": "MUHAMMED RISAL PP",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5513,
-  "name": "MOHAMMED SHEREEF K V",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5602,
-  "name": "MUHAMMED FARZIL P",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5477,
-  "name": "SINAN TK",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5515,
-  "name": "SEYYID ADHIL N.V",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5122,
-  "name": "AFSALUDHIN",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5265,
-  "name": "HAJA MUEENUDHEEN C",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5315,
-  "name": "NIYAS",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5433,
-  "name": "MUAD A",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5478,
-  "name": "MUHAMMAD SHAMEEL",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5622,
-  "name": "MUHAMMED FARIS KM",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5123,
-  "name": "MUHAMMED ALTHAF HUSAIN",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5686,
-  "name": "MUHAMMED MINHAJ .P.E",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5266,
-  "name": "MUHAMMED MUSTHAFA SHAHAL P",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5434,
-  "name": "MUHAMMED JASIM K",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5435,
-  "name": "AMJAD SINAN VM",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5479,
-  "name": "SINAN MK",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5480,
-  "name": "NAZIM",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5516,
-  "name": "MUHAMMED AFSAL M.P",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5517,
-  "name": "MOHAMMED ERFAN KM",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5687,
-  "name": "MOHAMMED ARSHID TP",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5124,
-  "name": "MUHAMMED SABITH PP",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5166,
-  "name": "JASSIR HUSSAIN",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5481,
-  "name": "ZAREER",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5482,
-  "name": "ANSHID",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5514,
-  "name": "MUBASHIR K.T",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5167,
-  "name": "MUHAMMED RAIHAN",
-  "college": "02. DARUL FALAH KALAMASSERY"
- },
- {
-  "chest": 5316,
-  "name": "SHAFIN  RAHMAN",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5436,
-  "name": "SHIFIN MUHAMMED VE",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5518,
-  "name": "MUHAMMED SHAHAL K",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5688,
-  "name": "SAVAD K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5204,
-  "name": "FARHAN M.U",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5125,
-  "name": "MUHAMMED NASIH P",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5126,
-  "name": "MUHAMMED SHAMIL M",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5205,
-  "name": "MUHAMMED UMARUL FAROOQ",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5206,
-  "name": "MUHAMMED HISHAM",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5317,
-  "name": "MUHAMMED ADNAN",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5318,
-  "name": "NAJUVAN",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5437,
-  "name": "MUHAMMED IHSAN NM",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5438,
-  "name": "MUHAMMED FALUL CK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5623,
-  "name": "NAFIL NIYAS P",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5624,
-  "name": "MUHAMMED NADIR K",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5689,
-  "name": "MUHAMMED SHAHAL K",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5127,
-  "name": "MUHAMMED NAFIL PK",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5116,
-  "name": "MOHAMMED MISAB SHA M C",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5128,
-  "name": "MUHAMMED HASHIM AK",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5207,
-  "name": "MUHAMMED SHAMMAS M.C",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5208,
-  "name": "MUHAMMAD ALI K.A",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5267,
-  "name": "MUHAMMED ASLAM AI",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5319,
-  "name": "AJLAN",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5320,
-  "name": "SAHAL",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5321,
-  "name": "THAMMEM",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5322,
-  "name": "SYD THAFREEH",
-  "college": "05. HASANIYYA ANANGADI"
- },
- {
-  "chest": 5415,
-  "name": "MUHAMMED JURAIJ S",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5439,
-  "name": "MUHAMMED AFNAN KT",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 5483,
-  "name": "MIDLAJ",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
- },
- {
-  "chest": 5519,
-  "name": "MUHAMMED THWALHATH E",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5520,
-  "name": "ABDUL SALAM K",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5521,
-  "name": "SALMANUL FARIS V",
-  "college": "09. MARKAZ KUNDOOR"
- },
- {
-  "chest": 5625,
-  "name": "ABDUL RAOOF K. P",
-  "college": "11. NOORUL HUDA KADANCHERI"
- },
- {
-  "chest": 5667,
-  "name": "MOHAMMAD ANSHIF T",
-  "college": "12. STIA CHEROOR"
- },
- {
-  "chest": 5129,
-  "name": "MOHAMMED HISHAM PK",
-  "college": "01. AMIAC POOKKIPPARAMBA"
- },
- {
-  "chest": 5209,
-  "name": "MUHAMMED MUZZAMMIL N۔P",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5210,
-  "name": "MUHAMMED JUVAINI U.P",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 5268,
-  "name": "SINAN S",
-  "college": "04. DARUL ISLAM VELIYANKOD"
- },
- {
-  "chest": 5323,
+  "chest": 1521,
   "name": "HASHIR",
-  "college": "05. HASANIYYA ANANGADI"
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5324,
-  "name": "RASHID",
-  "college": "05. HASANIYYA ANANGADI"
+  "chest": 1558,
+  "name": "NAFIH AP",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5522,
-  "name": "NABEEH NAJAH K",
-  "college": "09. MARKAZ KUNDOOR"
+  "chest": 1304,
+  "name": "MUHAMMED ET",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
-  "chest": 5626,
-  "name": "MUHAMMED ADHIL CP",
-  "college": "11. NOORUL HUDA KADANCHERI"
+  "chest": 1459,
+  "name": "MOHAMMED MIKDAD",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
  },
  {
-  "chest": 5690,
-  "name": "MUHAMMED MIDLAJ. T",
-  "college": "12. STIA CHEROOR"
+  "chest": 1501,
+  "name": "FAKRUDEEN NAFIL",
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5440,
-  "name": "HAFIZ ALI MK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1655,
+  "name": "ANFAL",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5484,
-  "name": "RASHID PC",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
+  "chest": 1460,
+  "name": "MOHAMMED SHAFAF",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
  },
  {
-  "chest": 5130,
-  "name": "ARSHAD TP",
-  "college": "01. AMIAC POOKKIPPARAMBA"
+  "chest": 1516,
+  "name": "MUHAMMAD ABDULLA JALAL",
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5131,
-  "name": "MOHAMMED ANAS C",
-  "college": "01. AMIAC POOKKIPPARAMBA"
+  "chest": 1461,
+  "name": "IBRAHIM BADUSHA",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
  },
  {
-  "chest": 5441,
-  "name": "IMTIYAZ PK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1519,
+  "name": "MUHEENUDEEN",
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5442,
-  "name": "SHAMSUDHEEN CK",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1553,
+  "name": "MUHAMMED ARSHAD O.T",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5485,
-  "name": "SWALIH",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
+  "chest": 1679,
+  "name": "FAIROOZ",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5523,
-  "name": "MIRSHAN TP",
-  "college": "09. MARKAZ KUNDOOR"
+  "chest": 1326,
+  "name": "MUHAMMED ZAHID AK",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
-  "chest": 5524,
-  "name": "ALHAFIZ MOHAMMED SINAN K",
-  "college": "09. MARKAZ KUNDOOR"
+  "chest": 1552,
+  "name": "MUHAMMED RAZIL A",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5525,
-  "name": "ALHAFIZ MUHAMMED AFLAH M",
-  "college": "09. MARKAZ KUNDOOR"
+  "chest": 1681,
+  "name": "MUHAMMAD",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5627,
-  "name": "RISHAD ALI PP",
-  "college": "11. NOORUL HUDA KADANCHERI"
+  "chest": 1301,
+  "name": "HISHAM ABDULLAH VP",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
-  "chest": 5691,
-  "name": "ISMAYIL RM",
-  "college": "12. STIA CHEROOR"
+  "chest": 1403,
+  "name": "ABUTHAHIR ABDU NASEER U",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
  },
  {
-  "chest": 5269,
-  "name": "SHAHABAS T",
-  "college": "04. DARUL ISLAM VELIYANKOD"
+  "chest": 1517,
+  "name": "MUHAMMAD MINHAJ",
+  "college": "09. QASI TKM PUTHIGE"
  },
  {
-  "chest": 5325,
-  "name": "ADNAN .C",
-  "college": "05. HASANIYYA ANANGADI"
+  "chest": 1651,
+  "name": "NEJMUDEEN",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5326,
-  "name": "AFLAH MC",
-  "college": "05. HASANIYYA ANANGADI"
+  "chest": 1404,
+  "name": "MUHAMMAD YASEEN PP",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
  },
  {
-  "chest": 5443,
-  "name": "MUHAMMED ANSAF M",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1554,
+  "name": "SADAKATHULLA",
+  "college": "10. CSK KUTTIADY"
  },
  {
-  "chest": 5486,
-  "name": "AJEER",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
+  "chest": 1652,
+  "name": "SHAZULI",
+  "college": "12. STIA CHENKALA"
  },
  {
-  "chest": 5444,
-  "name": "ALI KV",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
+  "chest": 1453,
+  "name": "SALMAN FARIS K.A",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1502,
+  "name": "MUHAMMAD HUSAIF",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1555,
+  "name": "MUHAMMAD HISHAM M",
+  "college": "10. CSK KUTTIADY"
+ },
+ {
+  "chest": 1653,
+  "name": "IRFAN",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1512,
+  "name": "MUHAMMAD SINAN",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1302,
+  "name": "MUHAMMAD AFNAN AV",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1654,
+  "name": "ADNAN",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1454,
+  "name": "ABBAS ZUHAIR",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1303,
+  "name": "MUHAMMED FASEEH AK",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1455,
+  "name": "ADNAN MOHAMMED",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1559,
+  "name": "ABDUL RAFI",
+  "college": "10. CSK KUTTIADY"
+ },
+ {
+  "chest": 1456,
+  "name": "EBRAHIM ZIYAD",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1151,
+  "name": "SHINAS A M",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1201,
+  "name": "SALMAN AK",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1351,
+  "name": "SHAHEEM C S",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1601,
+  "name": "SWADIK",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1152,
+  "name": "RISAN N K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1202,
+  "name": "ABDUL RAHOOF",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1352,
+  "name": "MOHAMMAD SHAHABAS P A",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1602,
+  "name": "K.MUHAMMAD ARSHAD",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1153,
+  "name": "FARHAN N",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1203,
+  "name": "SINAN PV",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1603,
+  "name": "MAHAMMAD RAZI",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1154,
+  "name": "RISWAN E M",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1204,
+  "name": "YASEEN ARAFATH",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1353,
+  "name": "MUHAMMAD AJMAL V N",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1604,
+  "name": "MUZAMMIL",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1205,
+  "name": "SHAHID BM",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1354,
+  "name": "AFLAL P H",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1155,
+  "name": "MUNAWWAR M V",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1206,
+  "name": "ABUTHAHIR OP",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1605,
+  "name": "MAHAMMAD RAZIK",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1355,
+  "name": "M H AHAMAD ZAHID",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1207,
+  "name": "ZIYAN PK",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1606,
+  "name": "MAHAMMAD BILAL",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1156,
+  "name": "HISAN VT",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1208,
+  "name": "HAFIZ CC",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1356,
+  "name": "MOHAMMAD ADHIL H M",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1357,
+  "name": "M H MOHAMMAD ZAHEER",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1157,
+  "name": "AFLAH K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1209,
+  "name": "ASLAM OV",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1607,
+  "name": "BATHISH",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1608,
+  "name": "SHAHIK",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1609,
+  "name": "MUNAZ",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1158,
+  "name": "THAMEEMT",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1358,
+  "name": "IRFAN G A",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1359,
+  "name": "MOHAMMED SHAMMAS V H",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1610,
+  "name": "SHAHIL",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1101,
+  "name": "MUHAMMED MUNAVVIR",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1159,
+  "name": "NIYAS M K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1210,
+  "name": "MUZAMMIL KP",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1251,
+  "name": "MUHAMMED SHAMIL AK",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1307,
+  "name": "NIHAL PE",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1360,
+  "name": "IBRAHIM BATHISHA",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1408,
+  "name": "AMJAD PK",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1611,
+  "name": "FARHAN",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1656,
+  "name": "MUHAMMED SHIYAS K",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1102,
+  "name": "MUAMMED ASNAF",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1160,
+  "name": "SHAMIL S N",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1308,
+  "name": "ADHIL FARHAN PK",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1361,
+  "name": "LUQMANUL HAKEEM M",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1409,
+  "name": "MUHAMMED HISAN MK",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1103,
+  "name": "MOHAMMED SHIFAN",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1161,
+  "name": "AMEEN N",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1211,
+  "name": "YASIR AMEEN",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1252,
+  "name": "MUHAMMED FAHEEM VK",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1309,
+  "name": "MUHAMMAD SHAMIL RK",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1410,
+  "name": "MUHAMMED SHAMMASTP",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1612,
+  "name": "ASHAD",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1657,
+  "name": "TAMEEM",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1104,
+  "name": "ANSHID FARSIN",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1212,
+  "name": "NIYAF ME",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1253,
+  "name": "MUHAMMED RIZWAN KK",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1362,
+  "name": "MAHAMMED SUHAIL K M",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1105,
+  "name": "AHMED YASEEN",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1162,
+  "name": "SINAN A K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1254,
+  "name": "IRFAN HABEEB",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1363,
+  "name": "SAFVAD K B",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1411,
+  "name": "MUHAMMED NAJIH M",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1613,
+  "name": "ASHIQ",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1658,
+  "name": "NOORUDEEN",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1213,
+  "name": "IRFAN P",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1310,
+  "name": "MUHAMMAD ZIYAD MP",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1659,
+  "name": "HASHIR",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1106,
+  "name": "AHMAD ANAS",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1214,
+  "name": "RISHAN MK",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1255,
+  "name": "MUHAMMED ASIF FC",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1311,
+  "name": "NIHAL HAMZA K",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1412,
+  "name": "MUSHARAF P",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1614,
+  "name": "AFRAZ",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1163,
+  "name": "SWALIH C K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1215,
+  "name": "IRFAN SM",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1413,
+  "name": "NIHAD KP",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1256,
+  "name": "SHAHANAS SK",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1257,
+  "name": "HAFIZ SHIHAD SHAH",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1107,
+  "name": "SIRAJUDDEEN",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1258,
+  "name": "MUHAMMED NISHAN V",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1312,
+  "name": "IBRAHIM ADIL",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1364,
+  "name": "SAFWAN K B",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1414,
+  "name": "MUHAMMED MUZZAMMIL PK",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1615,
+  "name": "MUHAMMAD RAZA",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1259,
+  "name": "MUHAMMED NADIR C",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1415,
+  "name": "MUHAMMED SUHAIL KV",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1108,
+  "name": "ABDUL SAMAD",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1216,
+  "name": "ZIDAN MC",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1313,
+  "name": "SAYYID ADIL EP",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1365,
+  "name": "MOHAMMED BADUSHA P A",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1616,
+  "name": "SAEED",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1660,
+  "name": "IRFAN",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1109,
+  "name": "AHMED MIDLAJ",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1217,
+  "name": "SHANU SHAHAS",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1260,
+  "name": "MUHAMMED SHAMIL MK",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1314,
+  "name": "MUHAMMEDALI.T",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1416,
+  "name": "HASSAN BH",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 1639,
+  "name": "THANZEEL",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1218,
+  "name": "MUHAMMED M",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1110,
+  "name": "UMARUL FAROOQ",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1619,
+  "name": "SAWAD",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1111,
+  "name": "MUHAMMED SINAN",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1219,
+  "name": "MISHAB MP",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1261,
+  "name": "HAFIZ MUEENUDHEEN MC",
+  "college": "04. FURQANIYYA PURAKKAD"
+ },
+ {
+  "chest": 1315,
+  "name": "MUHAMMAD FAWAS. V.K",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1620,
+  "name": "HISHAM",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1316,
+  "name": "MUHAMMED YASEEN CP",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1112,
+  "name": "MUHAMMED AJMAL",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1164,
+  "name": "SHAFI KT K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1317,
+  "name": "AJMAL",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1366,
+  "name": "IRFAN S",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1462,
+  "name": "JAFER",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1505,
+  "name": "MUHAMMAD SAFWAN SABITH",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1621,
+  "name": "NIHAL",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1661,
+  "name": "ZAHIR",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1113,
+  "name": "MANAFIR MUHAMMED",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1165,
+  "name": "FINAN P K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1220,
+  "name": "MUSHAB PC",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1318,
+  "name": "MUHAMMAD IHSAN",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1506,
+  "name": "MUHAMMAD ILLYAS",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1622,
+  "name": "BASHEER",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1662,
+  "name": "ALTHAF",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1114,
+  "name": "ABDULLASHAMSEER",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1166,
+  "name": "SHAHALTAFSEER M",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1221,
+  "name": "SHAMNAD VP",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1319,
+  "name": "JAMSHEER",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1507,
+  "name": "ROUF",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1663,
+  "name": "MUHAMMAD KUNNI",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1115,
+  "name": "MUHAMMED ASHHAR",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1167,
+  "name": "NISAM N K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1222,
+  "name": "SINAN K",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1367,
+  "name": "MOHAMMAD AJMAL",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1463,
+  "name": "HUSAIN SHEHEED",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1623,
+  "name": "THAMEEM JIFRI",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1664,
+  "name": "NABEEL",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1116,
+  "name": "AHAMEDTHAMEEM",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1168,
+  "name": "MIDLAJ C P",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1320,
+  "name": "MUHAMMAD JAMSHAD",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1368,
+  "name": "IMTHYAZ KHAN M E",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1464,
+  "name": "MOHIYUDDEEN FAYIZ",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1508,
+  "name": "AHMAD NIHAL",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1665,
+  "name": "BAKIR",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1169,
+  "name": "SHAHAL C",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1117,
+  "name": "MUHAMMED SINAN",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1170,
+  "name": "ASHIQ M P",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1321,
+  "name": "SAYYID MUHAMMED SHANEEB",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1509,
+  "name": "SINAN",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1624,
+  "name": "FAIZAN",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1666,
+  "name": "SHAHIZ AC",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1510,
+  "name": "JAMALUDHEEN",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1322,
+  "name": "MUHAMMED SULAIM",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1369,
+  "name": "M H MUHAMMED SHAKIR",
+  "college": "06. MSTMAC KODAGU"
+ },
+ {
+  "chest": 1625,
+  "name": "FARZAN",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1667,
+  "name": "RASHEED",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1118,
+  "name": "MAHAMMED SHAFEEK",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1171,
+  "name": "MUHAMMED NAFI NK",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1626,
+  "name": "ZIYAD",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1668,
+  "name": "SHAMMAS",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1119,
+  "name": "MUHAMMED ANAS",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1323,
+  "name": "SHAMIL NP",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1618,
+  "name": "HASHIR",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1669,
+  "name": "ANAS",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1627,
+  "name": "IBRAHIM",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1172,
+  "name": "RASHID P K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1223,
+  "name": "ADILU P",
+  "college": "03. JAMALIYYA PANOOR"
+ },
+ {
+  "chest": 1670,
+  "name": "NUHMAN",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1120,
+  "name": "MUHAMMED NOUFAL",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1173,
+  "name": "ADIL P K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1465,
+  "name": "HASSAN SHAHAD",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1511,
+  "name": "SHAHIDTK",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 1671,
+  "name": "MUJTHABA",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1121,
+  "name": "MUHAMMED AZHAR",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1324,
+  "name": "MUHAMMED ASHFAQUE",
+  "college": "05. HASHIMIYYA NADAPURAM"
+ },
+ {
+  "chest": 1628,
+  "name": "UVAIS",
+  "college": "11. SUAC THODAR"
+ },
+ {
+  "chest": 1122,
+  "name": "IBRAHIM BADUSHA",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1466,
+  "name": "MOHAMMED SAIDU",
+  "college": "08. PARAPPADI MAQAM PUTHUR"
+ },
+ {
+  "chest": 1672,
+  "name": "SINAN",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 1123,
+  "name": "MUHAMED RASAL",
+  "college": "01. AZEEZIYYA CHITHARI"
+ },
+ {
+  "chest": 1174,
+  "name": "SIYAD K K",
+  "college": "02. JABALUNNOOR PERAMBRA"
+ },
+ {
+  "chest": 1673,
+  "name": "SHAHID",
+  "college": "12. STIA CHENKALA"
  },
  {
   "chest": 1,
-  "name": "01. AMIAC POOKKIPPARAMBA",
-  "college": "01. AMIAC POOKKIPPARAMBA"
+  "name": "MUHAMMED MUNAVVIR",
+  "college": "01. AZEEZIYYA CHITHARI"
  },
  {
   "chest": 2,
-  "name": "02. DARUL FALAH KALAMASSERY",
-  "college": "02. DARUL FALAH KALAMASSERY"
+  "name": "MIDLAJ C P",
+  "college": "02. JABALUNNOOR PERAMBRA"
  },
  {
   "chest": 3,
-  "name": "03. DARUL IHSAN CHULOOR",
-  "college": "03. DARUL IHSAN CHULOOR"
- },
- {
-  "chest": 4,
-  "name": "04. DARUL ISLAM VELIYANKOD",
-  "college": "04. DARUL ISLAM VELIYANKOD"
+  "name": "SINAN K",
+  "college": "03. JAMALIYYA PANOOR"
  },
  {
   "chest": 5,
-  "name": "05. HASANIYYA ANANGADI",
-  "college": "05. HASANIYYA ANANGADI"
+  "name": "MUHAMMAD JAMSHAD",
+  "college": "05. HASHIMIYYA NADAPURAM"
  },
  {
   "chest": 6,
-  "name": "06. IRSHADIYYA KUMARANELLUR",
-  "college": "06. IRSHADIYYA KUMARANELLUR"
- },
- {
-  "chest": 7,
-  "name": "07. MAHIRIYYA RAMANATTUKARA",
-  "college": "07. MAHIRIYYA RAMANATTUKARA"
- },
- {
-  "chest": 8,
-  "name": "08. MALHARUL ULOOM KARUVANKALLU",
-  "college": "08. MALHARUL ULOOM KARUVANKALLU"
+  "name": "MOHAMMAD SHAHABAS P A",
+  "college": "06. MSTMAC KODAGU"
  },
  {
   "chest": 9,
-  "name": "09. MARKAZ KUNDOOR",
-  "college": "09. MARKAZ KUNDOOR"
+  "name": "AHMAD NIHAL",
+  "college": "09. QASI TKM PUTHIGE"
+ },
+ {
+  "chest": 10,
+  "name": "MUHAMMED IRFAN",
+  "college": "10. CSK KUTTIADY"
  },
  {
   "chest": 11,
-  "name": "11. NOORUL HUDA KADANCHERI",
-  "college": "11. NOORUL HUDA KADANCHERI"
+  "name": "THAMEEM JIFRI",
+  "college": "11. SUAC THODAR"
  },
  {
   "chest": 12,
-  "name": "12. STIA CHEROOR",
-  "college": "12. STIA CHEROOR"
+  "name": "ASNAF",
+  "college": "12. STIA CHENKALA"
+ },
+ {
+  "chest": 7,
+  "name": "MUHAMMED FAYIZ A",
+  "college": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR"
+ },
+ {
+  "chest": 4,
+  "name": "MUHAMMED NADIR C",
+  "college": "04. FURQANIYYA PURAKKAD"
  }
 ]
