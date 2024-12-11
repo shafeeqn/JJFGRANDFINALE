@@ -116,3 +116,4 @@ export default function CategoryResult({ category }: { category: string }) {
         </div>
     );
 }
+
