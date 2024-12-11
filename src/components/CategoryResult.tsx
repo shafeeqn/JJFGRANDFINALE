@@ -57,8 +57,8 @@ export default function CategoryResult({ category }: { category: string }) {
                 </p>
             </div>
 
-            <div className="overflow-auto">
-                <div className="flex w-full min-w-[1200px]">
+            <div className="overflow-auto flex justify-center items-center flex-col">
+                <div className="flex w-full min-w-[1200px] justify-center">
                     {/* Table Header */}
                     <div className="flex flex-col min-w-[350px] text-center font-semibold bg-sky-700 text-white pl-2 py-2 border border-sky-800 rounded-tl-xl text-3xl justify-center">
                         <p className="text-3xl">Institutions</p>
@@ -88,7 +88,7 @@ export default function CategoryResult({ category }: { category: string }) {
                 {sortedInstitutions.map((institution, index) => (
                     <div
                         key={institution.name}
-                        className={`flex w-full min-w-[1200px] ${index % 2 === 0 ? "bg-blue-50" : "bg-pink-50"
+                        className={`flex justify-center w-full min-w-[1200px] ${index % 2 === 0 ? "bg-blue-50" : "bg-pink-50"
                             }`}
                     >
                         {/* Institution Name */}
