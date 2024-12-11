@@ -99,13 +99,13 @@ export default function CategoryResult({ category }: { category: string }) {
                             {programs.map((program) => (
                                 <p
                                     key={program.code}
-                                    className="w-12 text-center text-[25px] font-extrabold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300"
+                                    className="w-12 text-center text-[31px] font-extrabold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300"
                                 >
                                     {calculatePoints(institution.name, program.code) || ""}
                                 </p>
                             ))}
-                            <p className="w-16 text-[30px] text-center font-bold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300">
-                                {institution.totalPoints
+                            <p className="w-16 text-[31px] text-center font-bold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300">
+                                {institution.totalPoints===0?"":institution.totalPoints
                                     
                                 }
                             </p>
