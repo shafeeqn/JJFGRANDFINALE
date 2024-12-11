@@ -64,7 +64,7 @@ export default function CategoryResult({ category }: { category: string }) {
                         <p className="text-3xl">Institutions</p>
                         <p className="text-xl">Score Board</p>
                     </div>
-                    <div className="flex" >
+                    <div className="flex">
                         {programs.map((program) => (
                             <div
                                 key={program.code}
