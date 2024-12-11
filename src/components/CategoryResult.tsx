@@ -41,7 +41,7 @@ export default function CategoryResult({ category }: { category: string }) {
         <div className="text-center text-xs m-10 print:m-0 p-8 rounded-xl bg-gradient-to-br from-pink-200 via-sky-200 to-blue-200 shadow-xl">
             <div className="text-3xl font-extrabold mb-5 text-sky-800">
                 JAMIA JUNIOR FEST '25 (ZONE A)
-                <p className="text-lg mt-4 font-semibold">
+                <p className="text-xl mt-4 font-semibold">
                     Catergory
                     <span className="bg-sky-800 ml-1.5 px-2 py-1 rounded text-white">{category === "G"
                         ? "General"
@@ -64,7 +64,7 @@ export default function CategoryResult({ category }: { category: string }) {
                         <p className="text-3xl">Institutions</p>
                         <p className="text-xl">Score Board</p>
                     </div>
-                    <div className="flex">
+                    <div className="flex" >
                         {programs.map((program) => (
                             <div
                                 key={program.code}
@@ -78,7 +78,7 @@ export default function CategoryResult({ category }: { category: string }) {
                         <div
                                 className="w-16 h-32 flex items-center justify-center bg-sky-700 text-white border border-sky-800"
                             >
-                                <p className="transform -rotate-90 text-xs font-bold">
+                                <p className="transform -rotate-90 text-lg font-bold">
                                     Total
                                 </p>
                             </div>
@@ -92,19 +92,19 @@ export default function CategoryResult({ category }: { category: string }) {
                             }`}
                     >
                         {/* Institution Name */}
-                        <p className="min-w-[350px] text-left text-base font-semibold bg-gradient-to-r from-sky-100 to-pink-100 text-sky-800 pl-2 py-2 border border-sky-800">
+                        <p className="min-w-[350px] text-left text-[17px] text-base font-semibold bg-gradient-to-r from-sky-100 to-pink-100 text-sky-800 pl-2 py-2 border border-sky-800">
                             {institution.name}
                         </p>
                         <div className="flex">
                             {programs.map((program) => (
                                 <p
                                     key={program.code}
-                                    className="w-12 text-center font-medium text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300"
+                                    className="w-12 text-center text-[30px] font-extrabold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300"
                                 >
                                     {calculatePoints(institution.name, program.code) || ""}
                                 </p>
                             ))}
-                            <p className="w-16 text-center font-bold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300">
+                            <p className="w-16 text-[30px] text-center font-bold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300">
                                 {institution.totalPoints}
                             </p>
                         </div>
