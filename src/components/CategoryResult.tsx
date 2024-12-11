@@ -92,7 +92,7 @@ export default function CategoryResult({ category }: { category: string }) {
                             }`}
                     >
                         {/* Institution Name */}
-                        <p className="min-w-[350px] text-left text-[17px] text-base font-semibold bg-gradient-to-r from-sky-100 to-pink-100 text-sky-800 pl-2 py-2 border border-sky-800">
+                        <p className="min-w-[350px] text-left text-[25px] text-base font-semibold bg-gradient-to-r from-sky-100 to-pink-100 text-sky-800 pl-2 py-2 border border-sky-800">
                             {institution.name}
                         </p>
                         <div className="flex">
