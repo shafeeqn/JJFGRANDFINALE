@@ -189,7 +189,10 @@
  },
  {
   "code": 1304,
-  "prg": "07SJ"
+  "prg": "07SJ",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 1406,
@@ -201,15 +204,23 @@
  },
  {
   "code": 1501,
-  "prg": "07SJ"
+  "prg": "07SJ",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 1556,
-  "prg": "07SJ"
+  "prg": "07SJ",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 1655,
-  "prg": "07SJ"
+  "prg": "07SJ",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 1304,
@@ -761,19 +772,31 @@
  },
  {
   "code": 1156,
-  "prg": "28J"
+  "prg": "28J",
+  "grade": "C",
+  "pts": 2,
+  "position": 3
  },
  {
   "code": 1208,
-  "prg": "28J"
+  "prg": "28J",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 1356,
-  "prg": "28J"
+  "prg": "28J",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 1602,
-  "prg": "28J"
+  "prg": "28J",
+  "grade": "C",
+  "pts": 2,
+  "position": 3
  },
  {
   "code": 1152,
@@ -1767,11 +1790,15 @@
  },
  {
   "code": 1215,
-  "prg": "55S"
+  "prg": "55S",
+  "pts": 1,
+  "position": 3
  },
  {
   "code": 1311,
-  "prg": "55S"
+  "prg": "55S",
+  "pts": 5,
+  "position": 1
  },
  {
   "code": 1365,
@@ -1783,7 +1810,9 @@
  },
  {
   "code": 1619,
-  "prg": "55S"
+  "prg": "55S",
+  "pts": 3,
+  "position": 2
  },
  {
   "code": 1108,
@@ -2720,19 +2749,28 @@
  },
  {
   "code": 1123,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "B",
+  "pts": 8,
+  "position": 1
  },
  {
   "code": 1174,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 1222,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 1320,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 1367,
@@ -2744,15 +2782,23 @@
  },
  {
   "code": 1508,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 1623,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 1673,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 1,
