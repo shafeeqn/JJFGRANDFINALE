@@ -3497,7 +3497,9 @@
  },
  {
   "code": 2,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 3,
@@ -3505,14 +3507,23 @@
  },
  {
   "code": 5,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "A",
+  "pts": 15,
+  "position": 1
  },
  {
   "code": 11,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "A",
+  "pts": 11,
+  "position": 3
  },
  {
   "code": 12,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "A",
+  "pts": 13,
+  "position": 2
  }
 ]
