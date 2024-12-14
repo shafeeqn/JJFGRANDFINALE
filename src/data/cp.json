@@ -1986,11 +1986,16 @@
  },
  {
   "code": 1212,
-  "prg": "57S"
+  "prg": "57S",
+  "grade": "C",
+  "pts": 2,
+  "position": 3
  },
  {
   "code": 1312,
-  "prg": "57S"
+  "prg": "57S",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 1362,
@@ -1998,15 +2003,23 @@
  },
  {
   "code": 1414,
-  "prg": "57S"
+  "prg": "57S",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 1615,
-  "prg": "57S"
+  "prg": "57S",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 1658,
-  "prg": "57S"
+  "prg": "57S",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 1110,
