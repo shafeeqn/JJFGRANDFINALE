@@ -8,9 +8,9 @@ function page() {
       <p className="lg:text-[72px] text-3xl font-black mb-5 text-center">
         Jamia Junior Fest
       </p>
-      <p className="lg:text-lg font-black color: #cc0000 mb-5 text-center">
+      <p className="lg:text-lg font-black mb-5 text-center">
         JAMIA JUNIOR COLLEGE ARTS FEST '25     </p>
-      <p className="lg:text-[36px] font-black mb-5 text-center">
+      <p className="lg:text-[36px] font-black text-red mb-5 text-center">
         (GRAND FINALE)     </p>
       <div className="flex gap-2 text-xl font-semibold">
         <Link href={'/result'} className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
