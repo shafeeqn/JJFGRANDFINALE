@@ -184,11 +184,8 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                
               </tr>
-            
-                
-              </tr>
+              
             </tbody>
           </table>
         </div>
