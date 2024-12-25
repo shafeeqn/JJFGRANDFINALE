@@ -14,7 +14,8 @@ const JdgList = (props: Props) => {
         <div>
           <div className="text-center">
             <p className="text-3xl font-bold ">Jamia Junior College Fest &apos;25</p>
-            <p className="text-2xl font-bold my-2">Grand Finale</p>
+            <p className="text-2xl font-bold my-2">GRAND FINALE</p>
+            <p className="text-2xl font-bold my-2">Judge Slip</p>
             <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
               {props.program.name} ({props.program.cat})
             </h1>
@@ -84,7 +85,7 @@ const JdgList = (props: Props) => {
         <div>
           <div className="text-center">
             <p className="text-3xl font-bold ">Jamia Junior College Fest &apos;25</p>
-            <p className="text-2xl font-bold my-2">Grand Finale</p>
+            <p className="text-2xl font-bold my-2">GRAND FINALE</p>
             <p className="text-2xl font-bold my-2">Judge Slip</p>
 
             <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
