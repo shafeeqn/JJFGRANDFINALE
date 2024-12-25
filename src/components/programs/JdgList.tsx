@@ -136,8 +136,7 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+               
               </tr>
               <tr>
                 <td className=" border border-slate-800 px-1">&nbsp;</td>
@@ -146,8 +145,7 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                
               </tr>
               <tr>
                 <td className=" border border-slate-800 px-1">&nbsp;</td>
@@ -156,8 +154,7 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+               
               </tr>
               <tr>
                 <td className=" border border-slate-800 px-1">&nbsp;</td>
@@ -166,8 +163,7 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                
               </tr>
               <tr>
                 <td className=" border border-slate-800 px-1">&nbsp;</td>
@@ -176,8 +172,7 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                
               </tr>
               <tr>
                 <td className=" border border-slate-800 px-1">&nbsp;</td>
@@ -186,8 +181,7 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                
               </tr>
               <tr>
                 <td className=" border border-slate-800 px-1">&nbsp;</td>
@@ -196,8 +190,7 @@ const JdgList = (props: Props) => {
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
                 <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                
               </tr>
             </tbody>
           </table>
