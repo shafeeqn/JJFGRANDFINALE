@@ -13,7 +13,7 @@ const JdgList = (props: Props) => {
       <div className="flex gap-8   print:gap-20">
         <div>
           <div className="text-center">
-            <p></p>
+            <p className="print:bg-black print:text-white text-white>GRAND FINALE</p>
             <p className="text-3xl font-bold ">Jamia Junior College Fest &apos;25</p>
             <p className="print:bg-black print:text-white bg-black text-white>GRAND FINALE</p>
             <p className="text-2xl font-bold my-2">Judge Slip</p>
