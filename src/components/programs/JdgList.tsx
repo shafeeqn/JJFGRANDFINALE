@@ -24,7 +24,8 @@ const JdgList = (props: Props) => {
             <thead>
               <tr className="print:bg-black print:text-white bg-black text-white">
                 <th className="p-1">Sl No</th>
-                <th className="p-1">Code</th>
+                <th className="p-1">Chest</th>
+                <th className="p-1">code</th>
                 <th className="p-1">Mark</th>
                 <th className="p-1">Grade</th>
                 <th className="p-1">Remark</th>
@@ -86,7 +87,7 @@ const JdgList = (props: Props) => {
           <div className="text-center">
             <p className="text-3xl font-bold ">Jamia Junior College Fest &apos;25</p>
             <p className="text-2xl font-bold my-2">GRAND FINALE</p>
-            <p className="text-2xl font-bold my-2">Judge Slip</p>
+            <p className="text-2xl font-bold my-2">Judge Slip (Master)</p>
 
             <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
               {props.program.name} ({props.program.cat})
@@ -96,8 +97,11 @@ const JdgList = (props: Props) => {
             <thead>
               <tr className="print:bg-black print:text-white bg-black text-white">
                 <th className="p-1">Sl No</th>
-                <th className="p-1">Code</th>
-                <th className="p-1">Mark</th>
+                <th className="p-1">Chest</th>
+                <th className="p-1">code</th>
+                <th className="p-1">Mark1</th>
+                <th className="p-1">Mark2</th>
+                <th className="p-1">Total</th>
                 <th className="p-1">Grade</th>
                 <th className="p-1">Remark</th>
               </tr>
