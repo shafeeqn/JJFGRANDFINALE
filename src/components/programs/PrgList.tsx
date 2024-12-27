@@ -44,8 +44,21 @@ const PrgList = (props: Props) => {
               <td className="px-1 py-3 w-10 border"></td>
               <td className="px-1 py-3 w-8 border"></td>
               <td className="px-1 py-3 w-8 border"></td>
+          
+            </tr>
+      <tr key={i} className="">
+              <td className="px-1 py-3 text-center w-8 border ">{i + 1}</td>
+              <td className="px-1 py-3 text-center w-10 border">{v.code}</td>
+              <td className="px-1 py-3 w-72 border">
+                {v.name?.length > 24 ? v.name?.slice(0, 20) + ".." : v.name}
+              </td>
+              <td className="px-1 py-3 w-80  border">
+                {v.college?.length > 24 ? v.college?.slice(0, 25) + ".." : v.college}
+              </td>
+              <td className="px-1 py-3 w-10 border"></td>
               <td className="px-1 py-3 w-8 border"></td>
               <td className="px-1 py-3 w-8 border"></td>
+          
             </tr>
           ))}
         </tbody>
