@@ -89,7 +89,7 @@ export default function CategoryResult({ category }: { category: string }) {
                     {sortedInstitutions.map((institution, index) => (
                         <div
                             key={institution.name}
-                            className={`flex ${index % 2 === 0 ? "bg-blue-50" : "bg-sky-100"
+                            className={`flex w-full ${index % 2 === 0 ? "bg-blue-50" : "bg-sky-100"
                                 }`}
                         >
                             {/* Institution Name */}
