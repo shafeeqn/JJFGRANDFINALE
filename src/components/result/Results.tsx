@@ -19,10 +19,15 @@ const Results = (props: Props) => {
 
   return (
     <>
-      <div className="flex w-full items-center justify-center gap-2 border-b border-yellower">
-        <img src="/jam.jpg" className="w-16 h-16 object-cover -my-20 border rounded-full border-yellower" />
+      <div className="flex flex-row lg:flex-row w-full items-center justify-center gap-2 border-b border-yellower">
+        <img src="/jam.jpg" className="w-12 h-12 lg:w-16 lg:h-16 object-cover -my-20   " />
 
-        <p className="text-center capitalize font-bold p-4 text-3xl text-yellower">JAMIA JUNIOR FEST - GRAND FINALE</p>
+        <p className="text-center capitalize hidden lg:flex font-bold p-4 lg:text-3xl text-yellower">JAMIA JUNIOR FEST'25 - GRAND FINALE</p>
+
+        <div className="flex  flex-col  items-center justify-center p-2">
+        <p className="text-center capitalize font-bold  lg:text-3xl text-yellower">JAMIA JUNIOR FEST'25 </p>
+        <p className="text-center capitalize font-bold  lg:text-3xl text-yellower">GRAND FINALE</p>
+        </div>
       </div>
       <div className="flex flex-col lg:flex-row w-full md:h-screen overflow-hidden mt-2">
 
