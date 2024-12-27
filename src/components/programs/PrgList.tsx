@@ -9,8 +9,7 @@ const PrgList = (props: Props) => {
   return (
     <div className="p-20  lg:flex lg:flex-col lg:items-center">
       <div className="text-center">
-        <p className="text-3xl font-bold ">JAMIA JUNIOR FEST &apos;25</p>
-        <p className="text-2xl font-bold my-2">GRAND FINALE </p>
+        <p className="text-3xl font-bold ">JAMIA JUNIOR FEST &apos;25 I GRAND FINALE</p>
         <p className="text-2xl font-bold my-2 bg-black text-white">Item Var Sheet </p>
 
         <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
