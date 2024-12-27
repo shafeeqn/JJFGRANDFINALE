@@ -15,153 +15,177 @@ interface Props {
 const Results = (props: Props) => {
 
   console.log(props);
-  
+
 
   return (
     <>
-      <div className="flex flex-col lg:flex-row w-full md:h-screen items-center p-5">
-        <div className="flex flex-col h-[90vh] min-w-[300px] rounded-3xl gap-4 p-3 ">
+      <div className="flex w-full items-center justify-center gap-2 border-b border-yellower">
+        <img src="/jam.jpg" className="w-16 h-16 object-cover -my-20 border rounded-full border-yellower" />
 
-        <TeamsList topTeams={props.topTeams} />
+        <p className="text-center capitalize font-bold p-4 text-3xl text-yellower">JAMIA JUNIOR FEST - GRAND FINALE</p>
+      </div>
+      <div className="flex flex-col lg:flex-row w-full md:h-screen overflow-hidden mt-2">
+
+
+        <div className="flex flex-col h-[90vh] min-w-[350px] rounded-3xl gap-4 p-3">
+
+          <TeamsList topTeams={props.topTeams} />
 
         </div>
 
-        <ProgramsList programs={props.programs} />
+
+        <div className="flex flex-col">
+          <div className="flex flex-col lg:flex-row  lg:mt-2 w-screen">
+            
+            <div className="w-full lg:w-[25%] ">
+              <p className="font-extrabold text-xl text-center text-brown">GENERAL TOPPERS</p>
+              <div className="flex flex-wrap p-2 gap-1">
+                {props.topGeneral?.length > 0 ? (
+                  props.topGeneral.slice(0, 3).map((topper: any) => (
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                      <div className="flex gap-2">
+                        <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                          {topper.chest}
+                        </p>
+                        <p className="font-bold">{topper.name}</p>
+                      </div>
+                      <p className="text-2xl font-bold">{topper.totalPoints} pts</p>
+                      <p className="text-sm uppercase">{topper.college}</p>
+                    </div>
+                  ))
+                ) : (
+                  <>
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                      No Toppers to show
+                    </div>
+                  </>
+                )}
+              </div>
+            </div>
+
+            <div className="w-full lg:w-[25%]">
+              <p className="font-extrabold text-xl text-center text-brown">SENIOR TOPPERS</p>
+              <div className="flex flex-wrap p-2 gap-1">
+                {props.topSenior?.length > 0 ? (
+                  props.topSenior.slice(0, 3).map((topper: any) => (
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                      <div className="flex gap-2">
+                        <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                          {topper.chest}
+                        </p>
+                        <p className="font-bold">{topper.name}</p>
+                      </div>
+                      <p className="text-2xl font-bold">{topper.totalPoints} pts</p>
+                      <p className="text-sm uppercase">{topper.college}</p>
+                    </div>
+                  ))
+                ) : (
+                  <>
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                      No Toppers to show
+                    </div>
+                  </>
+                )}
+              </div>
+            </div>
+
+            <div className="w-full lg:w-[25%]">
+              <p className="font-extrabold text-xl text-center text-brown">JUNIOR TOPPERS</p>
+              <div className="flex flex-wrap p-2 gap-1">
+                {props.topJunior?.length > 0 ? (
+                  props.topJunior.slice(0, 3).map((topper: any) => (
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                      <div className="flex gap-2">
+                        <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                          {topper.chest}
+                        </p>
+                        <p className="font-bold">{topper.name}</p>
+                      </div>
+                      <p className="text-2xl font-bold">{topper.totalPoints} pts</p>
+                      <p className="text-sm uppercase">{topper.college}</p>
+                    </div>
+                  ))
+                ) : (
+                  <>
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                      No Toppers to show
+                    </div>
+                  </>
+                )}
+              </div>
+            </div>
+
+          </div>
+
+
+
+
+
+          <div className="flex flex-col lg:flex-row lg:mt-2">
+
+            <div className="w-full lg:w-[25%]">
+              <p className="font-extrabold text-xl text-center text-brown">SUPER SENIOR TOPPERS</p>
+              <div className="flex flex-wrap p-2 gap-1">
+                {props.topSuperSenior?.length > 0 ? (
+                  props.topSuperSenior.slice(0, 3).map((topper: any) => (
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                      <div className="flex gap-2">
+                        <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                          {topper.chest}
+                        </p>
+                        <p className="font-bold">{topper.name}</p>
+                      </div>
+                      <p className="text-2xl font-bold">{topper.totalPoints} pts</p>
+                      <p className="text-sm uppercase">{topper.college}</p>
+                    </div>
+                  ))
+                ) : (
+                  <>
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                      No Toppers to show
+                    </div>
+                  </>
+                )}
+              </div>
+            </div>
+
+            <div className="w-full lg:w-[25%]">
+              <p className="font-extrabold text-xl text-center text-brown">SUB JUNIOR TOPPERS</p>
+              <div className="flex flex-wrap p-2 gap-1">
+                {props.topSubJunior?.length > 0 ? (
+                  props.topSubJunior.slice(0, 3).map((topper: any) => (
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
+                      <div className="flex gap-2">
+                        <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
+                          {topper.chest}
+                        </p>
+                        <p className="font-bold">{topper.name}</p>
+                      </div>
+                      <p className="text-2xl font-bold">{topper.totalPoints} pts</p>
+                      <p className="text-sm uppercase">{topper.college}</p>
+                    </div>
+                  ))
+                ) : (
+                  <>
+                    <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
+                      No Toppers to show
+                    </div>
+                  </>
+                )}
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
       </div>
       <div>
 
-      <div className="flex flex-col lg:flex-row mt-60 lg:mt-8 w-screen ">
-        <div className="w-full lg:w-[30%]">
-          <p className="font-bold text-xl text-center">General Toppers</p>
-          <div className="flex flex-wrap p-3  gap-2">
-            {props.topGeneral?.length > 0 ? (
-              props.topGeneral.slice(0, 3).map((topper: any) => (
-                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
-                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
-                    {topper.chest}
-                  </p>
-                  <p className="font-bold">{topper.name}</p>
-                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">General | {topper.college}</p>
-                </div>
-              ))
-            ) : (
-              <>
-               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
-                  No Toppers to show
-                </div>
-                </>
-            )}
-          </div>
-        </div>
-
-        <div className="w-full lg:w-[30%]">
-          <p className="font-bold text-xl text-center">Senior Toppers</p>
-          <div className="flex flex-wrap p-3  gap-2">
-            {props.topSenior?.length > 0 ? (
-              props.topSenior.slice(0, 3).map((topper: any) => (
-                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
-                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
-                    {topper.chest}
-                  </p>
-                  <p className="font-bold">{topper.name}</p>
-                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Senior | {topper.college}</p>
-                </div>
-              ))
-            ) : (
-              <>
-               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
-                  No Toppers to show
-                </div>
-                </>
-            )}
-          </div>
-        </div>
-
-        <div className="w-full lg:w-[30%]">
-          <p className="font-bold text-xl text-center">Junior Toppers</p>
-          <div className="flex flex-wrap p-3  gap-2">
-            {props.topJunior?.length > 0 ? (
-              props.topJunior.slice(0, 3).map((topper: any) => (
-                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
-                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
-                    {topper.chest}
-                  </p>
-                  <p className="font-bold">{topper.name}</p>
-                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Junior | {topper.college}</p>
-                </div>
-              ))
-            ) : (
-              <>
-               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
-                  No Toppers to show
-                </div>
-                </>
-            )}
-          </div>
-        </div>
+        <ProgramsList programs={props.programs} />
 
       </div>
 
-
-
-
-
-      <div className="flex flex-col lg:flex-row mt-60 lg:mt-8">
-
-        <div className="w-full lg:w-[40%]">
-          <p className="font-bold text-xl text-center">Super Senior Toppers</p>
-          <div className="flex flex-wrap p-3  gap-2">
-            {props.topSuperSenior?.length > 0 ? (
-              props.topSuperSenior.slice(0, 3).map((topper: any) => (
-                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
-                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
-                    {topper.chest}
-                  </p>
-                  <p className="font-bold">{topper.name}</p>
-                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Super Senior | {topper.college}</p>
-                </div>
-              ))
-            ) : (
-              <>
-               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
-                  No Toppers to show
-                </div>
-                </>
-            )}
-          </div>
-        </div>
-
-        <div className="w-full lg:w-[40%]">
-          <p className="font-bold text-xl text-center">Sub Junior Toppers</p>
-          <div className="flex flex-wrap p-3  gap-2">
-            {props.topSubJunior?.length > 0 ? (
-              props.topSubJunior.slice(0, 3).map((topper: any) => (
-                <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
-                  <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
-                    {topper.chest}
-                  </p>
-                  <p className="font-bold">{topper.name}</p>
-                  <p className="text-3xl font-bold">{topper.totalPoints} pts</p>
-                  <p className="text-sm uppercase">Sub Junior | {topper.college}</p>
-                </div>
-              ))
-            ) : (
-              <>
-               <div className="hover:bg-ysmoke p-3 border rounded-md w-full flex items-center justify-center font-semibold bg-yellow h-40">
-                  No Toppers to show
-                </div>
-                </>
-            )}
-          </div>
-        </div>
-
-      </div>
-      </div>
-      
     </>
   );
 };

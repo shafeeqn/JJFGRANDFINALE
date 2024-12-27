@@ -12,8 +12,8 @@ const ProgramsList = (props : Props) => {
     const [resultView, setResultView] = useState<boolean>(false);
 
   return (
-    <div className="flex flex-col w-3/4 h-[90vh] overflow-y-auto p-3">
-          <span className="text-center">Programs</span>
+    <div className="flex flex-col p-3 w-full">
+          <span className="text-center font-bold text-3xl p-2">Programs</span>
           <div className="flex flex-wrap justify-center p-1 w-full gap-1 h-2/3">
             {props.programs?.length > 0 ? (
               props.programs?.map((program: any) => (

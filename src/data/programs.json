@@ -652,7 +652,7 @@
   "isStage": 1,
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "88G",
@@ -661,7 +661,7 @@
   "isStage": 1,
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "89G",
@@ -670,7 +670,7 @@
   "isStage": 1,
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "90G",
@@ -679,7 +679,7 @@
   "isStage": 1,
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "91G",
@@ -688,7 +688,7 @@
   "isStage": 1,
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "92G",
@@ -697,6 +697,6 @@
   "isStage": 1,
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  }
 ]
