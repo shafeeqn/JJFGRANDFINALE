@@ -205,8 +205,8 @@ const JdgList = (props: Props) => {
                   <td className=" border py-2 border-slate-800 px-1"></td>
                   <td className=" border py-2 border-slate-800 px-1"></td>
                   <td className=" border py-2 border-slate-800 px-1"></td>
-                  
-                  
+
+
                 </tr>
               ))}
               <tr>
@@ -218,7 +218,7 @@ const JdgList = (props: Props) => {
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
-               
+
               </tr>
               <tr>
                 <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
@@ -229,7 +229,7 @@ const JdgList = (props: Props) => {
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
-                
+
               </tr>
               <tr>
                 <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
@@ -240,7 +240,7 @@ const JdgList = (props: Props) => {
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
-               
+
               </tr>
               <tr>
                 <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
@@ -251,7 +251,7 @@ const JdgList = (props: Props) => {
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
-                
+
               </tr>
               <tr>
                 <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
@@ -263,7 +263,7 @@ const JdgList = (props: Props) => {
                 <td className=" border py-2 border-slate-800 px-1"></td>
                 <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
-              
+
             </tbody>
           </table>
         </div>
