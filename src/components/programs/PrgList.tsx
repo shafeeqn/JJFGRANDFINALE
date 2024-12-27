@@ -44,6 +44,8 @@ const PrgList = (props: Props) => {
               <td className="px-1 py-3 w-10 border"></td>
               <td className="px-1 py-3 w-8 border"></td>
               <td className="px-1 py-3 w-8 border"></td>
+              <td className="px-1 py-3 w-8 border"></td>
+              <td className="px-1 py-3 w-8 border"></td>
             </tr>
           ))}
         </tbody>
