@@ -34,57 +34,57 @@ const JdgList = (props: Props) => {
             <tbody>
               {props.program.candidates.map((c: any, i: any) => (
                 <tr key={i}>
-                  <td className=" border border-slate-800 px-1 text-center w-8">
+                  <td className=" border py-2 border-slate-800 px-1 text-center w-8">
                     {i + 1}
                   </td>
-                  <td className=" border border-slate-800 px-1 text-center w-20">
+                  <td className=" border py-2 border-slate-800 px-1 text-center w-20">
                     {c.code}
                   </td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
                 </tr>
               ))}
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
             </tbody>
           </table>
@@ -112,57 +112,57 @@ const JdgList = (props: Props) => {
             <tbody>
               {props.program.candidates.map((c: any, i: any) => (
                 <tr key={i}>
-                  <td className=" border border-slate-800 px-1 text-center w-8">
+                  <td className=" border py-2 border-slate-800 px-1 text-center w-8">
                     {i + 1}
                   </td>
-                  <td className=" border border-slate-800 px-1 text-center w-20">
+                  <td className=" border py-2 border-slate-800 px-1 text-center w-20">
                     {c.code}
                   </td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
                 </tr>
               ))}
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
             </tbody>
           </table>
@@ -193,75 +193,75 @@ const JdgList = (props: Props) => {
             <tbody>
               {props.program.candidates.map((c: any, i: any) => (
                 <tr key={i}>
-                  <td className=" border border-slate-800 px-1 text-center w-8">
+                  <td className=" border py-2 border-slate-800 px-1 text-center w-8">
                     {i + 1}
                   </td>
-                  <td className=" border border-slate-800 px-1 text-center w-20">
+                  <td className=" border py-2 border-slate-800 px-1 text-center w-20">
                     {c.code}
                   </td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
-                  <td className=" border border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
+                  <td className=" border py-2 border-slate-800 px-1"></td>
                   
                   
                 </tr>
               ))}
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
                
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
                 
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
                
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
                 
               </tr>
               <tr>
-                <td className=" border border-slate-800 px-1">&nbsp;</td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
-                <td className=" border border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1">&nbsp;</td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
+                <td className=" border py-2 border-slate-800 px-1"></td>
               </tr>
               
             </tbody>
