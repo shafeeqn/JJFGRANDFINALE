@@ -24,9 +24,9 @@ const Results = (props: Props) => {
 
         <p className="text-center capitalize hidden lg:flex font-bold p-4 lg:text-3xl text-yellower">JAMIA JUNIOR FEST'25 - GRAND FINALE</p>
 
-        <div className="flex  flex-col  items-center justify-center p-2">
-        <p className="text-center capitalize font-bold  lg:text-3xl text-yellower">JAMIA JUNIOR FEST'25 </p>
-        <p className="text-center capitalize font-bold  lg:text-3xl text-yellower">GRAND FINALE</p>
+        <div className="flex lg:hidden  flex-col  items-center justify-center p-2">
+          <p className="text-center capitalize font-bold  lg:text-3xl text-yellower">JAMIA JUNIOR FEST'25 </p>
+          <p className="text-center capitalize font-bold  lg:text-3xl text-yellower">GRAND FINALE</p>
         </div>
       </div>
       <div className="flex flex-col lg:flex-row w-full md:h-screen overflow-hidden mt-2">
@@ -41,7 +41,7 @@ const Results = (props: Props) => {
 
         <div className="flex flex-col">
           <div className="flex flex-col lg:flex-row  lg:mt-2 w-screen">
-            
+
             <div className="w-full lg:w-[25%] ">
               <p className="font-extrabold text-xl text-center text-brown">GENERAL TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
