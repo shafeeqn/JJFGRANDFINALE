@@ -623,7 +623,7 @@
   "engName": "NEWS PAPER MALAYALAM",
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "84G",
@@ -631,7 +631,7 @@
   "engName": "NEWSPAPER ARABIC",
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "85G",
@@ -639,7 +639,7 @@
   "engName": "NEWSPAPER ENGLISH",
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "86G",
@@ -647,7 +647,7 @@
   "engName": "NEWSPAPER URDU",
   "cat": "G",
   "publish": 1,
-  "isGrp": 1
+  "isGrp": 0
  },
  {
   "code": "87G",
