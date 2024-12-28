@@ -127,10 +127,10 @@ const JdgList = (props: Props) => {
                 <th className="p-1">Sl</th>
                 <th className="p-1">Chest</th>
                 <th className="p-1">Lott</th>
-                <th className="p-1">Mark1</th>
-                <th className="p-1">Mark2</th>
                 <th className="p-1">Total</th>
-                <th className="p-1">Remark</th>
+                <th className="p-1">Grade</th>
+                <th className="p-1">Point</th>
+                <th className="p-1">Position</th>
               </tr>
             </thead>
             <tbody>
