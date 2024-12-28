@@ -17,7 +17,7 @@ const JdgList = (props: Props) => {
             <p className="text-2xl font-bold my-2">GRAND FINALE</p>
             <p className="text-2xl font-bold my-2 bg-black text-white">Judge Slip</p>
             <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
-             {props.program?.code} {props.program.name} ({props.program.cat})
+             {props.program?.code}. {props.program.name} ({props.program.cat})
             </h1>
           </div>
           <table className="w-full max-w-[700px] border border-slate-800">
@@ -67,7 +67,7 @@ const JdgList = (props: Props) => {
             <p className="text-2xl font-bold my-2">GRAND FINALE</p>
             <p className="text-2xl font-bold my-2 bg-black text-white">Judge Slip</p>
             <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
-             {props.program?.code} {props.program.name} ({props.program.cat})
+             {props.program?.code}. {props.program.name} ({props.program.cat})
             </h1>
           </div>
           <table className="w-full max-w-[700px] border border-slate-800">
@@ -118,7 +118,7 @@ const JdgList = (props: Props) => {
             <p className="text-2xl font-bold my-2 bg-black text-white">Judge Slip</p>
 
             <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
-             {props.program?.code} {props.program.name} ({props.program.cat})
+             {props.program?.code}. {props.program.name} ({props.program.cat})
             </h1>
           </div>
           <table className="w-full max-w-[700px] border border-slate-800">
