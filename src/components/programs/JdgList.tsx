@@ -86,7 +86,7 @@ const JdgList = (props: Props) => {
                   <td className=" border py-4 border-slate-800 px-1 text-center w-8">
                     {i + 1}
                   </td>
-                  <td className=" border py-4 border-slate-800 px-1 text-center w-20">
+                  <td className=" border py-4 border-slate-800 px-1 text-center font-bold w-20">
                     {c.code}
                   </td>
                   <td className=" border py-4 border-slate-800 px-1"></td>
