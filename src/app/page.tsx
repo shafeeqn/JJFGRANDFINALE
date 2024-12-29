@@ -8,7 +8,7 @@ function page() {
       <p className="lg:text-[72px] text-3xl font-black text-red mb-5 text-center">
         JAMIA JUNIOR FEST
       </p>
-      <p className="lg:text-lg font-black mb-5 text-center">
+      <p className="lg:text-lg font-black mb-5 text-yellow text-center">
         Jamia Junior College Arts Fest '25     </p>
       <p className="lg:text-[36px] font-black text-brown mb-5 text-center">
         (GRAND FINALE)     </p>
