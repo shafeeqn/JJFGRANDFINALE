@@ -60,6 +60,8 @@ const JdgList = (props: Props) => {
               </tr>
             </tbody>
           </table>
+          <p className="text-md my-2 text-left">Name :</p>
+          <p className="text-md my-2 text-left">Sign :</p>
         </div>
         <div>
           <div className="text-center">
@@ -110,6 +112,8 @@ const JdgList = (props: Props) => {
               </tr>
             </tbody>
           </table>
+          <p className="text-md my-2 text-left">Name :</p>
+          <p className="text-md my-2 text-left">Sign :</p>
         </div>
         <div>
           <div className="text-center">
