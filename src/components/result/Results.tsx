@@ -22,7 +22,7 @@ const Results = (props: Props) => {
       <div className="flex flex-row lg:flex-row w-full items-center justify-center gap-2 border-b border-yellower">
         <img src="https://raw.githubusercontent.com/shafeeqn/JJFGRANDFINALE/refs/heads/main/src/app/jamia.jpg" className="w-12 h-12 lg:w-16 lg:h-16 object-cover -my-20   " />
 
-        <p className="text-center capitalize hidden lg:flex font-bold p-4 lg:text-3xl text-brown">JAMIA JUNIOR FEST'25 I GRAND FINALE</p>
+        <p className="text-center capitalize hidden lg:flex font-bold p-4 lg:text-4xl text-brown">JAMIA JUNIOR FEST'25 I GRAND FINALE</p>
 
         <div className="flex lg:hidden  flex-col  items-center justify-center p-2">
           <p className="text-center capitalize font-bold  lg:text-3xl text-brown">JAMIA JUNIOR FEST'25 </p>
@@ -43,7 +43,7 @@ const Results = (props: Props) => {
           <div className="flex flex-col lg:flex-row  lg:mt-2 w-screen">
 
             <div className="w-full lg:w-[25%] ">
-              <p className="font-extrabold text-xl text-center text-brown">GENERAL TOPPERS</p>
+              <p className="font-extrabold text-2xl text-center text-brown">GENERAL TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topGeneral?.length > 0 ? (
                   props.topGeneral.slice(0, 3).map((topper: any) => (
@@ -69,7 +69,7 @@ const Results = (props: Props) => {
             </div>
 
             <div className="w-full lg:w-[25%]">
-              <p className="font-extrabold text-xl text-center text-brown">SENIOR TOPPERS</p>
+              <p className="font-extrabold text-2xl text-center text-brown">SENIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topSenior?.length > 0 ? (
                   props.topSenior.slice(0, 3).map((topper: any) => (
@@ -95,7 +95,7 @@ const Results = (props: Props) => {
             </div>
 
             <div className="w-full lg:w-[25%]">
-              <p className="font-extrabold text-xl text-center text-brown">JUNIOR TOPPERS</p>
+              <p className="font-extrabold text-2xl text-center text-brown">JUNIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topJunior?.length > 0 ? (
                   props.topJunior.slice(0, 3).map((topper: any) => (
@@ -129,7 +129,7 @@ const Results = (props: Props) => {
           <div className="flex flex-col lg:flex-row lg:mt-2">
 
             <div className="w-full lg:w-[25%]">
-              <p className="font-extrabold text-xl text-center text-brown">SUPER SENIOR TOPPERS</p>
+              <p className="font-extrabold text-2xl text-center text-brown">SUPER SENIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topSuperSenior?.length > 0 ? (
                   props.topSuperSenior.slice(0, 3).map((topper: any) => (
@@ -155,7 +155,7 @@ const Results = (props: Props) => {
             </div>
 
             <div className="w-full lg:w-[25%]">
-              <p className="font-extrabold text-xl text-center text-brown">SUB JUNIOR TOPPERS</p>
+              <p className="font-extrabold text-2xl text-center text-brown">SUB JUNIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topSubJunior?.length > 0 ? (
                   props.topSubJunior.slice(0, 3).map((topper: any) => (
