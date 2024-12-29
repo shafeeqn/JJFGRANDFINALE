@@ -20,7 +20,7 @@ const Results = (props: Props) => {
   return (
     <>
       <div className="flex flex-row lg:flex-row w-full items-center justify-center gap-2 border-b border-yellower">
-        <img src="/jamia.jpg" className="w-12 h-12 lg:w-16 lg:h-16 object-cover -my-20   " />
+        <img src="src/app/jamia.jpg" className="w-12 h-12 lg:w-16 lg:h-16 object-cover -my-20   " />
 
         <p className="text-center capitalize hidden lg:flex font-bold p-4 lg:text-3xl text-brown">JAMIA JUNIOR FEST'25 I GRAND FINALE</p>
 
