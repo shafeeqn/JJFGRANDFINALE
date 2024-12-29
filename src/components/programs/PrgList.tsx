@@ -33,23 +33,57 @@ const PrgList = (props: Props) => {
         <tbody>
           {props.program?.candidates.map((v: any, i: number) => (
             <tr key={i} className="">
-              <td className="px-1 py-3 text-center w-8 border ">{i + 1}</td>
-              <td className="px-1 py-3 text-center w-10 border">{v.code}</td>
-              <td className="px-1 py-3 w-72 border">
+              <td className="px-1 py-3 text-center w-8 border border-black ">{i + 1}</td>
+              <td className="px-1 py-3 text-center w-10 border border-black">{v.code}</td>
+              <td className="px-1 py-3 w-72 border border-black">
                 {v.name?.length > 24 ? v.name?.slice(0, 20) + ".." : v.name}
               </td>
-              <td className="px-1 py-3 w-80  border">
+              <td className="px-1 py-3 w-80  border border-black">
                 {v.college?.length > 24 ? v.college?.slice(0, 25) + ".." : v.college}
               </td>
-              <td className="px-1 py-3 w-10 border"></td>
-              <td className="px-1 py-3 w-8 border"></td>
-              <td className="px-1 py-3 w-8 border"></td>
+              <td className="px-1 py-3 w-10 border border-black"></td>
+              <td className="px-1 py-3 w-8 border border-black"></td>
+              <td className="px-1 py-3 w-8 border border-black"></td>
           
             </tr>
       
           ))}
         </tbody>
       </table>
+
+      <div className="flex gap-10 p-4">
+        <div className="flex gap-4">
+          <p>
+            Entered
+          </p>
+          <div className="border-black w-6 h-6 border">
+          </div>
+        </div>
+
+        <div className="flex gap-4">
+          <p>
+            Published
+          </p>
+          <div className="border-black w-6 h-6 border">
+          </div>
+        </div>
+
+        <div className="flex gap-4">
+          <p>
+            Certificate
+          </p>
+          <div className="border-black w-6 h-6 border">
+          </div>
+        </div>
+
+        <div className="flex gap-4">
+          <p>
+            Trophy
+          </p>
+          <div className="border-black w-6 h-6 border">
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

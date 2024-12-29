@@ -177,8 +177,6 @@ const JdgList = (props: Props) => {
 
           <p className="text-md my-2 text-left">Name :</p>
           <p className="text-md my-2 text-left">Sign :</p>
-
-
         </div>
       </div>
     </div>
