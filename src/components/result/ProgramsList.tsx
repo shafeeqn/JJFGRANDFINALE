@@ -13,7 +13,7 @@ const ProgramsList = (props : Props) => {
 
   return (
     <div className="flex flex-col p-3 w-full">
-          <span className="text-center font-bold text-3xl p-2">Programs</span>
+          <span className="text-center font-bold text-brown text-3xl p-2">PROGRAMS</span>
           <div className="flex flex-wrap justify-center p-1 w-full gap-1 h-2/3">
             {props.programs?.length > 0 ? (
               props.programs?.map((program: any) => (
