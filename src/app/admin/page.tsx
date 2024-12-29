@@ -5,8 +5,8 @@ function page() {
   return (
     <div className="w-screen h-screen flex flex-col items-center justify-center">
       <img src="/jam.jpg" className="w-96 h-96 object-cover -my-20" />
-      <p className="lg:text-[72px] text-3xl font-black mb-5 text-center">
-        Jamia Junior Fest
+      <p className="lg:text-[72px] text-3xl font-blue mb-5 text-center">
+        JAMIA JUNIOR FEST
       </p>
       <p className="lg:text-lg font-black mb-5 text-center">
 Jamia Junior Colleges Arts Fest '25  </p>
