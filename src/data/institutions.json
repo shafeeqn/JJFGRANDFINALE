@@ -1,62 +1,237 @@
 [
  {
-  "name": "01. AZEEZIYYA CHITHARI",
-  "place": "CHITHARI",
-  "zone": "A"
+  "name": "01. KOTTUMALA COMPLEX",
+  "place": "KOTTUMALA",
+  "zone": "D"
  },
  {
-  "name": "02. JABALUNNOOR PERAMBRA",
-  "place": "PERAMBRA",
-  "zone": "A"
+  "name": "03. AL HASANATH MAMPUZHA",
+  "place": "MAMPUZHA",
+  "zone": "C"
  },
  {
-  "name": "03. JAMALIYYA PANOOR",
-  "place": "PANOOR",
-  "zone": "A"
+  "name": "04. DARUNNAJATH KARUVARAKKUNDU",
+  "place": "KARUVARAKKUNDU",
+  "zone": "C"
  },
  {
-  "name": "04. FURQANIYYA PURAKKAD",
-  "place": "PURAKKAD",
-  "zone": "A"
+  "name": "05. MARKAZ NILAMBUR",
+  "place": "NILAMBUR",
+  "zone": "B"
  },
  {
-  "name": "05. HASHIMIYYA NADAPURAM",
-  "place": "NADAPURAM",
-  "zone": "A"
+  "name": "06. BADRIYYA VENGARA",
+  "place": "VENGARA",
+  "zone": "D"
  },
  {
-  "name": "06. MSTMAC KODAGU",
-  "place": "KODAGU",
-  "zone": "A"
+  "name": "07. DARUL ULOOM SULTHAN BATHERY",
+  "place": "BATHERY",
+  "zone": "B"
  },
  {
-  "name": "07. MUNAVVIRUL ISLAM TRIKKARIPPUR",
-  "place": "TRIKKARIPPUR",
-  "zone": "A"
+  "name": "08. IMAM GAZZALI KOOLIVAYAL",
+  "place": "KOOLIVAYAL",
+  "zone": "B"
  },
  {
-  "name": "08. PARAPPADI MAQAM PUTHUR",
-  "place": "PUTHUR",
-  "zone": "A"
+  "name": "09. SHUHADA PUTHANANGADI",
+  "place": "PUTHANANGADI",
+  "zone": "D"
  },
  {
-  "name": "09. QASI TKM PUTHIGE",
-  "place": "PUTHIGE",
-  "zone": "A"
+  "name": "11. SA'ADA VARAMBATTA",
+  "place": "VARAMBATTA",
+  "zone": "B"
  },
  {
-  "name": "10. CSK KUTTIADY",
-  "place": "KUTTIADY",
-  "zone": "A"
- },
- {
-  "name": "11. SUAC THODAR",
+  "name": "12. SUAC THODAR",
   "place": "THODAR",
   "zone": "A"
  },
  {
-  "name": "12. STIA CHENKALA",
+  "name": "13. MUNAVVIRUL ISLAM TRIKKARIPPUR",
+  "place": "TRIKKARIPPUR",
+  "zone": "A"
+ },
+ {
+  "name": "14. MALHARUL ULOOM KARUVANKALLU",
+  "place": "KARUVANKALLU",
+  "zone": "E"
+ },
+ {
+  "name": "15. DARUL ISLAM VALLAPPUZA",
+  "place": "VALLAPPUZA",
+  "zone": "C"
+ },
+ {
+  "name": "16. DARUL IHSAN PARIYANGAD",
+  "place": "PARIYANGAD",
+  "zone": "B"
+ },
+ {
+  "name": "17. ANVARUL HUDA RAMAPURAM",
+  "place": "RAMAPURAM",
+  "zone": "D"
+ },
+ {
+  "name": "18. IRSHADUL ANAM KOPPAM",
+  "place": "KOPPAM",
+  "zone": "C"
+ },
+ {
+  "name": "19. MA'DINUL ULOOM THAZHEKKOD",
+  "place": "THAZHEKKOD",
+  "zone": "D"
+ },
+ {
+  "name": "20. JABALUNNOOR PERAMBRA",
+  "place": "PERAMBRA",
+  "zone": "A"
+ },
+ {
+  "name": "21. TUMIC TRIPPANACHI",
+  "place": "TRIPPANACHI",
+  "zone": "D"
+ },
+ {
+  "name": "23. STIA CHEROOR",
+  "place": "CHEROOR",
+  "zone": "E"
+ },
+ {
+  "name": "25. MAJMA’  CHERPULASSERY",
+  "place": "CHERPULASSERY",
+  "zone": "C"
+ },
+ {
+  "name": "26. DARUL HIKAM CHEMMANIYOD",
+  "place": "CHEMMANIYOD",
+  "zone": "D"
+ },
+ {
+  "name": "29. DARUL IHSAN CHULOOR",
+  "place": "CHULOOR",
+  "zone": "E"
+ },
+ {
+  "name": "31. MAHIRIYYA RAMANATTUKARA",
+  "place": "RAMANATTUKARA",
+  "zone": "E"
+ },
+ {
+  "name": "32. ANVARUL ISLAM THIRURKKAD",
+  "place": "THIRURKKAD",
+  "zone": "C"
+ },
+ {
+  "name": "33. ANWARUL HUDA VETTATHUR",
+  "place": "VETTATHUR",
+  "zone": "C"
+ },
+ {
+  "name": "34. AL FAROOQUE ORAVAMPURAM",
+  "place": "ORAVAMPURAM",
+  "zone": "C"
+ },
+ {
+  "name": "36. DARUL HIDAYA KUTTAMBOOR",
+  "place": "KUTTAMBOOR",
+  "zone": "B"
+ },
+ {
+  "name": "37. NOORUL HUDA KADANCHERI",
+  "place": "KADANCHERI",
+  "zone": "E"
+ },
+ {
+  "name": "38. MARKAZ KUNDOOR",
+  "place": "KUNDOOR",
+  "zone": "E"
+ },
+ {
+  "name": "39. AL ANSAR MUNDAMPARAMBA",
+  "place": "MUNDAMPARAMBA",
+  "zone": "B"
+ },
+ {
+  "name": "40. DARUNNAJATH MANNARKKAD",
+  "place": "MANNARKKAD",
+  "zone": "C"
+ },
+ {
+  "name": "41. STIA CHENKALA",
   "place": "CHENKALA",
   "zone": "A"
+ },
+ {
+  "name": "42. AZEEZIYYA CHITHARI",
+  "place": "CHITHARI",
+  "zone": "A"
+ },
+ {
+  "name": "44. MSTMAC KODAGU",
+  "place": "KODAGU",
+  "zone": "A"
+ },
+ {
+  "name": "45. AMIAC POOKKIPPARAMBA",
+  "place": "POOKKIPPARAMBA",
+  "zone": "E"
+ },
+ {
+  "name": "47. JAMALIYYA PANOOR",
+  "place": "PANOOR",
+  "zone": "A"
+ },
+ {
+  "name": "48. QASI TKM PUTHIGE",
+  "place": "PUTHIGE",
+  "zone": "A"
+ },
+ {
+  "name": "50. KAMMUSOOFI THEYYOTTUCHIRA",
+  "place": "THEYYOTTUCHIRA",
+  "zone": "C"
+ },
+ {
+  "name": "53. HASANIYYA ANANGADI",
+  "place": "ANANGADI",
+  "zone": "E"
+ },
+ {
+  "name": "59. DARUL ARQAM PERINTHALMANNA",
+  "place": "PERINTHALMANNA",
+  "zone": "D"
+ },
+ {
+  "name": "60. FURQANIYYA PURAKKAD",
+  "place": "PURAKKAD",
+  "zone": "A"
+ },
+ {
+  "name": "63. MALJA'A ELAYOOR",
+  "place": "ELAYOOR",
+  "zone": "B"
+ },
+ {
+  "name": "65. HASHIMIYYA NADAPURAM",
+  "place": "NADAPURAM",
+  "zone": "A"
+ },
+ {
+  "name": "67. DARUL FALAH KALAMASSERY",
+  "place": "KALAMASSERY",
+  "zone": "E"
+ },
+ {
+  "name": "73. CSK KUTTIADY",
+  "place": "KUTTIADY",
+  "zone": "A"
+ },
+ {
+  "name": "80. STMJ PAZHAMALLUR",
+  "place": "PAZHAMALLUR",
+  "zone": "D"
  }
 ]
