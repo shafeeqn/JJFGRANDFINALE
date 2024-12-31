@@ -144,7 +144,7 @@
   "name": "അറബിക് കയ്യെഴുത്ത്",
   "engName": "ARABIC HANDWRITING",
   "cat": "J",
-  "publish": 2
+  "publish": 1
  },
  {
   "code": "20J",
@@ -284,7 +284,7 @@
   "name": "അറബിക് കാലിഗ്രഫി",
   "engName": "ARABIC CALLIGRAPHY",
   "cat": "S",
-  "publish": 2
+  "publish": 1
  },
  {
   "code": "38S",
@@ -455,7 +455,7 @@
   "name": "അറബിക് പ്രബന്ധം",
   "engName": "ARABIC ESSAY",
   "cat": "SS",
-  "publish": 2
+  "publish": 1
  },
  {
   "code": "61SS",
@@ -638,7 +638,7 @@
   "name": "പത്രനിർമ്മാണം (ഇംഗ്ലീ)",
   "engName": "NEWSPAPER ENGLISH",
   "cat": "G",
-  "publish": 1,
+  "publish": 2,
   "isGrp": 0
  },
  {
