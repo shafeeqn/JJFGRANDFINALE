@@ -840,11 +840,17 @@
  },
  {
   "code": 1607,
-  "prg": "31J"
+  "prg": "31J",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 5533,
-  "prg": "31J"
+  "prg": "31J",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 3561,
@@ -2160,23 +2166,36 @@
  },
  {
   "code": 1509,
-  "prg": "75SS"
+  "prg": "75SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2132,
-  "prg": "75SS"
+  "prg": "75SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 3424,
-  "prg": "75SS"
+  "prg": "75SS",
+  "grade": "B",
+  "pts": 8,
+  "position": 1
  },
  {
   "code": 4331,
-  "prg": "75SS"
+  "prg": "75SS",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 5509,
-  "prg": "75SS"
+  "prg": "75SS",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 1117,
