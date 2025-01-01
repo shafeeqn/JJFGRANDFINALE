@@ -454,7 +454,8 @@
       "name": "അറബിക് ഗാനം",
       "engName": "ARABIC SONG",
       "cat": "SS",
-      "isStage": 1
+      "isStage": 1,
+      "publish": 1
      },
      {
       "code": "70SS",
