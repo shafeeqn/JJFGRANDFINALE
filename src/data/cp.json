@@ -153,23 +153,37 @@
  },
  {
   "code": 1327,
-  "prg": "06SJ"
+  "prg": "06SJ",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2207,
-  "prg": "06SJ"
+  "prg": "06SJ",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 3610,
-  "prg": "06SJ"
+  "prg": "06SJ",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 4205,
-  "prg": "06SJ"
+  "prg": "06SJ",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 5108,
-  "prg": "06SJ"
+  "prg": "06SJ",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 1304,
