@@ -46,7 +46,7 @@ const Results = (props: Props) => {
               <p className="font-extrabold text-2xl text-center text-brown">GENERAL TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topGeneral?.length > 0 ? (
-                  props.topGeneral.slice(0, 3).map((topper: any) => (
+                  props.topGeneral.slice(0, 5).map((topper: any) => (
                     <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                       <div className="flex gap-2">
                         <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
@@ -72,7 +72,7 @@ const Results = (props: Props) => {
               <p className="font-extrabold text-2xl text-center text-brown">SENIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topSenior?.length > 0 ? (
-                  props.topSenior.slice(0, 3).map((topper: any) => (
+                  props.topSenior.slice(0, 5).map((topper: any) => (
                     <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                       <div className="flex gap-2">
                         <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
@@ -98,7 +98,7 @@ const Results = (props: Props) => {
               <p className="font-extrabold text-2xl text-center text-brown">JUNIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topJunior?.length > 0 ? (
-                  props.topJunior.slice(0, 3).map((topper: any) => (
+                  props.topJunior.slice(0, 5).map((topper: any) => (
                     <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                       <div className="flex gap-2">
                         <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
@@ -132,7 +132,7 @@ const Results = (props: Props) => {
               <p className="font-extrabold text-2xl text-center text-brown">SUPER SENIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topSuperSenior?.length > 0 ? (
-                  props.topSuperSenior.slice(0, 3).map((topper: any) => (
+                  props.topSuperSenior.slice(0, 5).map((topper: any) => (
                     <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                       <div className="flex gap-2">
                         <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
@@ -158,7 +158,7 @@ const Results = (props: Props) => {
               <p className="font-extrabold text-2xl text-center text-brown">SUB JUNIOR TOPPERS</p>
               <div className="flex flex-wrap p-2 gap-1">
                 {props.topSubJunior?.length > 0 ? (
-                  props.topSubJunior.slice(0, 3).map((topper: any) => (
+                  props.topSubJunior.slice(0, 5).map((topper: any) => (
                     <div className="hover:bg-ysmoke p-3 border rounded-md w-full">
                       <div className="flex gap-2">
                         <p className="text-sm bg-yellow inline font-semibold p-1 rounded-md">
