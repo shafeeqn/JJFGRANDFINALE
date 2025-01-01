@@ -29,7 +29,7 @@ const Results = (props: Props) => {
           <p className="text-center capitalize font-bold  lg:text-4xl text-brown">GRAND FINALE</p>
         </div>
       </div>
-      <div className="flex flex-col lg:flex-row w-full md:h-screen overflow-hidden mt-2">
+      <div className="flex flex-col lg:flex-row w-full md:h-screen mt-2">
 
 
         <div className="flex flex-col h-[90vh] min-w-[350px] rounded-3xl gap-4 p-3">
